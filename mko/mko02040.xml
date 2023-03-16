@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Nov 25, 2020 10:49:32 +0900 (GMT+9) -->
+<pathway name="path:mko02040" org="mko" number="02040"
+         title="Flagellar assembly"
+         image="https://www.kegg.jp/kegg/pathway/mko/mko02040.png"
+         link="https://www.kegg.jp/kegg-bin/show_pathway?mko02040">
+    <entry id="3" name="path:mko03070" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko03070">
+        <graphics name="Bacterial secretion system" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="606" y="539" width="140" height="26"/>
+    </entry>
+    <entry id="4" name="path:mko02030" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko02030">
+        <graphics name="Bacterial chemotaxis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="597" y="502" width="122" height="26"/>
+    </entry>
+    <entry id="31" name="path:mko02040" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko02040">
+        <graphics name="TITLE:Flagellar assembly" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="140" y="58" width="188" height="25"/>
+    </entry>
+    <entry id="93" name="mko:MKLM6_2704" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2704">
+        <graphics name="MKLM6_2704" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="296" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="94" name="mko:MKLM6_0546" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0546">
+        <graphics name="MKLM6_0546" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="572" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="95" name="mko:MKLM6_0547" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0547">
+        <graphics name="MKLM6_0547" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="618" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="96" name="mko:MKLM6_0545" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0545">
+        <graphics name="MKLM6_0545" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="526" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="97" name="mko:MKLM6_2705" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2705">
+        <graphics name="MKLM6_2705" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="250" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="98" name="mko:MKLM6_2706" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2706">
+        <graphics name="MKLM6_2706" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="204" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="99" name="mko:MKLM6_0544" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0544">
+        <graphics name="MKLM6_0544" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="481" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="100" name="mko:MKLM6_0543" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0543">
+        <graphics name="MKLM6_0543" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="435" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="101" name="mko:MKLM6_2707" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2707">
+        <graphics name="MKLM6_2707" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="158" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="102" name="mko:MKLM6_2708" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2708">
+        <graphics name="MKLM6_2708" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="113" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="103" name="mko:MKLM6_2703" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2703">
+        <graphics name="MKLM6_2703" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="341" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="104" name="mko:MKLM6_2709" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2709">
+        <graphics name="MKLM6_2709" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="63" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="105" name="mko:MKLM6_0542 mko:MKLM6_2452" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0542+mko:MKLM6_2452">
+        <graphics name="MKLM6_0542..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="390" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="106" name="mko:MKLM6_0548" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0548">
+        <graphics name="MKLM6_0548" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="663" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="108" name="mko:MKLM6_3680" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3680">
+        <graphics name="MKLM6_3680" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="532" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="109" name="mko:MKLM6_3681" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3681">
+        <graphics name="MKLM6_3681" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="63" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="110" name="mko:MKLM6_3679" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3679">
+        <graphics name="MKLM6_3679" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="578" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="111" name="mko:MKLM6_3686" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3686">
+        <graphics name="MKLM6_3686" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="204" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="112" name="mko:MKLM6_3688" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3688">
+        <graphics name="MKLM6_3688" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="295" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="113" name="mko:MKLM6_3687" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3687">
+        <graphics name="MKLM6_3687" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="250" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="114" name="mko:MKLM6_3693" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3693">
+        <graphics name="MKLM6_3693" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="533" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="115" name="mko:MKLM6_3694" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3694">
+        <graphics name="MKLM6_3694" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="581" y="690" width="49" height="17"/>
+    </entry>
+    <entry id="116" name="mko:MKLM6_3685" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3685">
+        <graphics name="MKLM6_3685" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="158" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="117" name="mko:MKLM6_3684" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3684">
+        <graphics name="MKLM6_3684" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="112" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="118" name="mko:MKLM6_3691" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3691">
+        <graphics name="MKLM6_3691" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="433" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="119" name="mko:MKLM6_3690" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3690">
+        <graphics name="MKLM6_3690" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="387" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="120" name="mko:MKLM6_3689" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3689">
+        <graphics name="MKLM6_3689" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="341" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="121" name="mko:MKLM6_3692" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3692">
+        <graphics name="MKLM6_3692" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="479" y="690" width="46" height="17"/>
+    </entry>
+    <entry id="123" name="ko:K24344" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K24344">
+        <graphics name="K24344" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="63" y="744" width="46" height="17"/>
+    </entry>
+    <entry id="124" name="mko:MKLM6_2937" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2937">
+        <graphics name="MKLM6_2937" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="109" y="744" width="46" height="17"/>
+    </entry>
+    <entry id="125" name="ko:K24346" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K24346">
+        <graphics name="K24346" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="155" y="744" width="46" height="17"/>
+    </entry>
+    <entry id="126" name="ko:K24343" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K24343">
+        <graphics name="K24343" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="201" y="744" width="46" height="17"/>
+    </entry>
+    <entry id="127" name="ko:K21218" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K21218">
+        <graphics name="K21218" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="310" y="744" width="46" height="17"/>
+    </entry>
+    <entry id="128" name="ko:K21217" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K21217">
+        <graphics name="K21217" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="261" y="744" width="46" height="17"/>
+    </entry>
+    <entry id="129" name="ko:K02423" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K02423">
+        <graphics name="K02423" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="209" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="130" name="mko:MKLM6_3547" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3547">
+        <graphics name="MKLM6_3547" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="163" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="131" name="mko:MKLM6_0951 mko:MKLM6_3550" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0951+mko:MKLM6_3550">
+        <graphics name="MKLM6_0951..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="63" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="132" name="mko:MKLM6_3548" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3548">
+        <graphics name="MKLM6_3548" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="118" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="133" name="ko:K02425" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K02425">
+        <graphics name="K02425" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="674" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="134" name="ko:K02424" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K02424">
+        <graphics name="K02424" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="628" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="135" name="mko:MKLM6_0550" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0550">
+        <graphics name="MKLM6_0550" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="762" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="136" name="mko:MKLM6_0549" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0549">
+        <graphics name="MKLM6_0549" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="808" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="137" name="ko:K03516" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K03516">
+        <graphics name="K03516" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="716" y="628" width="46" height="17"/>
+    </entry>
+    <entry id="142" name="mko:MKLM6_2231" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2231">
+        <graphics name="MKLM6_2231" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="264" y="908" width="46" height="17"/>
+    </entry>
+    <entry id="143" name="ko:K02403" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K02403">
+        <graphics name="K02403" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="264" y="931" width="46" height="17"/>
+    </entry>
+    <entry id="144" name="ko:K02402" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K02402">
+        <graphics name="K02402" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="264" y="948" width="46" height="17"/>
+    </entry>
+    <entry id="147" name="mko:MKLM6_2710" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_2710">
+        <graphics name="MKLM6_2710" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="557" y="1002" width="46" height="17"/>
+    </entry>
+    <entry id="148" name="mko:MKLM6_0553" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0553">
+        <graphics name="MKLM6_0553" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="698" y="1000" width="46" height="17"/>
+    </entry>
+    <entry id="151" name="mko:MKLM6_0605 mko:MKLM6_2316" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0605+mko:MKLM6_2316">
+        <graphics name="MKLM6_0605..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="187" y="941" width="46" height="17"/>
+    </entry>
+    <entry id="152" name="mko:MKLM6_3908" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_3908">
+        <graphics name="MKLM6_3908" fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="342" y="887" width="46" height="17"/>
+    </entry>
+    <entry id="153" name="mko:MKLM6_0236 mko:MKLM6_0558" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0236+mko:MKLM6_0558">
+        <graphics name="MKLM6_0236..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="302" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="154" name="mko:MKLM6_0235 mko:MKLM6_0559" type="gene"
+        link="https://www.kegg.jp/dbget-bin/www_bget?mko:MKLM6_0235+mko:MKLM6_0559">
+        <graphics name="MKLM6_0235..." fgcolor="#000000" bgcolor="#BFFFBF"
+             type="rectangle" x="348" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="155" name="ko:K10564" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K10564">
+        <graphics name="K10564" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="394" y="805" width="46" height="17"/>
+    </entry>
+    <entry id="156" name="ko:K10565" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K10565">
+        <graphics name="K10565" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="440" y="805" width="46" height="17"/>
+    </entry>
+</pathway>
