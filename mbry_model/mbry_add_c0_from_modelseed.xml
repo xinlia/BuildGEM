@@ -10960,6 +10960,7 @@
           <speciesReference species="M_cpd14546_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd21479_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd00001_c0" stoichiometry="2" constant="true"/>
+          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_B1812_05260"/>
@@ -12166,6 +12167,7 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd03520_c0" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cpd00067_c0" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_B1812_10235"/>
@@ -12558,6 +12560,7 @@
           <speciesReference species="M_cpd08375_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd00011_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd00019_c0" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_B1812_19510"/>
@@ -12570,7 +12573,6 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd00019_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd14961_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -13599,6 +13601,7 @@
         <listOfReactants>
           <speciesReference species="M_cpd00239_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd19168_c0" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd20940_c0" stoichiometry="1" constant="true"/>
@@ -14615,24 +14618,24 @@
       <fbc:objective fbc:id="obj" fbc:type="maximize"/>
     </fbc:listOfObjectives>
     <fbc:listOfGeneProducts>
-      <fbc:geneProduct fbc:id="G_B1812_11395" fbc:name="G_B1812_11395" fbc:label="G_B1812_11395"/>
       <fbc:geneProduct fbc:id="G_B1812_09170" fbc:name="G_B1812_09170" fbc:label="G_B1812_09170"/>
+      <fbc:geneProduct fbc:id="G_B1812_11395" fbc:name="G_B1812_11395" fbc:label="G_B1812_11395"/>
       <fbc:geneProduct fbc:id="G_B1812_01610" fbc:name="G_B1812_01610" fbc:label="G_B1812_01610"/>
       <fbc:geneProduct fbc:id="G_B1812_03385" fbc:name="G_B1812_03385" fbc:label="G_B1812_03385"/>
       <fbc:geneProduct fbc:id="G_B1812_18345" fbc:name="G_B1812_18345" fbc:label="G_B1812_18345"/>
       <fbc:geneProduct fbc:id="G_B1812_18230" fbc:name="G_B1812_18230" fbc:label="G_B1812_18230"/>
       <fbc:geneProduct fbc:id="G_B1812_18235" fbc:name="G_B1812_18235" fbc:label="G_B1812_18235"/>
       <fbc:geneProduct fbc:id="G_B1812_10465" fbc:name="G_B1812_10465" fbc:label="G_B1812_10465"/>
-      <fbc:geneProduct fbc:id="G_B1812_06770" fbc:name="G_B1812_06770" fbc:label="G_B1812_06770"/>
       <fbc:geneProduct fbc:id="G_B1812_06945" fbc:name="G_B1812_06945" fbc:label="G_B1812_06945"/>
+      <fbc:geneProduct fbc:id="G_B1812_06770" fbc:name="G_B1812_06770" fbc:label="G_B1812_06770"/>
       <fbc:geneProduct fbc:id="G_B1812_10045" fbc:name="G_B1812_10045" fbc:label="G_B1812_10045"/>
       <fbc:geneProduct fbc:id="G_B1812_08650" fbc:name="G_B1812_08650" fbc:label="G_B1812_08650"/>
       <fbc:geneProduct fbc:id="G_B1812_20140" fbc:name="G_B1812_20140" fbc:label="G_B1812_20140"/>
       <fbc:geneProduct fbc:id="G_B1812_12285" fbc:name="G_B1812_12285" fbc:label="G_B1812_12285"/>
       <fbc:geneProduct fbc:id="G_B1812_03480" fbc:name="G_B1812_03480" fbc:label="G_B1812_03480"/>
       <fbc:geneProduct fbc:id="G_B1812_09340" fbc:name="G_B1812_09340" fbc:label="G_B1812_09340"/>
-      <fbc:geneProduct fbc:id="G_B1812_03175" fbc:name="G_B1812_03175" fbc:label="G_B1812_03175"/>
       <fbc:geneProduct fbc:id="G_B1812_07720" fbc:name="G_B1812_07720" fbc:label="G_B1812_07720"/>
+      <fbc:geneProduct fbc:id="G_B1812_03175" fbc:name="G_B1812_03175" fbc:label="G_B1812_03175"/>
       <fbc:geneProduct fbc:id="G_B1812_02305" fbc:name="G_B1812_02305" fbc:label="G_B1812_02305"/>
       <fbc:geneProduct fbc:id="G_B1812_15765" fbc:name="G_B1812_15765" fbc:label="G_B1812_15765"/>
       <fbc:geneProduct fbc:id="G_B1812_15670" fbc:name="G_B1812_15670" fbc:label="G_B1812_15670"/>
@@ -14641,8 +14644,8 @@
       <fbc:geneProduct fbc:id="G_B1812_04775" fbc:name="G_B1812_04775" fbc:label="G_B1812_04775"/>
       <fbc:geneProduct fbc:id="G_B1812_19060" fbc:name="G_B1812_19060" fbc:label="G_B1812_19060"/>
       <fbc:geneProduct fbc:id="G_B1812_11570" fbc:name="G_B1812_11570" fbc:label="G_B1812_11570"/>
-      <fbc:geneProduct fbc:id="G_B1812_13450" fbc:name="G_B1812_13450" fbc:label="G_B1812_13450"/>
       <fbc:geneProduct fbc:id="G_B1812_07075" fbc:name="G_B1812_07075" fbc:label="G_B1812_07075"/>
+      <fbc:geneProduct fbc:id="G_B1812_13450" fbc:name="G_B1812_13450" fbc:label="G_B1812_13450"/>
       <fbc:geneProduct fbc:id="G_B1812_03055" fbc:name="G_B1812_03055" fbc:label="G_B1812_03055"/>
       <fbc:geneProduct fbc:id="G_B1812_18215" fbc:name="G_B1812_18215" fbc:label="G_B1812_18215"/>
       <fbc:geneProduct fbc:id="G_B1812_11095" fbc:name="G_B1812_11095" fbc:label="G_B1812_11095"/>
@@ -14656,20 +14659,20 @@
       <fbc:geneProduct fbc:id="G_B1812_09145" fbc:name="G_B1812_09145" fbc:label="G_B1812_09145"/>
       <fbc:geneProduct fbc:id="G_B1812_12670" fbc:name="G_B1812_12670" fbc:label="G_B1812_12670"/>
       <fbc:geneProduct fbc:id="G_B1812_20510" fbc:name="G_B1812_20510" fbc:label="G_B1812_20510"/>
-      <fbc:geneProduct fbc:id="G_B1812_14585" fbc:name="G_B1812_14585" fbc:label="G_B1812_14585"/>
-      <fbc:geneProduct fbc:id="G_B1812_04995" fbc:name="G_B1812_04995" fbc:label="G_B1812_04995"/>
       <fbc:geneProduct fbc:id="G_B1812_14595" fbc:name="G_B1812_14595" fbc:label="G_B1812_14595"/>
-      <fbc:geneProduct fbc:id="G_B1812_05065" fbc:name="G_B1812_05065" fbc:label="G_B1812_05065"/>
+      <fbc:geneProduct fbc:id="G_B1812_04995" fbc:name="G_B1812_04995" fbc:label="G_B1812_04995"/>
+      <fbc:geneProduct fbc:id="G_B1812_14585" fbc:name="G_B1812_14585" fbc:label="G_B1812_14585"/>
       <fbc:geneProduct fbc:id="G_B1812_03000" fbc:name="G_B1812_03000" fbc:label="G_B1812_03000"/>
-      <fbc:geneProduct fbc:id="G_B1812_21435" fbc:name="G_B1812_21435" fbc:label="G_B1812_21435"/>
+      <fbc:geneProduct fbc:id="G_B1812_05065" fbc:name="G_B1812_05065" fbc:label="G_B1812_05065"/>
+      <fbc:geneProduct fbc:id="G_B1812_21440" fbc:name="G_B1812_21440" fbc:label="G_B1812_21440"/>
       <fbc:geneProduct fbc:id="G_B1812_02725" fbc:name="G_B1812_02725" fbc:label="G_B1812_02725"/>
       <fbc:geneProduct fbc:id="G_B1812_07725" fbc:name="G_B1812_07725" fbc:label="G_B1812_07725"/>
-      <fbc:geneProduct fbc:id="G_B1812_21440" fbc:name="G_B1812_21440" fbc:label="G_B1812_21440"/>
+      <fbc:geneProduct fbc:id="G_B1812_21435" fbc:name="G_B1812_21435" fbc:label="G_B1812_21435"/>
       <fbc:geneProduct fbc:id="G_B1812_13950" fbc:name="G_B1812_13950" fbc:label="G_B1812_13950"/>
       <fbc:geneProduct fbc:id="G_B1812_08880" fbc:name="G_B1812_08880" fbc:label="G_B1812_08880"/>
       <fbc:geneProduct fbc:id="G_B1812_07715" fbc:name="G_B1812_07715" fbc:label="G_B1812_07715"/>
-      <fbc:geneProduct fbc:id="G_B1812_07700" fbc:name="G_B1812_07700" fbc:label="G_B1812_07700"/>
       <fbc:geneProduct fbc:id="G_B1812_00445" fbc:name="G_B1812_00445" fbc:label="G_B1812_00445"/>
+      <fbc:geneProduct fbc:id="G_B1812_07700" fbc:name="G_B1812_07700" fbc:label="G_B1812_07700"/>
       <fbc:geneProduct fbc:id="G_B1812_07710" fbc:name="G_B1812_07710" fbc:label="G_B1812_07710"/>
       <fbc:geneProduct fbc:id="G_B1812_15895" fbc:name="G_B1812_15895" fbc:label="G_B1812_15895"/>
       <fbc:geneProduct fbc:id="G_B1812_18100" fbc:name="G_B1812_18100" fbc:label="G_B1812_18100"/>
@@ -14681,8 +14684,8 @@
       <fbc:geneProduct fbc:id="G_B1812_17905" fbc:name="G_B1812_17905" fbc:label="G_B1812_17905"/>
       <fbc:geneProduct fbc:id="G_B1812_21410" fbc:name="G_B1812_21410" fbc:label="G_B1812_21410"/>
       <fbc:geneProduct fbc:id="G_B1812_17900" fbc:name="G_B1812_17900" fbc:label="G_B1812_17900"/>
-      <fbc:geneProduct fbc:id="G_B1812_09585" fbc:name="G_B1812_09585" fbc:label="G_B1812_09585"/>
       <fbc:geneProduct fbc:id="G_B1812_17370" fbc:name="G_B1812_17370" fbc:label="G_B1812_17370"/>
+      <fbc:geneProduct fbc:id="G_B1812_09585" fbc:name="G_B1812_09585" fbc:label="G_B1812_09585"/>
       <fbc:geneProduct fbc:id="G_B1812_16095" fbc:name="G_B1812_16095" fbc:label="G_B1812_16095"/>
       <fbc:geneProduct fbc:id="G_B1812_16100" fbc:name="G_B1812_16100" fbc:label="G_B1812_16100"/>
       <fbc:geneProduct fbc:id="G_B1812_16105" fbc:name="G_B1812_16105" fbc:label="G_B1812_16105"/>
@@ -14692,27 +14695,27 @@
       <fbc:geneProduct fbc:id="G_B1812_20455" fbc:name="G_B1812_20455" fbc:label="G_B1812_20455"/>
       <fbc:geneProduct fbc:id="G_B1812_14810" fbc:name="G_B1812_14810" fbc:label="G_B1812_14810"/>
       <fbc:geneProduct fbc:id="G_B1812_18780" fbc:name="G_B1812_18780" fbc:label="G_B1812_18780"/>
-      <fbc:geneProduct fbc:id="G_B1812_02995" fbc:name="G_B1812_02995" fbc:label="G_B1812_02995"/>
       <fbc:geneProduct fbc:id="G_B1812_09290" fbc:name="G_B1812_09290" fbc:label="G_B1812_09290"/>
+      <fbc:geneProduct fbc:id="G_B1812_02995" fbc:name="G_B1812_02995" fbc:label="G_B1812_02995"/>
       <fbc:geneProduct fbc:id="G_B1812_21470" fbc:name="G_B1812_21470" fbc:label="G_B1812_21470"/>
       <fbc:geneProduct fbc:id="G_B1812_12255" fbc:name="G_B1812_12255" fbc:label="G_B1812_12255"/>
       <fbc:geneProduct fbc:id="G_B1812_08685" fbc:name="G_B1812_08685" fbc:label="G_B1812_08685"/>
       <fbc:geneProduct fbc:id="G_B1812_04055" fbc:name="G_B1812_04055" fbc:label="G_B1812_04055"/>
-      <fbc:geneProduct fbc:id="G_B1812_04050" fbc:name="G_B1812_04050" fbc:label="G_B1812_04050"/>
       <fbc:geneProduct fbc:id="G_B1812_11145" fbc:name="G_B1812_11145" fbc:label="G_B1812_11145"/>
+      <fbc:geneProduct fbc:id="G_B1812_04050" fbc:name="G_B1812_04050" fbc:label="G_B1812_04050"/>
       <fbc:geneProduct fbc:id="G_B1812_16160" fbc:name="G_B1812_16160" fbc:label="G_B1812_16160"/>
       <fbc:geneProduct fbc:id="G_B1812_12260" fbc:name="G_B1812_12260" fbc:label="G_B1812_12260"/>
       <fbc:geneProduct fbc:id="G_B1812_15715" fbc:name="G_B1812_15715" fbc:label="G_B1812_15715"/>
       <fbc:geneProduct fbc:id="G_B1812_13945" fbc:name="G_B1812_13945" fbc:label="G_B1812_13945"/>
-      <fbc:geneProduct fbc:id="G_B1812_03800" fbc:name="G_B1812_03800" fbc:label="G_B1812_03800"/>
       <fbc:geneProduct fbc:id="G_B1812_14705" fbc:name="G_B1812_14705" fbc:label="G_B1812_14705"/>
+      <fbc:geneProduct fbc:id="G_B1812_03800" fbc:name="G_B1812_03800" fbc:label="G_B1812_03800"/>
       <fbc:geneProduct fbc:id="G_B1812_13225" fbc:name="G_B1812_13225" fbc:label="G_B1812_13225"/>
-      <fbc:geneProduct fbc:id="G_B1812_05275" fbc:name="G_B1812_05275" fbc:label="G_B1812_05275"/>
       <fbc:geneProduct fbc:id="G_B1812_16410" fbc:name="G_B1812_16410" fbc:label="G_B1812_16410"/>
+      <fbc:geneProduct fbc:id="G_B1812_05275" fbc:name="G_B1812_05275" fbc:label="G_B1812_05275"/>
       <fbc:geneProduct fbc:id="G_B1812_17055" fbc:name="G_B1812_17055" fbc:label="G_B1812_17055"/>
-      <fbc:geneProduct fbc:id="G_B1812_02625" fbc:name="G_B1812_02625" fbc:label="G_B1812_02625"/>
-      <fbc:geneProduct fbc:id="G_B1812_13220" fbc:name="G_B1812_13220" fbc:label="G_B1812_13220"/>
       <fbc:geneProduct fbc:id="G_B1812_16415" fbc:name="G_B1812_16415" fbc:label="G_B1812_16415"/>
+      <fbc:geneProduct fbc:id="G_B1812_13220" fbc:name="G_B1812_13220" fbc:label="G_B1812_13220"/>
+      <fbc:geneProduct fbc:id="G_B1812_02625" fbc:name="G_B1812_02625" fbc:label="G_B1812_02625"/>
       <fbc:geneProduct fbc:id="G_B1812_17095" fbc:name="G_B1812_17095" fbc:label="G_B1812_17095"/>
       <fbc:geneProduct fbc:id="G_B1812_07120" fbc:name="G_B1812_07120" fbc:label="G_B1812_07120"/>
       <fbc:geneProduct fbc:id="G_B1812_16355" fbc:name="G_B1812_16355" fbc:label="G_B1812_16355"/>
@@ -14739,12 +14742,12 @@
       <fbc:geneProduct fbc:id="G_B1812_13560" fbc:name="G_B1812_13560" fbc:label="G_B1812_13560"/>
       <fbc:geneProduct fbc:id="G_B1812_17235" fbc:name="G_B1812_17235" fbc:label="G_B1812_17235"/>
       <fbc:geneProduct fbc:id="G_B1812_15805" fbc:name="G_B1812_15805" fbc:label="G_B1812_15805"/>
-      <fbc:geneProduct fbc:id="G_B1812_06715" fbc:name="G_B1812_06715" fbc:label="G_B1812_06715"/>
       <fbc:geneProduct fbc:id="G_B1812_02760" fbc:name="G_B1812_02760" fbc:label="G_B1812_02760"/>
-      <fbc:geneProduct fbc:id="G_B1812_19545" fbc:name="G_B1812_19545" fbc:label="G_B1812_19545"/>
-      <fbc:geneProduct fbc:id="G_B1812_00695" fbc:name="G_B1812_00695" fbc:label="G_B1812_00695"/>
-      <fbc:geneProduct fbc:id="G_B1812_08810" fbc:name="G_B1812_08810" fbc:label="G_B1812_08810"/>
       <fbc:geneProduct fbc:id="G_B1812_01915" fbc:name="G_B1812_01915" fbc:label="G_B1812_01915"/>
+      <fbc:geneProduct fbc:id="G_B1812_19545" fbc:name="G_B1812_19545" fbc:label="G_B1812_19545"/>
+      <fbc:geneProduct fbc:id="G_B1812_06715" fbc:name="G_B1812_06715" fbc:label="G_B1812_06715"/>
+      <fbc:geneProduct fbc:id="G_B1812_08810" fbc:name="G_B1812_08810" fbc:label="G_B1812_08810"/>
+      <fbc:geneProduct fbc:id="G_B1812_00695" fbc:name="G_B1812_00695" fbc:label="G_B1812_00695"/>
       <fbc:geneProduct fbc:id="G_B1812_15630" fbc:name="G_B1812_15630" fbc:label="G_B1812_15630"/>
       <fbc:geneProduct fbc:id="G_B1812_17680" fbc:name="G_B1812_17680" fbc:label="G_B1812_17680"/>
       <fbc:geneProduct fbc:id="G_B1812_18850" fbc:name="G_B1812_18850" fbc:label="G_B1812_18850"/>
@@ -14761,13 +14764,13 @@
       <fbc:geneProduct fbc:id="G_B1812_12360" fbc:name="G_B1812_12360" fbc:label="G_B1812_12360"/>
       <fbc:geneProduct fbc:id="G_B1812_00450" fbc:name="G_B1812_00450" fbc:label="G_B1812_00450"/>
       <fbc:geneProduct fbc:id="G_B1812_12370" fbc:name="G_B1812_12370" fbc:label="G_B1812_12370"/>
-      <fbc:geneProduct fbc:id="G_B1812_13660" fbc:name="G_B1812_13660" fbc:label="G_B1812_13660"/>
       <fbc:geneProduct fbc:id="G_B1812_07140" fbc:name="G_B1812_07140" fbc:label="G_B1812_07140"/>
-      <fbc:geneProduct fbc:id="G_B1812_19065" fbc:name="G_B1812_19065" fbc:label="G_B1812_19065"/>
+      <fbc:geneProduct fbc:id="G_B1812_13660" fbc:name="G_B1812_13660" fbc:label="G_B1812_13660"/>
       <fbc:geneProduct fbc:id="G_B1812_19070" fbc:name="G_B1812_19070" fbc:label="G_B1812_19070"/>
+      <fbc:geneProduct fbc:id="G_B1812_19065" fbc:name="G_B1812_19065" fbc:label="G_B1812_19065"/>
       <fbc:geneProduct fbc:id="G_B1812_14625" fbc:name="G_B1812_14625" fbc:label="G_B1812_14625"/>
-      <fbc:geneProduct fbc:id="G_B1812_05705" fbc:name="G_B1812_05705" fbc:label="G_B1812_05705"/>
       <fbc:geneProduct fbc:id="G_B1812_12010" fbc:name="G_B1812_12010" fbc:label="G_B1812_12010"/>
+      <fbc:geneProduct fbc:id="G_B1812_05705" fbc:name="G_B1812_05705" fbc:label="G_B1812_05705"/>
       <fbc:geneProduct fbc:id="G_B1812_11780" fbc:name="G_B1812_11780" fbc:label="G_B1812_11780"/>
       <fbc:geneProduct fbc:id="G_B1812_19965" fbc:name="G_B1812_19965" fbc:label="G_B1812_19965"/>
       <fbc:geneProduct fbc:id="G_B1812_19640" fbc:name="G_B1812_19640" fbc:label="G_B1812_19640"/>
@@ -14784,8 +14787,8 @@
       <fbc:geneProduct fbc:id="G_B1812_07215" fbc:name="G_B1812_07215" fbc:label="G_B1812_07215"/>
       <fbc:geneProduct fbc:id="G_B1812_12220" fbc:name="G_B1812_12220" fbc:label="G_B1812_12220"/>
       <fbc:geneProduct fbc:id="G_B1812_12335" fbc:name="G_B1812_12335" fbc:label="G_B1812_12335"/>
-      <fbc:geneProduct fbc:id="G_B1812_15085" fbc:name="G_B1812_15085" fbc:label="G_B1812_15085"/>
       <fbc:geneProduct fbc:id="G_B1812_03560" fbc:name="G_B1812_03560" fbc:label="G_B1812_03560"/>
+      <fbc:geneProduct fbc:id="G_B1812_15085" fbc:name="G_B1812_15085" fbc:label="G_B1812_15085"/>
       <fbc:geneProduct fbc:id="G_B1812_21235" fbc:name="G_B1812_21235" fbc:label="G_B1812_21235"/>
       <fbc:geneProduct fbc:id="G_B1812_02220" fbc:name="G_B1812_02220" fbc:label="G_B1812_02220"/>
       <fbc:geneProduct fbc:id="G_B1812_10445" fbc:name="G_B1812_10445" fbc:label="G_B1812_10445"/>
@@ -14799,8 +14802,8 @@
       <fbc:geneProduct fbc:id="G_B1812_17505" fbc:name="G_B1812_17505" fbc:label="G_B1812_17505"/>
       <fbc:geneProduct fbc:id="G_B1812_05090" fbc:name="G_B1812_05090" fbc:label="G_B1812_05090"/>
       <fbc:geneProduct fbc:id="G_B1812_10935" fbc:name="G_B1812_10935" fbc:label="G_B1812_10935"/>
-      <fbc:geneProduct fbc:id="G_B1812_00470" fbc:name="G_B1812_00470" fbc:label="G_B1812_00470"/>
       <fbc:geneProduct fbc:id="G_B1812_18715" fbc:name="G_B1812_18715" fbc:label="G_B1812_18715"/>
+      <fbc:geneProduct fbc:id="G_B1812_00470" fbc:name="G_B1812_00470" fbc:label="G_B1812_00470"/>
       <fbc:geneProduct fbc:id="G_B1812_02890" fbc:name="G_B1812_02890" fbc:label="G_B1812_02890"/>
       <fbc:geneProduct fbc:id="G_B1812_10420" fbc:name="G_B1812_10420" fbc:label="G_B1812_10420"/>
       <fbc:geneProduct fbc:id="G_B1812_21605" fbc:name="G_B1812_21605" fbc:label="G_B1812_21605"/>
@@ -14811,25 +14814,25 @@
       <fbc:geneProduct fbc:id="G_B1812_17090" fbc:name="G_B1812_17090" fbc:label="G_B1812_17090"/>
       <fbc:geneProduct fbc:id="G_B1812_08320" fbc:name="G_B1812_08320" fbc:label="G_B1812_08320"/>
       <fbc:geneProduct fbc:id="G_B1812_08300" fbc:name="G_B1812_08300" fbc:label="G_B1812_08300"/>
-      <fbc:geneProduct fbc:id="G_B1812_20575" fbc:name="G_B1812_20575" fbc:label="G_B1812_20575"/>
       <fbc:geneProduct fbc:id="G_B1812_07245" fbc:name="G_B1812_07245" fbc:label="G_B1812_07245"/>
+      <fbc:geneProduct fbc:id="G_B1812_20575" fbc:name="G_B1812_20575" fbc:label="G_B1812_20575"/>
       <fbc:geneProduct fbc:id="G_B1812_00100" fbc:name="G_B1812_00100" fbc:label="G_B1812_00100"/>
       <fbc:geneProduct fbc:id="G_B1812_09135" fbc:name="G_B1812_09135" fbc:label="G_B1812_09135"/>
       <fbc:geneProduct fbc:id="G_B1812_15795" fbc:name="G_B1812_15795" fbc:label="G_B1812_15795"/>
       <fbc:geneProduct fbc:id="G_B1812_05215" fbc:name="G_B1812_05215" fbc:label="G_B1812_05215"/>
       <fbc:geneProduct fbc:id="G_B1812_02900" fbc:name="G_B1812_02900" fbc:label="G_B1812_02900"/>
-      <fbc:geneProduct fbc:id="G_B1812_05585" fbc:name="G_B1812_05585" fbc:label="G_B1812_05585"/>
       <fbc:geneProduct fbc:id="G_B1812_20730" fbc:name="G_B1812_20730" fbc:label="G_B1812_20730"/>
+      <fbc:geneProduct fbc:id="G_B1812_05585" fbc:name="G_B1812_05585" fbc:label="G_B1812_05585"/>
       <fbc:geneProduct fbc:id="G_B1812_00960" fbc:name="G_B1812_00960" fbc:label="G_B1812_00960"/>
-      <fbc:geneProduct fbc:id="G_B1812_08060" fbc:name="G_B1812_08060" fbc:label="G_B1812_08060"/>
       <fbc:geneProduct fbc:id="G_B1812_02235" fbc:name="G_B1812_02235" fbc:label="G_B1812_02235"/>
+      <fbc:geneProduct fbc:id="G_B1812_08060" fbc:name="G_B1812_08060" fbc:label="G_B1812_08060"/>
       <fbc:geneProduct fbc:id="G_B1812_02910" fbc:name="G_B1812_02910" fbc:label="G_B1812_02910"/>
       <fbc:geneProduct fbc:id="G_B1812_06130" fbc:name="G_B1812_06130" fbc:label="G_B1812_06130"/>
-      <fbc:geneProduct fbc:id="G_B1812_11140" fbc:name="G_B1812_11140" fbc:label="G_B1812_11140"/>
       <fbc:geneProduct fbc:id="G_B1812_10510" fbc:name="G_B1812_10510" fbc:label="G_B1812_10510"/>
+      <fbc:geneProduct fbc:id="G_B1812_11140" fbc:name="G_B1812_11140" fbc:label="G_B1812_11140"/>
       <fbc:geneProduct fbc:id="G_B1812_08655" fbc:name="G_B1812_08655" fbc:label="G_B1812_08655"/>
-      <fbc:geneProduct fbc:id="G_B1812_00340" fbc:name="G_B1812_00340" fbc:label="G_B1812_00340"/>
       <fbc:geneProduct fbc:id="G_B1812_13785" fbc:name="G_B1812_13785" fbc:label="G_B1812_13785"/>
+      <fbc:geneProduct fbc:id="G_B1812_00340" fbc:name="G_B1812_00340" fbc:label="G_B1812_00340"/>
       <fbc:geneProduct fbc:id="G_B1812_12235" fbc:name="G_B1812_12235" fbc:label="G_B1812_12235"/>
       <fbc:geneProduct fbc:id="G_B1812_01605" fbc:name="G_B1812_01605" fbc:label="G_B1812_01605"/>
       <fbc:geneProduct fbc:id="G_B1812_10740" fbc:name="G_B1812_10740" fbc:label="G_B1812_10740"/>
@@ -14840,19 +14843,19 @@
       <fbc:geneProduct fbc:id="G_B1812_14255" fbc:name="G_B1812_14255" fbc:label="G_B1812_14255"/>
       <fbc:geneProduct fbc:id="G_B1812_16790" fbc:name="G_B1812_16790" fbc:label="G_B1812_16790"/>
       <fbc:geneProduct fbc:id="G_B1812_21150" fbc:name="G_B1812_21150" fbc:label="G_B1812_21150"/>
+      <fbc:geneProduct fbc:id="G_B1812_18885" fbc:name="G_B1812_18885" fbc:label="G_B1812_18885"/>
       <fbc:geneProduct fbc:id="G_B1812_04185" fbc:name="G_B1812_04185" fbc:label="G_B1812_04185"/>
       <fbc:geneProduct fbc:id="G_B1812_20270" fbc:name="G_B1812_20270" fbc:label="G_B1812_20270"/>
-      <fbc:geneProduct fbc:id="G_B1812_18885" fbc:name="G_B1812_18885" fbc:label="G_B1812_18885"/>
+      <fbc:geneProduct fbc:id="G_B1812_05645" fbc:name="G_B1812_05645" fbc:label="G_B1812_05645"/>
       <fbc:geneProduct fbc:id="G_B1812_09455" fbc:name="G_B1812_09455" fbc:label="G_B1812_09455"/>
       <fbc:geneProduct fbc:id="G_B1812_18865" fbc:name="G_B1812_18865" fbc:label="G_B1812_18865"/>
       <fbc:geneProduct fbc:id="G_B1812_07900" fbc:name="G_B1812_07900" fbc:label="G_B1812_07900"/>
-      <fbc:geneProduct fbc:id="G_B1812_05645" fbc:name="G_B1812_05645" fbc:label="G_B1812_05645"/>
-      <fbc:geneProduct fbc:id="G_B1812_03870" fbc:name="G_B1812_03870" fbc:label="G_B1812_03870"/>
       <fbc:geneProduct fbc:id="G_B1812_08070" fbc:name="G_B1812_08070" fbc:label="G_B1812_08070"/>
+      <fbc:geneProduct fbc:id="G_B1812_03870" fbc:name="G_B1812_03870" fbc:label="G_B1812_03870"/>
       <fbc:geneProduct fbc:id="G_B1812_12630" fbc:name="G_B1812_12630" fbc:label="G_B1812_12630"/>
       <fbc:geneProduct fbc:id="G_B1812_09300" fbc:name="G_B1812_09300" fbc:label="G_B1812_09300"/>
-      <fbc:geneProduct fbc:id="G_B1812_10700" fbc:name="G_B1812_10700" fbc:label="G_B1812_10700"/>
       <fbc:geneProduct fbc:id="G_B1812_01580" fbc:name="G_B1812_01580" fbc:label="G_B1812_01580"/>
+      <fbc:geneProduct fbc:id="G_B1812_10700" fbc:name="G_B1812_10700" fbc:label="G_B1812_10700"/>
       <fbc:geneProduct fbc:id="G_B1812_09295" fbc:name="G_B1812_09295" fbc:label="G_B1812_09295"/>
       <fbc:geneProduct fbc:id="G_B1812_02095" fbc:name="G_B1812_02095" fbc:label="G_B1812_02095"/>
       <fbc:geneProduct fbc:id="G_B1812_16420" fbc:name="G_B1812_16420" fbc:label="G_B1812_16420"/>
@@ -14865,25 +14868,25 @@
       <fbc:geneProduct fbc:id="G_B1812_09305" fbc:name="G_B1812_09305" fbc:label="G_B1812_09305"/>
       <fbc:geneProduct fbc:id="G_B1812_19775" fbc:name="G_B1812_19775" fbc:label="G_B1812_19775"/>
       <fbc:geneProduct fbc:id="G_B1812_16430" fbc:name="G_B1812_16430" fbc:label="G_B1812_16430"/>
-      <fbc:geneProduct fbc:id="G_B1812_11465" fbc:name="G_B1812_11465" fbc:label="G_B1812_11465"/>
       <fbc:geneProduct fbc:id="G_B1812_09640" fbc:name="G_B1812_09640" fbc:label="G_B1812_09640"/>
+      <fbc:geneProduct fbc:id="G_B1812_11465" fbc:name="G_B1812_11465" fbc:label="G_B1812_11465"/>
       <fbc:geneProduct fbc:id="G_B1812_01100" fbc:name="G_B1812_01100" fbc:label="G_B1812_01100"/>
       <fbc:geneProduct fbc:id="G_B1812_10815" fbc:name="G_B1812_10815" fbc:label="G_B1812_10815"/>
       <fbc:geneProduct fbc:id="G_B1812_15435" fbc:name="G_B1812_15435" fbc:label="G_B1812_15435"/>
       <fbc:geneProduct fbc:id="G_B1812_16345" fbc:name="G_B1812_16345" fbc:label="G_B1812_16345"/>
       <fbc:geneProduct fbc:id="G_B1812_16375" fbc:name="G_B1812_16375" fbc:label="G_B1812_16375"/>
-      <fbc:geneProduct fbc:id="G_B1812_14270" fbc:name="G_B1812_14270" fbc:label="G_B1812_14270"/>
       <fbc:geneProduct fbc:id="G_B1812_03595" fbc:name="G_B1812_03595" fbc:label="G_B1812_03595"/>
+      <fbc:geneProduct fbc:id="G_B1812_14270" fbc:name="G_B1812_14270" fbc:label="G_B1812_14270"/>
       <fbc:geneProduct fbc:id="G_B1812_12005" fbc:name="G_B1812_12005" fbc:label="G_B1812_12005"/>
-      <fbc:geneProduct fbc:id="G_B1812_12695" fbc:name="G_B1812_12695" fbc:label="G_B1812_12695"/>
       <fbc:geneProduct fbc:id="G_B1812_10140" fbc:name="G_B1812_10140" fbc:label="G_B1812_10140"/>
+      <fbc:geneProduct fbc:id="G_B1812_12695" fbc:name="G_B1812_12695" fbc:label="G_B1812_12695"/>
       <fbc:geneProduct fbc:id="G_B1812_12315" fbc:name="G_B1812_12315" fbc:label="G_B1812_12315"/>
       <fbc:geneProduct fbc:id="G_B1812_10275" fbc:name="G_B1812_10275" fbc:label="G_B1812_10275"/>
-      <fbc:geneProduct fbc:id="G_B1812_03430" fbc:name="G_B1812_03430" fbc:label="G_B1812_03430"/>
       <fbc:geneProduct fbc:id="G_B1812_18325" fbc:name="G_B1812_18325" fbc:label="G_B1812_18325"/>
+      <fbc:geneProduct fbc:id="G_B1812_03430" fbc:name="G_B1812_03430" fbc:label="G_B1812_03430"/>
       <fbc:geneProduct fbc:id="G_B1812_17145" fbc:name="G_B1812_17145" fbc:label="G_B1812_17145"/>
-      <fbc:geneProduct fbc:id="G_B1812_19675" fbc:name="G_B1812_19675" fbc:label="G_B1812_19675"/>
       <fbc:geneProduct fbc:id="G_B1812_19980" fbc:name="G_B1812_19980" fbc:label="G_B1812_19980"/>
+      <fbc:geneProduct fbc:id="G_B1812_19675" fbc:name="G_B1812_19675" fbc:label="G_B1812_19675"/>
       <fbc:geneProduct fbc:id="G_B1812_19990" fbc:name="G_B1812_19990" fbc:label="G_B1812_19990"/>
       <fbc:geneProduct fbc:id="G_B1812_11700" fbc:name="G_B1812_11700" fbc:label="G_B1812_11700"/>
       <fbc:geneProduct fbc:id="G_B1812_02260" fbc:name="G_B1812_02260" fbc:label="G_B1812_02260"/>
@@ -14902,8 +14905,8 @@
       <fbc:geneProduct fbc:id="G_B1812_21295" fbc:name="G_B1812_21295" fbc:label="G_B1812_21295"/>
       <fbc:geneProduct fbc:id="G_B1812_03035" fbc:name="G_B1812_03035" fbc:label="G_B1812_03035"/>
       <fbc:geneProduct fbc:id="G_B1812_03470" fbc:name="G_B1812_03470" fbc:label="G_B1812_03470"/>
-      <fbc:geneProduct fbc:id="G_B1812_12065" fbc:name="G_B1812_12065" fbc:label="G_B1812_12065"/>
       <fbc:geneProduct fbc:id="G_B1812_06960" fbc:name="G_B1812_06960" fbc:label="G_B1812_06960"/>
+      <fbc:geneProduct fbc:id="G_B1812_12065" fbc:name="G_B1812_12065" fbc:label="G_B1812_12065"/>
       <fbc:geneProduct fbc:id="G_B1812_02405" fbc:name="G_B1812_02405" fbc:label="G_B1812_02405"/>
       <fbc:geneProduct fbc:id="G_B1812_02410" fbc:name="G_B1812_02410" fbc:label="G_B1812_02410"/>
       <fbc:geneProduct fbc:id="G_B1812_17655" fbc:name="G_B1812_17655" fbc:label="G_B1812_17655"/>
@@ -14913,8 +14916,8 @@
       <fbc:geneProduct fbc:id="G_B1812_01265" fbc:name="G_B1812_01265" fbc:label="G_B1812_01265"/>
       <fbc:geneProduct fbc:id="G_B1812_18720" fbc:name="G_B1812_18720" fbc:label="G_B1812_18720"/>
       <fbc:geneProduct fbc:id="G_B1812_01275" fbc:name="G_B1812_01275" fbc:label="G_B1812_01275"/>
-      <fbc:geneProduct fbc:id="G_B1812_01270" fbc:name="G_B1812_01270" fbc:label="G_B1812_01270"/>
       <fbc:geneProduct fbc:id="G_B1812_01260" fbc:name="G_B1812_01260" fbc:label="G_B1812_01260"/>
+      <fbc:geneProduct fbc:id="G_B1812_01270" fbc:name="G_B1812_01270" fbc:label="G_B1812_01270"/>
       <fbc:geneProduct fbc:id="G_B1812_17480" fbc:name="G_B1812_17480" fbc:label="G_B1812_17480"/>
       <fbc:geneProduct fbc:id="G_B1812_02640" fbc:name="G_B1812_02640" fbc:label="G_B1812_02640"/>
       <fbc:geneProduct fbc:id="G_B1812_16360" fbc:name="G_B1812_16360" fbc:label="G_B1812_16360"/>
@@ -14922,8 +14925,8 @@
       <fbc:geneProduct fbc:id="G_B1812_07570" fbc:name="G_B1812_07570" fbc:label="G_B1812_07570"/>
       <fbc:geneProduct fbc:id="G_B1812_16370" fbc:name="G_B1812_16370" fbc:label="G_B1812_16370"/>
       <fbc:geneProduct fbc:id="G_B1812_08190" fbc:name="G_B1812_08190" fbc:label="G_B1812_08190"/>
-      <fbc:geneProduct fbc:id="G_B1812_19425" fbc:name="G_B1812_19425" fbc:label="G_B1812_19425"/>
       <fbc:geneProduct fbc:id="G_B1812_04170" fbc:name="G_B1812_04170" fbc:label="G_B1812_04170"/>
+      <fbc:geneProduct fbc:id="G_B1812_19425" fbc:name="G_B1812_19425" fbc:label="G_B1812_19425"/>
       <fbc:geneProduct fbc:id="G_B1812_04565" fbc:name="G_B1812_04565" fbc:label="G_B1812_04565"/>
       <fbc:geneProduct fbc:id="G_B1812_10340" fbc:name="G_B1812_10340" fbc:label="G_B1812_10340"/>
       <fbc:geneProduct fbc:id="G_B1812_07940" fbc:name="G_B1812_07940" fbc:label="G_B1812_07940"/>
@@ -14934,11 +14937,11 @@
       <fbc:geneProduct fbc:id="G_B1812_16005" fbc:name="G_B1812_16005" fbc:label="G_B1812_16005"/>
       <fbc:geneProduct fbc:id="G_B1812_12185" fbc:name="G_B1812_12185" fbc:label="G_B1812_12185"/>
       <fbc:geneProduct fbc:id="G_B1812_05460" fbc:name="G_B1812_05460" fbc:label="G_B1812_05460"/>
-      <fbc:geneProduct fbc:id="G_B1812_01070" fbc:name="G_B1812_01070" fbc:label="G_B1812_01070"/>
       <fbc:geneProduct fbc:id="G_B1812_12110" fbc:name="G_B1812_12110" fbc:label="G_B1812_12110"/>
+      <fbc:geneProduct fbc:id="G_B1812_01070" fbc:name="G_B1812_01070" fbc:label="G_B1812_01070"/>
       <fbc:geneProduct fbc:id="G_B1812_04280" fbc:name="G_B1812_04280" fbc:label="G_B1812_04280"/>
-      <fbc:geneProduct fbc:id="G_B1812_04260" fbc:name="G_B1812_04260" fbc:label="G_B1812_04260"/>
       <fbc:geneProduct fbc:id="G_B1812_04275" fbc:name="G_B1812_04275" fbc:label="G_B1812_04275"/>
+      <fbc:geneProduct fbc:id="G_B1812_04260" fbc:name="G_B1812_04260" fbc:label="G_B1812_04260"/>
       <fbc:geneProduct fbc:id="G_B1812_03265" fbc:name="G_B1812_03265" fbc:label="G_B1812_03265"/>
       <fbc:geneProduct fbc:id="G_B1812_17070" fbc:name="G_B1812_17070" fbc:label="G_B1812_17070"/>
       <fbc:geneProduct fbc:id="G_B1812_05295" fbc:name="G_B1812_05295" fbc:label="G_B1812_05295"/>
@@ -14948,13 +14951,13 @@
       <fbc:geneProduct fbc:id="G_B1812_12995" fbc:name="G_B1812_12995" fbc:label="G_B1812_12995"/>
       <fbc:geneProduct fbc:id="G_B1812_05185" fbc:name="G_B1812_05185" fbc:label="G_B1812_05185"/>
       <fbc:geneProduct fbc:id="G_B1812_12045" fbc:name="G_B1812_12045" fbc:label="G_B1812_12045"/>
+      <fbc:geneProduct fbc:id="G_B1812_15990" fbc:name="G_B1812_15990" fbc:label="G_B1812_15990"/>
       <fbc:geneProduct fbc:id="G_B1812_20805" fbc:name="G_B1812_20805" fbc:label="G_B1812_20805"/>
       <fbc:geneProduct fbc:id="G_B1812_11380" fbc:name="G_B1812_11380" fbc:label="G_B1812_11380"/>
-      <fbc:geneProduct fbc:id="G_B1812_15990" fbc:name="G_B1812_15990" fbc:label="G_B1812_15990"/>
       <fbc:geneProduct fbc:id="G_B1812_21010" fbc:name="G_B1812_21010" fbc:label="G_B1812_21010"/>
+      <fbc:geneProduct fbc:id="G_B1812_18880" fbc:name="G_B1812_18880" fbc:label="G_B1812_18880"/>
       <fbc:geneProduct fbc:id="G_B1812_05425" fbc:name="G_B1812_05425" fbc:label="G_B1812_05425"/>
       <fbc:geneProduct fbc:id="G_B1812_07795" fbc:name="G_B1812_07795" fbc:label="G_B1812_07795"/>
-      <fbc:geneProduct fbc:id="G_B1812_18880" fbc:name="G_B1812_18880" fbc:label="G_B1812_18880"/>
       <fbc:geneProduct fbc:id="G_B1812_15755" fbc:name="G_B1812_15755" fbc:label="G_B1812_15755"/>
       <fbc:geneProduct fbc:id="G_B1812_00890" fbc:name="G_B1812_00890" fbc:label="G_B1812_00890"/>
       <fbc:geneProduct fbc:id="G_B1812_06180" fbc:name="G_B1812_06180" fbc:label="G_B1812_06180"/>
@@ -14963,26 +14966,26 @@
       <fbc:geneProduct fbc:id="G_B1812_03095" fbc:name="G_B1812_03095" fbc:label="G_B1812_03095"/>
       <fbc:geneProduct fbc:id="G_B1812_09560" fbc:name="G_B1812_09560" fbc:label="G_B1812_09560"/>
       <fbc:geneProduct fbc:id="G_B1812_15120" fbc:name="G_B1812_15120" fbc:label="G_B1812_15120"/>
-      <fbc:geneProduct fbc:id="G_B1812_07045" fbc:name="G_B1812_07045" fbc:label="G_B1812_07045"/>
       <fbc:geneProduct fbc:id="G_B1812_07035" fbc:name="G_B1812_07035" fbc:label="G_B1812_07035"/>
-      <fbc:geneProduct fbc:id="G_B1812_18900" fbc:name="G_B1812_18900" fbc:label="G_B1812_18900"/>
-      <fbc:geneProduct fbc:id="G_B1812_13670" fbc:name="G_B1812_13670" fbc:label="G_B1812_13670"/>
-      <fbc:geneProduct fbc:id="G_B1812_02590" fbc:name="G_B1812_02590" fbc:label="G_B1812_02590"/>
-      <fbc:geneProduct fbc:id="G_B1812_17325" fbc:name="G_B1812_17325" fbc:label="G_B1812_17325"/>
-      <fbc:geneProduct fbc:id="G_B1812_11165" fbc:name="G_B1812_11165" fbc:label="G_B1812_11165"/>
+      <fbc:geneProduct fbc:id="G_B1812_07045" fbc:name="G_B1812_07045" fbc:label="G_B1812_07045"/>
       <fbc:geneProduct fbc:id="G_B1812_02670" fbc:name="G_B1812_02670" fbc:label="G_B1812_02670"/>
-      <fbc:geneProduct fbc:id="G_B1812_10095" fbc:name="G_B1812_10095" fbc:label="G_B1812_10095"/>
-      <fbc:geneProduct fbc:id="G_B1812_20895" fbc:name="G_B1812_20895" fbc:label="G_B1812_20895"/>
       <fbc:geneProduct fbc:id="G_B1812_19690" fbc:name="G_B1812_19690" fbc:label="G_B1812_19690"/>
+      <fbc:geneProduct fbc:id="G_B1812_13670" fbc:name="G_B1812_13670" fbc:label="G_B1812_13670"/>
+      <fbc:geneProduct fbc:id="G_B1812_11165" fbc:name="G_B1812_11165" fbc:label="G_B1812_11165"/>
+      <fbc:geneProduct fbc:id="G_B1812_02590" fbc:name="G_B1812_02590" fbc:label="G_B1812_02590"/>
+      <fbc:geneProduct fbc:id="G_B1812_20895" fbc:name="G_B1812_20895" fbc:label="G_B1812_20895"/>
+      <fbc:geneProduct fbc:id="G_B1812_18900" fbc:name="G_B1812_18900" fbc:label="G_B1812_18900"/>
+      <fbc:geneProduct fbc:id="G_B1812_10095" fbc:name="G_B1812_10095" fbc:label="G_B1812_10095"/>
+      <fbc:geneProduct fbc:id="G_B1812_17325" fbc:name="G_B1812_17325" fbc:label="G_B1812_17325"/>
       <fbc:geneProduct fbc:id="G_B1812_11495" fbc:name="G_B1812_11495" fbc:label="G_B1812_11495"/>
       <fbc:geneProduct fbc:id="G_B1812_08400" fbc:name="G_B1812_08400" fbc:label="G_B1812_08400"/>
-      <fbc:geneProduct fbc:id="G_B1812_00755" fbc:name="G_B1812_00755" fbc:label="G_B1812_00755"/>
       <fbc:geneProduct fbc:id="G_B1812_14510" fbc:name="G_B1812_14510" fbc:label="G_B1812_14510"/>
       <fbc:geneProduct fbc:id="G_B1812_04930" fbc:name="G_B1812_04930" fbc:label="G_B1812_04930"/>
+      <fbc:geneProduct fbc:id="G_B1812_00755" fbc:name="G_B1812_00755" fbc:label="G_B1812_00755"/>
       <fbc:geneProduct fbc:id="G_B1812_09215" fbc:name="G_B1812_09215" fbc:label="G_B1812_09215"/>
       <fbc:geneProduct fbc:id="G_B1812_19435" fbc:name="G_B1812_19435" fbc:label="G_B1812_19435"/>
-      <fbc:geneProduct fbc:id="G_B1812_10425" fbc:name="G_B1812_10425" fbc:label="G_B1812_10425"/>
       <fbc:geneProduct fbc:id="G_B1812_01375" fbc:name="G_B1812_01375" fbc:label="G_B1812_01375"/>
+      <fbc:geneProduct fbc:id="G_B1812_10425" fbc:name="G_B1812_10425" fbc:label="G_B1812_10425"/>
       <fbc:geneProduct fbc:id="G_B1812_19280" fbc:name="G_B1812_19280" fbc:label="G_B1812_19280"/>
       <fbc:geneProduct fbc:id="G_B1812_01445" fbc:name="G_B1812_01445" fbc:label="G_B1812_01445"/>
       <fbc:geneProduct fbc:id="G_B1812_20265" fbc:name="G_B1812_20265" fbc:label="G_B1812_20265"/>
@@ -14990,11 +14993,11 @@
       <fbc:geneProduct fbc:id="G_B1812_01450" fbc:name="G_B1812_01450" fbc:label="G_B1812_01450"/>
       <fbc:geneProduct fbc:id="G_B1812_06880" fbc:name="G_B1812_06880" fbc:label="G_B1812_06880"/>
       <fbc:geneProduct fbc:id="G_B1812_18535" fbc:name="G_B1812_18535" fbc:label="G_B1812_18535"/>
-      <fbc:geneProduct fbc:id="G_B1812_07130" fbc:name="G_B1812_07130" fbc:label="G_B1812_07130"/>
       <fbc:geneProduct fbc:id="G_B1812_14030" fbc:name="G_B1812_14030" fbc:label="G_B1812_14030"/>
+      <fbc:geneProduct fbc:id="G_B1812_07130" fbc:name="G_B1812_07130" fbc:label="G_B1812_07130"/>
       <fbc:geneProduct fbc:id="G_B1812_11915" fbc:name="G_B1812_11915" fbc:label="G_B1812_11915"/>
-      <fbc:geneProduct fbc:id="G_B1812_08390" fbc:name="G_B1812_08390" fbc:label="G_B1812_08390"/>
       <fbc:geneProduct fbc:id="G_B1812_11910" fbc:name="G_B1812_11910" fbc:label="G_B1812_11910"/>
+      <fbc:geneProduct fbc:id="G_B1812_08390" fbc:name="G_B1812_08390" fbc:label="G_B1812_08390"/>
       <fbc:geneProduct fbc:id="G_B1812_11905" fbc:name="G_B1812_11905" fbc:label="G_B1812_11905"/>
       <fbc:geneProduct fbc:id="G_B1812_21430" fbc:name="G_B1812_21430" fbc:label="G_B1812_21430"/>
       <fbc:geneProduct fbc:id="G_B1812_11920" fbc:name="G_B1812_11920" fbc:label="G_B1812_11920"/>
@@ -15008,8 +15011,8 @@
       <fbc:geneProduct fbc:id="G_B1812_20450" fbc:name="G_B1812_20450" fbc:label="G_B1812_20450"/>
       <fbc:geneProduct fbc:id="G_B1812_12570" fbc:name="G_B1812_12570" fbc:label="G_B1812_12570"/>
       <fbc:geneProduct fbc:id="G_B1812_20460" fbc:name="G_B1812_20460" fbc:label="G_B1812_20460"/>
-      <fbc:geneProduct fbc:id="G_B1812_08920" fbc:name="G_B1812_08920" fbc:label="G_B1812_08920"/>
       <fbc:geneProduct fbc:id="G_B1812_21425" fbc:name="G_B1812_21425" fbc:label="G_B1812_21425"/>
+      <fbc:geneProduct fbc:id="G_B1812_08920" fbc:name="G_B1812_08920" fbc:label="G_B1812_08920"/>
       <fbc:geneProduct fbc:id="G_B1812_04965" fbc:name="G_B1812_04965" fbc:label="G_B1812_04965"/>
       <fbc:geneProduct fbc:id="G_B1812_11720" fbc:name="G_B1812_11720" fbc:label="G_B1812_11720"/>
       <fbc:geneProduct fbc:id="G_B1812_11705" fbc:name="G_B1812_11705" fbc:label="G_B1812_11705"/>
@@ -15020,21 +15023,21 @@
       <fbc:geneProduct fbc:id="G_B1812_21275" fbc:name="G_B1812_21275" fbc:label="G_B1812_21275"/>
       <fbc:geneProduct fbc:id="G_B1812_07320" fbc:name="G_B1812_07320" fbc:label="G_B1812_07320"/>
       <fbc:geneProduct fbc:id="G_B1812_06950" fbc:name="G_B1812_06950" fbc:label="G_B1812_06950"/>
-      <fbc:geneProduct fbc:id="G_B1812_14615" fbc:name="G_B1812_14615" fbc:label="G_B1812_14615"/>
+      <fbc:geneProduct fbc:id="G_B1812_02250" fbc:name="G_B1812_02250" fbc:label="G_B1812_02250"/>
       <fbc:geneProduct fbc:id="G_B1812_09770" fbc:name="G_B1812_09770" fbc:label="G_B1812_09770"/>
       <fbc:geneProduct fbc:id="G_B1812_15870" fbc:name="G_B1812_15870" fbc:label="G_B1812_15870"/>
-      <fbc:geneProduct fbc:id="G_B1812_02250" fbc:name="G_B1812_02250" fbc:label="G_B1812_02250"/>
+      <fbc:geneProduct fbc:id="G_B1812_14615" fbc:name="G_B1812_14615" fbc:label="G_B1812_14615"/>
       <fbc:geneProduct fbc:id="G_B1812_07255" fbc:name="G_B1812_07255" fbc:label="G_B1812_07255"/>
       <fbc:geneProduct fbc:id="G_B1812_05195" fbc:name="G_B1812_05195" fbc:label="G_B1812_05195"/>
+      <fbc:geneProduct fbc:id="G_B1812_02950" fbc:name="G_B1812_02950" fbc:label="G_B1812_02950"/>
       <fbc:geneProduct fbc:id="G_B1812_20475" fbc:name="G_B1812_20475" fbc:label="G_B1812_20475"/>
       <fbc:geneProduct fbc:id="G_B1812_07110" fbc:name="G_B1812_07110" fbc:label="G_B1812_07110"/>
-      <fbc:geneProduct fbc:id="G_B1812_02950" fbc:name="G_B1812_02950" fbc:label="G_B1812_02950"/>
-      <fbc:geneProduct fbc:id="G_B1812_11190" fbc:name="G_B1812_11190" fbc:label="G_B1812_11190"/>
       <fbc:geneProduct fbc:id="G_B1812_11195" fbc:name="G_B1812_11195" fbc:label="G_B1812_11195"/>
+      <fbc:geneProduct fbc:id="G_B1812_11190" fbc:name="G_B1812_11190" fbc:label="G_B1812_11190"/>
       <fbc:geneProduct fbc:id="G_B1812_19250" fbc:name="G_B1812_19250" fbc:label="G_B1812_19250"/>
       <fbc:geneProduct fbc:id="G_B1812_20430" fbc:name="G_B1812_20430" fbc:label="G_B1812_20430"/>
-      <fbc:geneProduct fbc:id="G_B1812_16210" fbc:name="G_B1812_16210" fbc:label="G_B1812_16210"/>
       <fbc:geneProduct fbc:id="G_B1812_06135" fbc:name="G_B1812_06135" fbc:label="G_B1812_06135"/>
+      <fbc:geneProduct fbc:id="G_B1812_16210" fbc:name="G_B1812_16210" fbc:label="G_B1812_16210"/>
       <fbc:geneProduct fbc:id="G_B1812_12650" fbc:name="G_B1812_12650" fbc:label="G_B1812_12650"/>
       <fbc:geneProduct fbc:id="G_B1812_03890" fbc:name="G_B1812_03890" fbc:label="G_B1812_03890"/>
       <fbc:geneProduct fbc:id="G_B1812_09260" fbc:name="G_B1812_09260" fbc:label="G_B1812_09260"/>
@@ -15042,50 +15045,50 @@
       <fbc:geneProduct fbc:id="G_B1812_17315" fbc:name="G_B1812_17315" fbc:label="G_B1812_17315"/>
       <fbc:geneProduct fbc:id="G_B1812_17320" fbc:name="G_B1812_17320" fbc:label="G_B1812_17320"/>
       <fbc:geneProduct fbc:id="G_B1812_10565" fbc:name="G_B1812_10565" fbc:label="G_B1812_10565"/>
+      <fbc:geneProduct fbc:id="G_B1812_11620" fbc:name="G_B1812_11620" fbc:label="G_B1812_11620"/>
       <fbc:geneProduct fbc:id="G_B1812_14350" fbc:name="G_B1812_14350" fbc:label="G_B1812_14350"/>
       <fbc:geneProduct fbc:id="G_B1812_09720" fbc:name="G_B1812_09720" fbc:label="G_B1812_09720"/>
-      <fbc:geneProduct fbc:id="G_B1812_11620" fbc:name="G_B1812_11620" fbc:label="G_B1812_11620"/>
-      <fbc:geneProduct fbc:id="G_B1812_20705" fbc:name="G_B1812_20705" fbc:label="G_B1812_20705"/>
       <fbc:geneProduct fbc:id="G_B1812_17540" fbc:name="G_B1812_17540" fbc:label="G_B1812_17540"/>
+      <fbc:geneProduct fbc:id="G_B1812_20705" fbc:name="G_B1812_20705" fbc:label="G_B1812_20705"/>
       <fbc:geneProduct fbc:id="G_B1812_06625" fbc:name="G_B1812_06625" fbc:label="G_B1812_06625"/>
       <fbc:geneProduct fbc:id="G_B1812_11525" fbc:name="G_B1812_11525" fbc:label="G_B1812_11525"/>
       <fbc:geneProduct fbc:id="G_B1812_03090" fbc:name="G_B1812_03090" fbc:label="G_B1812_03090"/>
       <fbc:geneProduct fbc:id="G_B1812_17435" fbc:name="G_B1812_17435" fbc:label="G_B1812_17435"/>
-      <fbc:geneProduct fbc:id="G_B1812_08775" fbc:name="G_B1812_08775" fbc:label="G_B1812_08775"/>
       <fbc:geneProduct fbc:id="G_B1812_01755" fbc:name="G_B1812_01755" fbc:label="G_B1812_01755"/>
+      <fbc:geneProduct fbc:id="G_B1812_08775" fbc:name="G_B1812_08775" fbc:label="G_B1812_08775"/>
       <fbc:geneProduct fbc:id="G_B1812_07235" fbc:name="G_B1812_07235" fbc:label="G_B1812_07235"/>
       <fbc:geneProduct fbc:id="G_B1812_01600" fbc:name="G_B1812_01600" fbc:label="G_B1812_01600"/>
       <fbc:geneProduct fbc:id="G_B1812_05755" fbc:name="G_B1812_05755" fbc:label="G_B1812_05755"/>
       <fbc:geneProduct fbc:id="G_B1812_07905" fbc:name="G_B1812_07905" fbc:label="G_B1812_07905"/>
       <fbc:geneProduct fbc:id="G_B1812_12990" fbc:name="G_B1812_12990" fbc:label="G_B1812_12990"/>
       <fbc:geneProduct fbc:id="G_B1812_07855" fbc:name="G_B1812_07855" fbc:label="G_B1812_07855"/>
+      <fbc:geneProduct fbc:id="G_B1812_08120" fbc:name="G_B1812_08120" fbc:label="G_B1812_08120"/>
       <fbc:geneProduct fbc:id="G_B1812_08125" fbc:name="G_B1812_08125" fbc:label="G_B1812_08125"/>
+      <fbc:geneProduct fbc:id="G_B1812_06620" fbc:name="G_B1812_06620" fbc:label="G_B1812_06620"/>
       <fbc:geneProduct fbc:id="G_B1812_07920" fbc:name="G_B1812_07920" fbc:label="G_B1812_07920"/>
       <fbc:geneProduct fbc:id="G_B1812_08115" fbc:name="G_B1812_08115" fbc:label="G_B1812_08115"/>
-      <fbc:geneProduct fbc:id="G_B1812_06620" fbc:name="G_B1812_06620" fbc:label="G_B1812_06620"/>
-      <fbc:geneProduct fbc:id="G_B1812_08120" fbc:name="G_B1812_08120" fbc:label="G_B1812_08120"/>
       <fbc:geneProduct fbc:id="G_B1812_00545" fbc:name="G_B1812_00545" fbc:label="G_B1812_00545"/>
       <fbc:geneProduct fbc:id="G_B1812_02130" fbc:name="G_B1812_02130" fbc:label="G_B1812_02130"/>
       <fbc:geneProduct fbc:id="G_B1812_02125" fbc:name="G_B1812_02125" fbc:label="G_B1812_02125"/>
       <fbc:geneProduct fbc:id="G_B1812_02120" fbc:name="G_B1812_02120" fbc:label="G_B1812_02120"/>
       <fbc:geneProduct fbc:id="G_B1812_12520" fbc:name="G_B1812_12520" fbc:label="G_B1812_12520"/>
       <fbc:geneProduct fbc:id="G_B1812_21110" fbc:name="G_B1812_21110" fbc:label="G_B1812_21110"/>
+      <fbc:geneProduct fbc:id="G_B1812_21100" fbc:name="G_B1812_21100" fbc:label="G_B1812_21100"/>
       <fbc:geneProduct fbc:id="G_B1812_21095" fbc:name="G_B1812_21095" fbc:label="G_B1812_21095"/>
       <fbc:geneProduct fbc:id="G_B1812_07745" fbc:name="G_B1812_07745" fbc:label="G_B1812_07745"/>
-      <fbc:geneProduct fbc:id="G_B1812_21100" fbc:name="G_B1812_21100" fbc:label="G_B1812_21100"/>
-      <fbc:geneProduct fbc:id="G_B1812_20195" fbc:name="G_B1812_20195" fbc:label="G_B1812_20195"/>
-      <fbc:geneProduct fbc:id="G_B1812_11280" fbc:name="G_B1812_11280" fbc:label="G_B1812_11280"/>
-      <fbc:geneProduct fbc:id="G_B1812_20185" fbc:name="G_B1812_20185" fbc:label="G_B1812_20185"/>
       <fbc:geneProduct fbc:id="G_B1812_20170" fbc:name="G_B1812_20170" fbc:label="G_B1812_20170"/>
-      <fbc:geneProduct fbc:id="G_B1812_20175" fbc:name="G_B1812_20175" fbc:label="G_B1812_20175"/>
       <fbc:geneProduct fbc:id="G_B1812_11270" fbc:name="G_B1812_11270" fbc:label="G_B1812_11270"/>
       <fbc:geneProduct fbc:id="G_B1812_20190" fbc:name="G_B1812_20190" fbc:label="G_B1812_20190"/>
+      <fbc:geneProduct fbc:id="G_B1812_20195" fbc:name="G_B1812_20195" fbc:label="G_B1812_20195"/>
+      <fbc:geneProduct fbc:id="G_B1812_20175" fbc:name="G_B1812_20175" fbc:label="G_B1812_20175"/>
+      <fbc:geneProduct fbc:id="G_B1812_11280" fbc:name="G_B1812_11280" fbc:label="G_B1812_11280"/>
+      <fbc:geneProduct fbc:id="G_B1812_20185" fbc:name="G_B1812_20185" fbc:label="G_B1812_20185"/>
       <fbc:geneProduct fbc:id="G_B1812_00060" fbc:name="G_B1812_00060" fbc:label="G_B1812_00060"/>
       <fbc:geneProduct fbc:id="G_B1812_17545" fbc:name="G_B1812_17545" fbc:label="G_B1812_17545"/>
-      <fbc:geneProduct fbc:id="G_B1812_17530" fbc:name="G_B1812_17530" fbc:label="G_B1812_17530"/>
       <fbc:geneProduct fbc:id="G_B1812_17525" fbc:name="G_B1812_17525" fbc:label="G_B1812_17525"/>
-      <fbc:geneProduct fbc:id="G_B1812_13350" fbc:name="G_B1812_13350" fbc:label="G_B1812_13350"/>
+      <fbc:geneProduct fbc:id="G_B1812_17530" fbc:name="G_B1812_17530" fbc:label="G_B1812_17530"/>
       <fbc:geneProduct fbc:id="G_B1812_12075" fbc:name="G_B1812_12075" fbc:label="G_B1812_12075"/>
+      <fbc:geneProduct fbc:id="G_B1812_13350" fbc:name="G_B1812_13350" fbc:label="G_B1812_13350"/>
       <fbc:geneProduct fbc:id="G_B1812_02630" fbc:name="G_B1812_02630" fbc:label="G_B1812_02630"/>
       <fbc:geneProduct fbc:id="G_B1812_16275" fbc:name="G_B1812_16275" fbc:label="G_B1812_16275"/>
       <fbc:geneProduct fbc:id="G_B1812_02315" fbc:name="G_B1812_02315" fbc:label="G_B1812_02315"/>
@@ -15096,69 +15099,69 @@
       <fbc:geneProduct fbc:id="G_B1812_00700" fbc:name="G_B1812_00700" fbc:label="G_B1812_00700"/>
       <fbc:geneProduct fbc:id="G_B1812_05370" fbc:name="G_B1812_05370" fbc:label="G_B1812_05370"/>
       <fbc:geneProduct fbc:id="G_B1812_03960" fbc:name="G_B1812_03960" fbc:label="G_B1812_03960"/>
-      <fbc:geneProduct fbc:id="G_B1812_13400" fbc:name="G_B1812_13400" fbc:label="G_B1812_13400"/>
       <fbc:geneProduct fbc:id="G_B1812_13765" fbc:name="G_B1812_13765" fbc:label="G_B1812_13765"/>
+      <fbc:geneProduct fbc:id="G_B1812_13400" fbc:name="G_B1812_13400" fbc:label="G_B1812_13400"/>
       <fbc:geneProduct fbc:id="G_B1812_20660" fbc:name="G_B1812_20660" fbc:label="G_B1812_20660"/>
       <fbc:geneProduct fbc:id="G_B1812_17745" fbc:name="G_B1812_17745" fbc:label="G_B1812_17745"/>
       <fbc:geneProduct fbc:id="G_B1812_02595" fbc:name="G_B1812_02595" fbc:label="G_B1812_02595"/>
       <fbc:geneProduct fbc:id="G_B1812_03945" fbc:name="G_B1812_03945" fbc:label="G_B1812_03945"/>
       <fbc:geneProduct fbc:id="G_B1812_10365" fbc:name="G_B1812_10365" fbc:label="G_B1812_10365"/>
       <fbc:geneProduct fbc:id="G_B1812_03985" fbc:name="G_B1812_03985" fbc:label="G_B1812_03985"/>
-      <fbc:geneProduct fbc:id="G_B1812_17520" fbc:name="G_B1812_17520" fbc:label="G_B1812_17520"/>
       <fbc:geneProduct fbc:id="G_B1812_11370" fbc:name="G_B1812_11370" fbc:label="G_B1812_11370"/>
+      <fbc:geneProduct fbc:id="G_B1812_17520" fbc:name="G_B1812_17520" fbc:label="G_B1812_17520"/>
       <fbc:geneProduct fbc:id="G_B1812_17515" fbc:name="G_B1812_17515" fbc:label="G_B1812_17515"/>
       <fbc:geneProduct fbc:id="G_B1812_09970" fbc:name="G_B1812_09970" fbc:label="G_B1812_09970"/>
       <fbc:geneProduct fbc:id="G_B1812_10125" fbc:name="G_B1812_10125" fbc:label="G_B1812_10125"/>
       <fbc:geneProduct fbc:id="G_B1812_17500" fbc:name="G_B1812_17500" fbc:label="G_B1812_17500"/>
-      <fbc:geneProduct fbc:id="G_B1812_14135" fbc:name="G_B1812_14135" fbc:label="G_B1812_14135"/>
-      <fbc:geneProduct fbc:id="G_B1812_14140" fbc:name="G_B1812_14140" fbc:label="G_B1812_14140"/>
-      <fbc:geneProduct fbc:id="G_B1812_14125" fbc:name="G_B1812_14125" fbc:label="G_B1812_14125"/>
       <fbc:geneProduct fbc:id="G_B1812_14115" fbc:name="G_B1812_14115" fbc:label="G_B1812_14115"/>
       <fbc:geneProduct fbc:id="G_B1812_14130" fbc:name="G_B1812_14130" fbc:label="G_B1812_14130"/>
+      <fbc:geneProduct fbc:id="G_B1812_14135" fbc:name="G_B1812_14135" fbc:label="G_B1812_14135"/>
+      <fbc:geneProduct fbc:id="G_B1812_14140" fbc:name="G_B1812_14140" fbc:label="G_B1812_14140"/>
       <fbc:geneProduct fbc:id="G_B1812_14120" fbc:name="G_B1812_14120" fbc:label="G_B1812_14120"/>
-      <fbc:geneProduct fbc:id="G_B1812_18685" fbc:name="G_B1812_18685" fbc:label="G_B1812_18685"/>
-      <fbc:geneProduct fbc:id="G_B1812_18675" fbc:name="G_B1812_18675" fbc:label="G_B1812_18675"/>
-      <fbc:geneProduct fbc:id="G_B1812_14780" fbc:name="G_B1812_14780" fbc:label="G_B1812_14780"/>
-      <fbc:geneProduct fbc:id="G_B1812_14775" fbc:name="G_B1812_14775" fbc:label="G_B1812_14775"/>
-      <fbc:geneProduct fbc:id="G_B1812_00560" fbc:name="G_B1812_00560" fbc:label="G_B1812_00560"/>
-      <fbc:geneProduct fbc:id="G_B1812_00565" fbc:name="G_B1812_00565" fbc:label="G_B1812_00565"/>
-      <fbc:geneProduct fbc:id="G_B1812_12550" fbc:name="G_B1812_12550" fbc:label="G_B1812_12550"/>
+      <fbc:geneProduct fbc:id="G_B1812_14125" fbc:name="G_B1812_14125" fbc:label="G_B1812_14125"/>
       <fbc:geneProduct fbc:id="G_B1812_00555" fbc:name="G_B1812_00555" fbc:label="G_B1812_00555"/>
-      <fbc:geneProduct fbc:id="G_B1812_13465" fbc:name="G_B1812_13465" fbc:label="G_B1812_13465"/>
-      <fbc:geneProduct fbc:id="G_B1812_13470" fbc:name="G_B1812_13470" fbc:label="G_B1812_13470"/>
-      <fbc:geneProduct fbc:id="G_B1812_06380" fbc:name="G_B1812_06380" fbc:label="G_B1812_06380"/>
-      <fbc:geneProduct fbc:id="G_B1812_13455" fbc:name="G_B1812_13455" fbc:label="G_B1812_13455"/>
+      <fbc:geneProduct fbc:id="G_B1812_14775" fbc:name="G_B1812_14775" fbc:label="G_B1812_14775"/>
+      <fbc:geneProduct fbc:id="G_B1812_14780" fbc:name="G_B1812_14780" fbc:label="G_B1812_14780"/>
       <fbc:geneProduct fbc:id="G_B1812_18680" fbc:name="G_B1812_18680" fbc:label="G_B1812_18680"/>
+      <fbc:geneProduct fbc:id="G_B1812_18675" fbc:name="G_B1812_18675" fbc:label="G_B1812_18675"/>
+      <fbc:geneProduct fbc:id="G_B1812_13465" fbc:name="G_B1812_13465" fbc:label="G_B1812_13465"/>
+      <fbc:geneProduct fbc:id="G_B1812_00560" fbc:name="G_B1812_00560" fbc:label="G_B1812_00560"/>
+      <fbc:geneProduct fbc:id="G_B1812_12550" fbc:name="G_B1812_12550" fbc:label="G_B1812_12550"/>
+      <fbc:geneProduct fbc:id="G_B1812_00565" fbc:name="G_B1812_00565" fbc:label="G_B1812_00565"/>
+      <fbc:geneProduct fbc:id="G_B1812_18685" fbc:name="G_B1812_18685" fbc:label="G_B1812_18685"/>
+      <fbc:geneProduct fbc:id="G_B1812_06380" fbc:name="G_B1812_06380" fbc:label="G_B1812_06380"/>
       <fbc:geneProduct fbc:id="G_B1812_14770" fbc:name="G_B1812_14770" fbc:label="G_B1812_14770"/>
-      <fbc:geneProduct fbc:id="G_B1812_04805" fbc:name="G_B1812_04805" fbc:label="G_B1812_04805"/>
-      <fbc:geneProduct fbc:id="G_B1812_04820" fbc:name="G_B1812_04820" fbc:label="G_B1812_04820"/>
+      <fbc:geneProduct fbc:id="G_B1812_13455" fbc:name="G_B1812_13455" fbc:label="G_B1812_13455"/>
+      <fbc:geneProduct fbc:id="G_B1812_13470" fbc:name="G_B1812_13470" fbc:label="G_B1812_13470"/>
       <fbc:geneProduct fbc:id="G_B1812_04780" fbc:name="G_B1812_04780" fbc:label="G_B1812_04780"/>
-      <fbc:geneProduct fbc:id="G_B1812_04815" fbc:name="G_B1812_04815" fbc:label="G_B1812_04815"/>
-      <fbc:geneProduct fbc:id="G_B1812_04810" fbc:name="G_B1812_04810" fbc:label="G_B1812_04810"/>
       <fbc:geneProduct fbc:id="G_B1812_04785" fbc:name="G_B1812_04785" fbc:label="G_B1812_04785"/>
+      <fbc:geneProduct fbc:id="G_B1812_04820" fbc:name="G_B1812_04820" fbc:label="G_B1812_04820"/>
+      <fbc:geneProduct fbc:id="G_B1812_04805" fbc:name="G_B1812_04805" fbc:label="G_B1812_04805"/>
+      <fbc:geneProduct fbc:id="G_B1812_04810" fbc:name="G_B1812_04810" fbc:label="G_B1812_04810"/>
+      <fbc:geneProduct fbc:id="G_B1812_04815" fbc:name="G_B1812_04815" fbc:label="G_B1812_04815"/>
       <fbc:geneProduct fbc:id="G_B1812_02320" fbc:name="G_B1812_02320" fbc:label="G_B1812_02320"/>
       <fbc:geneProduct fbc:id="G_B1812_16145" fbc:name="G_B1812_16145" fbc:label="G_B1812_16145"/>
-      <fbc:geneProduct fbc:id="G_B1812_16150" fbc:name="G_B1812_16150" fbc:label="G_B1812_16150"/>
       <fbc:geneProduct fbc:id="G_B1812_16135" fbc:name="G_B1812_16135" fbc:label="G_B1812_16135"/>
-      <fbc:geneProduct fbc:id="G_B1812_13890" fbc:name="G_B1812_13890" fbc:label="G_B1812_13890"/>
+      <fbc:geneProduct fbc:id="G_B1812_16150" fbc:name="G_B1812_16150" fbc:label="G_B1812_16150"/>
       <fbc:geneProduct fbc:id="G_B1812_16140" fbc:name="G_B1812_16140" fbc:label="G_B1812_16140"/>
+      <fbc:geneProduct fbc:id="G_B1812_13890" fbc:name="G_B1812_13890" fbc:label="G_B1812_13890"/>
       <fbc:geneProduct fbc:id="G_B1812_17885" fbc:name="G_B1812_17885" fbc:label="G_B1812_17885"/>
-      <fbc:geneProduct fbc:id="G_B1812_14735" fbc:name="G_B1812_14735" fbc:label="G_B1812_14735"/>
-      <fbc:geneProduct fbc:id="G_B1812_14740" fbc:name="G_B1812_14740" fbc:label="G_B1812_14740"/>
       <fbc:geneProduct fbc:id="G_B1812_18000" fbc:name="G_B1812_18000" fbc:label="G_B1812_18000"/>
+      <fbc:geneProduct fbc:id="G_B1812_14740" fbc:name="G_B1812_14740" fbc:label="G_B1812_14740"/>
+      <fbc:geneProduct fbc:id="G_B1812_14735" fbc:name="G_B1812_14735" fbc:label="G_B1812_14735"/>
       <fbc:geneProduct fbc:id="G_B1812_02720" fbc:name="G_B1812_02720" fbc:label="G_B1812_02720"/>
       <fbc:geneProduct fbc:id="G_B1812_18160" fbc:name="G_B1812_18160" fbc:label="G_B1812_18160"/>
       <fbc:geneProduct fbc:id="G_B1812_05260" fbc:name="G_B1812_05260" fbc:label="G_B1812_05260"/>
       <fbc:geneProduct fbc:id="G_B1812_05250" fbc:name="G_B1812_05250" fbc:label="G_B1812_05250"/>
-      <fbc:geneProduct fbc:id="G_B1812_08035" fbc:name="G_B1812_08035" fbc:label="G_B1812_08035"/>
       <fbc:geneProduct fbc:id="G_B1812_05405" fbc:name="G_B1812_05405" fbc:label="G_B1812_05405"/>
+      <fbc:geneProduct fbc:id="G_B1812_08035" fbc:name="G_B1812_08035" fbc:label="G_B1812_08035"/>
       <fbc:geneProduct fbc:id="G_B1812_13170" fbc:name="G_B1812_13170" fbc:label="G_B1812_13170"/>
       <fbc:geneProduct fbc:id="G_B1812_01145" fbc:name="G_B1812_01145" fbc:label="G_B1812_01145"/>
       <fbc:geneProduct fbc:id="G_B1812_13180" fbc:name="G_B1812_13180" fbc:label="G_B1812_13180"/>
       <fbc:geneProduct fbc:id="G_B1812_05265" fbc:name="G_B1812_05265" fbc:label="G_B1812_05265"/>
       <fbc:geneProduct fbc:id="G_B1812_09905" fbc:name="G_B1812_09905" fbc:label="G_B1812_09905"/>
-      <fbc:geneProduct fbc:id="G_B1812_04415" fbc:name="G_B1812_04415" fbc:label="G_B1812_04415"/>
       <fbc:geneProduct fbc:id="G_B1812_03540" fbc:name="G_B1812_03540" fbc:label="G_B1812_03540"/>
+      <fbc:geneProduct fbc:id="G_B1812_04415" fbc:name="G_B1812_04415" fbc:label="G_B1812_04415"/>
       <fbc:geneProduct fbc:id="G_B1812_16280" fbc:name="G_B1812_16280" fbc:label="G_B1812_16280"/>
       <fbc:geneProduct fbc:id="G_B1812_04620" fbc:name="G_B1812_04620" fbc:label="G_B1812_04620"/>
       <fbc:geneProduct fbc:id="G_B1812_19745" fbc:name="G_B1812_19745" fbc:label="G_B1812_19745"/>
@@ -15179,24 +15182,24 @@
       <fbc:geneProduct fbc:id="G_B1812_05070" fbc:name="G_B1812_05070" fbc:label="G_B1812_05070"/>
       <fbc:geneProduct fbc:id="G_B1812_05080" fbc:name="G_B1812_05080" fbc:label="G_B1812_05080"/>
       <fbc:geneProduct fbc:id="G_B1812_02915" fbc:name="G_B1812_02915" fbc:label="G_B1812_02915"/>
-      <fbc:geneProduct fbc:id="G_B1812_17410" fbc:name="G_B1812_17410" fbc:label="G_B1812_17410"/>
       <fbc:geneProduct fbc:id="G_B1812_17400" fbc:name="G_B1812_17400" fbc:label="G_B1812_17400"/>
       <fbc:geneProduct fbc:id="G_B1812_17405" fbc:name="G_B1812_17405" fbc:label="G_B1812_17405"/>
+      <fbc:geneProduct fbc:id="G_B1812_17410" fbc:name="G_B1812_17410" fbc:label="G_B1812_17410"/>
       <fbc:geneProduct fbc:id="G_B1812_12390" fbc:name="G_B1812_12390" fbc:label="G_B1812_12390"/>
       <fbc:geneProduct fbc:id="G_B1812_09875" fbc:name="G_B1812_09875" fbc:label="G_B1812_09875"/>
       <fbc:geneProduct fbc:id="G_B1812_00415" fbc:name="G_B1812_00415" fbc:label="G_B1812_00415"/>
       <fbc:geneProduct fbc:id="G_B1812_01280" fbc:name="G_B1812_01280" fbc:label="G_B1812_01280"/>
       <fbc:geneProduct fbc:id="G_B1812_06155" fbc:name="G_B1812_06155" fbc:label="G_B1812_06155"/>
-      <fbc:geneProduct fbc:id="G_B1812_21115" fbc:name="G_B1812_21115" fbc:label="G_B1812_21115"/>
       <fbc:geneProduct fbc:id="G_B1812_04030" fbc:name="G_B1812_04030" fbc:label="G_B1812_04030"/>
+      <fbc:geneProduct fbc:id="G_B1812_21115" fbc:name="G_B1812_21115" fbc:label="G_B1812_21115"/>
       <fbc:geneProduct fbc:id="G_B1812_13960" fbc:name="G_B1812_13960" fbc:label="G_B1812_13960"/>
       <fbc:geneProduct fbc:id="G_B1812_11415" fbc:name="G_B1812_11415" fbc:label="G_B1812_11415"/>
       <fbc:geneProduct fbc:id="G_B1812_03650" fbc:name="G_B1812_03650" fbc:label="G_B1812_03650"/>
       <fbc:geneProduct fbc:id="G_B1812_12600" fbc:name="G_B1812_12600" fbc:label="G_B1812_12600"/>
       <fbc:geneProduct fbc:id="G_B1812_14725" fbc:name="G_B1812_14725" fbc:label="G_B1812_14725"/>
       <fbc:geneProduct fbc:id="G_B1812_14720" fbc:name="G_B1812_14720" fbc:label="G_B1812_14720"/>
-      <fbc:geneProduct fbc:id="G_B1812_14730" fbc:name="G_B1812_14730" fbc:label="G_B1812_14730"/>
       <fbc:geneProduct fbc:id="G_B1812_10575" fbc:name="G_B1812_10575" fbc:label="G_B1812_10575"/>
+      <fbc:geneProduct fbc:id="G_B1812_14730" fbc:name="G_B1812_14730" fbc:label="G_B1812_14730"/>
       <fbc:geneProduct fbc:id="G_B1812_04975" fbc:name="G_B1812_04975" fbc:label="G_B1812_04975"/>
       <fbc:geneProduct fbc:id="G_B1812_08785" fbc:name="G_B1812_08785" fbc:label="G_B1812_08785"/>
       <fbc:geneProduct fbc:id="G_B1812_11150" fbc:name="G_B1812_11150" fbc:label="G_B1812_11150"/>
@@ -15237,16 +15240,16 @@
       <fbc:geneProduct fbc:id="G_B1812_05240" fbc:name="G_B1812_05240" fbc:label="G_B1812_05240"/>
       <fbc:geneProduct fbc:id="G_B1812_13590" fbc:name="G_B1812_13590" fbc:label="G_B1812_13590"/>
       <fbc:geneProduct fbc:id="G_B1812_19485" fbc:name="G_B1812_19485" fbc:label="G_B1812_19485"/>
-      <fbc:geneProduct fbc:id="G_B1812_04855" fbc:name="G_B1812_04855" fbc:label="G_B1812_04855"/>
       <fbc:geneProduct fbc:id="G_B1812_03405" fbc:name="G_B1812_03405" fbc:label="G_B1812_03405"/>
       <fbc:geneProduct fbc:id="G_B1812_05600" fbc:name="G_B1812_05600" fbc:label="G_B1812_05600"/>
+      <fbc:geneProduct fbc:id="G_B1812_04855" fbc:name="G_B1812_04855" fbc:label="G_B1812_04855"/>
       <fbc:geneProduct fbc:id="G_B1812_02970" fbc:name="G_B1812_02970" fbc:label="G_B1812_02970"/>
       <fbc:geneProduct fbc:id="G_B1812_05385" fbc:name="G_B1812_05385" fbc:label="G_B1812_05385"/>
       <fbc:geneProduct fbc:id="G_B1812_14575" fbc:name="G_B1812_14575" fbc:label="G_B1812_14575"/>
       <fbc:geneProduct fbc:id="G_B1812_04955" fbc:name="G_B1812_04955" fbc:label="G_B1812_04955"/>
       <fbc:geneProduct fbc:id="G_B1812_11635" fbc:name="G_B1812_11635" fbc:label="G_B1812_11635"/>
-      <fbc:geneProduct fbc:id="G_B1812_03770" fbc:name="G_B1812_03770" fbc:label="G_B1812_03770"/>
       <fbc:geneProduct fbc:id="G_B1812_02975" fbc:name="G_B1812_02975" fbc:label="G_B1812_02975"/>
+      <fbc:geneProduct fbc:id="G_B1812_03770" fbc:name="G_B1812_03770" fbc:label="G_B1812_03770"/>
       <fbc:geneProduct fbc:id="G_B1812_19515" fbc:name="G_B1812_19515" fbc:label="G_B1812_19515"/>
       <fbc:geneProduct fbc:id="G_B1812_05380" fbc:name="G_B1812_05380" fbc:label="G_B1812_05380"/>
       <fbc:geneProduct fbc:id="G_B1812_15740" fbc:name="G_B1812_15740" fbc:label="G_B1812_15740"/>
@@ -15267,12 +15270,12 @@
       <fbc:geneProduct fbc:id="G_B1812_09650" fbc:name="G_B1812_09650" fbc:label="G_B1812_09650"/>
       <fbc:geneProduct fbc:id="G_B1812_15940" fbc:name="G_B1812_15940" fbc:label="G_B1812_15940"/>
       <fbc:geneProduct fbc:id="G_B1812_15935" fbc:name="G_B1812_15935" fbc:label="G_B1812_15935"/>
-      <fbc:geneProduct fbc:id="G_B1812_12795" fbc:name="G_B1812_12795" fbc:label="G_B1812_12795"/>
       <fbc:geneProduct fbc:id="G_B1812_16325" fbc:name="G_B1812_16325" fbc:label="G_B1812_16325"/>
-      <fbc:geneProduct fbc:id="G_B1812_16115" fbc:name="G_B1812_16115" fbc:label="G_B1812_16115"/>
       <fbc:geneProduct fbc:id="G_B1812_12700" fbc:name="G_B1812_12700" fbc:label="G_B1812_12700"/>
-      <fbc:geneProduct fbc:id="G_B1812_01215" fbc:name="G_B1812_01215" fbc:label="G_B1812_01215"/>
+      <fbc:geneProduct fbc:id="G_B1812_16115" fbc:name="G_B1812_16115" fbc:label="G_B1812_16115"/>
       <fbc:geneProduct fbc:id="G_B1812_16265" fbc:name="G_B1812_16265" fbc:label="G_B1812_16265"/>
+      <fbc:geneProduct fbc:id="G_B1812_01215" fbc:name="G_B1812_01215" fbc:label="G_B1812_01215"/>
+      <fbc:geneProduct fbc:id="G_B1812_12795" fbc:name="G_B1812_12795" fbc:label="G_B1812_12795"/>
       <fbc:geneProduct fbc:id="G_B1812_19085" fbc:name="G_B1812_19085" fbc:label="G_B1812_19085"/>
       <fbc:geneProduct fbc:id="G_B1812_11865" fbc:name="G_B1812_11865" fbc:label="G_B1812_11865"/>
       <fbc:geneProduct fbc:id="G_B1812_19075" fbc:name="G_B1812_19075" fbc:label="G_B1812_19075"/>
@@ -15280,8 +15283,8 @@
       <fbc:geneProduct fbc:id="G_B1812_04425" fbc:name="G_B1812_04425" fbc:label="G_B1812_04425"/>
       <fbc:geneProduct fbc:id="G_B1812_14370" fbc:name="G_B1812_14370" fbc:label="G_B1812_14370"/>
       <fbc:geneProduct fbc:id="G_B1812_04910" fbc:name="G_B1812_04910" fbc:label="G_B1812_04910"/>
-      <fbc:geneProduct fbc:id="G_B1812_05540" fbc:name="G_B1812_05540" fbc:label="G_B1812_05540"/>
       <fbc:geneProduct fbc:id="G_B1812_19020" fbc:name="G_B1812_19020" fbc:label="G_B1812_19020"/>
+      <fbc:geneProduct fbc:id="G_B1812_05540" fbc:name="G_B1812_05540" fbc:label="G_B1812_05540"/>
       <fbc:geneProduct fbc:id="G_B1812_17725" fbc:name="G_B1812_17725" fbc:label="G_B1812_17725"/>
       <fbc:geneProduct fbc:id="G_B1812_17210" fbc:name="G_B1812_17210" fbc:label="G_B1812_17210"/>
       <fbc:geneProduct fbc:id="G_B1812_17425" fbc:name="G_B1812_17425" fbc:label="G_B1812_17425"/>
@@ -15303,8 +15306,8 @@
       <fbc:geneProduct fbc:id="G_B1812_18945" fbc:name="G_B1812_18945" fbc:label="G_B1812_18945"/>
       <fbc:geneProduct fbc:id="G_B1812_01980" fbc:name="G_B1812_01980" fbc:label="G_B1812_01980"/>
       <fbc:geneProduct fbc:id="G_B1812_11985" fbc:name="G_B1812_11985" fbc:label="G_B1812_11985"/>
-      <fbc:geneProduct fbc:id="G_B1812_11980" fbc:name="G_B1812_11980" fbc:label="G_B1812_11980"/>
       <fbc:geneProduct fbc:id="G_B1812_17800" fbc:name="G_B1812_17800" fbc:label="G_B1812_17800"/>
+      <fbc:geneProduct fbc:id="G_B1812_11980" fbc:name="G_B1812_11980" fbc:label="G_B1812_11980"/>
       <fbc:geneProduct fbc:id="G_B1812_16315" fbc:name="G_B1812_16315" fbc:label="G_B1812_16315"/>
     </fbc:listOfGeneProducts>
   </model>
