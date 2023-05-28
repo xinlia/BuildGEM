@@ -1,0 +1,563 @@
+﻿Metabolic pathways,rn01100
+Biosynthesis of secondary metabolites,rn01110
+Microbial metabolism in diverse environments,rn01120
+Carbon metabolism,rn01200
+2-Oxocarboxylic acid metabolism,rn01210
+Fatty acid metabolism,rn01212
+Biosynthesis of amino acids,rn01230
+Nucleotide metabolism,rn01232
+Biosynthesis of nucleotide sugars,rn01250
+Biosynthesis of cofactors,rn01240
+Degradation of aromatic compounds,rn01220
+Glycolysis / Gluconeogenesis,rn00010
+Citrate cycle (TCA cycle),rn00020
+Pentose phosphate pathway,rn00030
+Pentose and glucuronate interconversions,rn00040
+Fructose and mannose metabolism,rn00051
+Galactose metabolism,rn00052
+Ascorbate and aldarate metabolism,rn00053
+Starch and sucrose metabolism,rn00500
+Amino sugar and nucleotide sugar metabolism,rn00520
+Pyruvate metabolism,rn00620
+Glyoxylate and dicarboxylate metabolism,rn00630
+Propanoate metabolism,rn00640
+Butanoate metabolism,rn00650
+C5-Branched dibasic acid metabolism,rn00660
+Inositol phosphate metabolism,rn00562
+Oxidative phosphorylation,rn00190
+Photosynthesis,rn00195
+Photosynthesis - antenna proteins,rn00196
+Carbon fixation in photosynthetic organisms,rn00710
+Carbon fixation pathways in prokaryotes,rn00720
+Methane metabolism,rn00680
+Nitrogen metabolism,rn00910
+Sulfur metabolism,rn00920
+Fatty acid biosynthesis,rn00061
+Fatty acid elongation,rn00062
+Fatty acid degradation,rn00071
+"Cutin, suberine and wax biosynthesis",rn00073
+Steroid biosynthesis,rn00100
+Primary bile acid biosynthesis,rn00120
+Secondary bile acid biosynthesis,rn00121
+Steroid hormone biosynthesis,rn00140
+Glycerolipid metabolism,rn00561
+Glycerophospholipid metabolism,rn00564
+Ether lipid metabolism,rn00565
+Sphingolipid metabolism,rn00600
+Arachidonic acid metabolism,rn00590
+Linoleic acid metabolism,rn00591
+alpha-Linolenic acid metabolism,rn00592
+Biosynthesis of unsaturated fatty acids,rn01040
+Purine metabolism,rn00230
+Pyrimidine metabolism,rn00240
+"Alanine, aspartate and glutamate metabolism",rn00250
+"Glycine, serine and threonine metabolism",rn00260
+Cysteine and methionine metabolism,rn00270
+"Valine, leucine and isoleucine degradation",rn00280
+"Valine, leucine and isoleucine biosynthesis",rn00290
+Lysine biosynthesis,rn00300
+Lysine degradation,rn00310
+Arginine biosynthesis,rn00220
+Arginine and proline metabolism,rn00330
+Histidine metabolism,rn00340
+Tyrosine metabolism,rn00350
+Phenylalanine metabolism,rn00360
+Tryptophan metabolism,rn00380
+"Phenylalanine, tyrosine and tryptophan biosynthesis",rn00400
+beta-Alanine metabolism,rn00410
+Taurine and hypotaurine metabolism,rn00430
+Phosphonate and phosphinate metabolism,rn00440
+Selenocompound metabolism,rn00450
+Cyanoamino acid metabolism,rn00460
+D-Amino acid metabolism,rn00470
+Glutathione metabolism,rn00480
+N-Glycan biosynthesis,rn00510
+Various types of N-glycan biosynthesis,rn00513
+Mucin type O-glycan biosynthesis,rn00512
+Mannose type O-glycan biosynthesis,rn00515
+Other types of O-glycan biosynthesis,rn00514
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,rn00532
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,rn00534
+Glycosaminoglycan biosynthesis - keratan sulfate,rn00533
+Glycosaminoglycan degradation,rn00531
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,rn00563
+Glycosphingolipid biosynthesis - lacto and neolacto series,rn00601
+Glycosphingolipid biosynthesis - globo and isoglobo series,rn00603
+Glycosphingolipid biosynthesis - ganglio series,rn00604
+Other glycan degradation,rn00511
+Lipopolysaccharide biosynthesis,rn00540
+O-Antigen repeat unit biosynthesis,rn00542
+O-Antigen nucleotide sugar biosynthesis,rn00541
+Peptidoglycan biosynthesis,rn00550
+Teichoic acid biosynthesis,rn00552
+Lipoarabinomannan (LAM) biosynthesis,rn00571
+Arabinogalactan biosynthesis - Mycobacterium,rn00572
+Exopolysaccharide biosynthesis,rn00543
+Thiamine metabolism,rn00730
+Riboflavin metabolism,rn00740
+Vitamin B6 metabolism,rn00750
+Nicotinate and nicotinamide metabolism,rn00760
+Pantothenate and CoA biosynthesis,rn00770
+Biotin metabolism,rn00780
+Lipoic acid metabolism,rn00785
+Folate biosynthesis,rn00790
+One carbon pool by folate,rn00670
+Retinol metabolism,rn00830
+Porphyrin metabolism,rn00860
+Ubiquinone and other terpenoid-quinone biosynthesis,rn00130
+Terpenoid backbone biosynthesis,rn00900
+Monoterpenoid biosynthesis,rn00902
+Sesquiterpenoid and triterpenoid biosynthesis,rn00909
+Diterpenoid biosynthesis,rn00904
+Carotenoid biosynthesis,rn00906
+Brassinosteroid biosynthesis,rn00905
+Insect hormone biosynthesis,rn00981
+Zeatin biosynthesis,rn00908
+Limonene degradation,rn00903
+"Pinene, camphor and geraniol degradation",rn00907
+Type I polyketide structures,rn01052
+"Biosynthesis of 12-, 14- and 16-membered macrolides",rn00522
+Biosynthesis of ansamycins,rn01051
+Biosynthesis of enediyne antibiotics,rn01059
+Biosynthesis of type II polyketide backbone,rn01056
+Biosynthesis of type II polyketide products,rn01057
+Tetracycline biosynthesis,rn00253
+Polyketide sugar unit biosynthesis,rn00523
+Nonribosomal peptide structures,rn01054
+Biosynthesis of siderophore group nonribosomal peptides,rn01053
+Biosynthesis of vancomycin group antibiotics,rn01055
+Phenylpropanoid biosynthesis,rn00940
+"Stilbenoid, diarylheptanoid and gingerol biosynthesis",rn00945
+Flavonoid biosynthesis,rn00941
+Flavone and flavonol biosynthesis,rn00944
+Anthocyanin biosynthesis,rn00942
+Isoflavonoid biosynthesis,rn00943
+Degradation of flavonoids,rn00946
+Indole alkaloid biosynthesis,rn00901
+Indole diterpene alkaloid biosynthesis,rn00403
+Isoquinoline alkaloid biosynthesis,rn00950
+"Tropane, piperidine and pyridine alkaloid biosynthesis",rn00960
+Biosynthesis of various alkaloids,rn00996
+Caffeine metabolism,rn00232
+Betalain biosynthesis,rn00965
+Glucosinolate biosynthesis,rn00966
+Benzoxazinoid biosynthesis,rn00402
+Penicillin and cephalosporin biosynthesis,rn00311
+Carbapenem biosynthesis,rn00332
+Monobactam biosynthesis,rn00261
+Clavulanic acid biosynthesis,rn00331
+Streptomycin biosynthesis,rn00521
+"Neomycin, kanamycin and gentamicin biosynthesis",rn00524
+Acarbose and validamycin biosynthesis,rn00525
+Novobiocin biosynthesis,rn00401
+Staurosporine biosynthesis,rn00404
+Phenazine biosynthesis,rn00405
+Prodigiosin biosynthesis,rn00333
+Aflatoxin biosynthesis,rn00254
+Biosynthesis of various antibiotics,rn00998
+Biosynthesis of various plant secondary metabolites,rn00999
+Biosynthesis of various other secondary metabolites,rn00997
+Benzoate degradation,rn00362
+Aminobenzoate degradation,rn00627
+Fluorobenzoate degradation,rn00364
+Chloroalkane and chloroalkene degradation,rn00625
+Chlorocyclohexane and chlorobenzene degradation,rn00361
+Toluene degradation,rn00623
+Xylene degradation,rn00622
+Nitrotoluene degradation,rn00633
+Ethylbenzene degradation,rn00642
+Styrene degradation,rn00643
+Atrazine degradation,rn00791
+Caprolactam degradation,rn00930
+Bisphenol degradation,rn00363
+Dioxin degradation,rn00621
+Naphthalene degradation,rn00626
+Polycyclic aromatic hydrocarbon degradation,rn00624
+Furfural degradation,rn00365
+Steroid degradation,rn00984
+Metabolism of xenobiotics by cytochrome P450,rn00980
+Drug metabolism - cytochrome P450,rn00982
+Drug metabolism - other enzymes,rn00983
+Overview of biosynthetic pathways,rn01010
+Biosynthesis of plant secondary metabolites,rn01060
+Biosynthesis of phenylpropanoids,rn01061
+Biosynthesis of terpenoids and steroids,rn01062
+Biosynthesis of alkaloids derived from shikimate pathway,rn01063
+"Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",rn01064
+Biosynthesis of alkaloids derived from histidine and purine,rn01065
+Biosynthesis of alkaloids derived from terpenoid and polyketide,rn01066
+Biosynthesis of plant hormones,rn01070
+RNA polymerase,rn03020
+Basal transcription factors,rn03022
+Spliceosome,rn03040
+Ribosome,rn03010
+Aminoacyl-tRNA biosynthesis,rn00970
+Nucleocytoplasmic transport,rn03013
+mRNA surveillance pathway,rn03015
+Ribosome biogenesis in eukaryotes,rn03008
+Protein export,rn03060
+Protein processing in endoplasmic reticulum,rn04141
+SNARE interactions in vesicular transport,rn04130
+Ubiquitin mediated proteolysis,rn04120
+Sulfur relay system,rn04122
+Proteasome,rn03050
+RNA degradation,rn03018
+DNA replication,rn03030
+Base excision repair,rn03410
+Nucleotide excision repair,rn03420
+Mismatch repair,rn03430
+Homologous recombination,rn03440
+Non-homologous end-joining,rn03450
+Fanconi anemia pathway,rn03460
+Viral genome structure,rn03230
+Viral replication,rn03240
+Viral life cycle - HIV-1,rn03250
+Virion - Human immunodeficiency virus,rn03260
+Virion - Coronavirus,rn03262
+Virion - Influenza A virus,rn03261
+Virion - Enterovirus,rn03263
+Virion - Flavivirus,rn03264
+Virion - Lyssavirus,rn03265
+Virion - Herpesvirus,rn03266
+Virion - Orthopoxvirus,rn03268
+Virion - Adenovirus,rn03267
+ABC transporters,rn02010
+Phosphotransferase system (PTS),rn02060
+Bacterial secretion system,rn03070
+Two-component system,rn02020
+MAPK signaling pathway,rn04010
+MAPK signaling pathway - fly,rn04013
+MAPK signaling pathway - plant,rn04016
+MAPK signaling pathway - yeast,rn04011
+ErbB signaling pathway,rn04012
+Ras signaling pathway,rn04014
+Rap1 signaling pathway,rn04015
+Wnt signaling pathway,rn04310
+Notch signaling pathway,rn04330
+Hedgehog signaling pathway,rn04340
+Hedgehog signaling pathway - fly,rn04341
+TGF-beta signaling pathway,rn04350
+Hippo signaling pathway,rn04390
+Hippo signaling pathway - fly,rn04391
+Hippo signaling pathway - multiple species,rn04392
+VEGF signaling pathway,rn04370
+Apelin signaling pathway,rn04371
+JAK-STAT signaling pathway,rn04630
+NF-kappa B signaling pathway,rn04064
+TNF signaling pathway,rn04668
+HIF-1 signaling pathway,rn04066
+FoxO signaling pathway,rn04068
+Calcium signaling pathway,rn04020
+Phosphatidylinositol signaling system,rn04070
+Phospholipase D signaling pathway,rn04072
+Sphingolipid signaling pathway,rn04071
+cAMP signaling pathway,rn04024
+cGMP-PKG signaling pathway,rn04022
+PI3K-Akt signaling pathway,rn04151
+AMPK signaling pathway,rn04152
+mTOR signaling pathway,rn04150
+Plant hormone signal transduction,rn04075
+Neuroactive ligand-receptor interaction,rn04080
+Cytokine-cytokine receptor interaction,rn04060
+Viral protein interaction with cytokine and cytokine receptor,rn04061
+ECM-receptor interaction,rn04512
+Cell adhesion molecules,rn04514
+Endocytosis,rn04144
+Phagosome,rn04145
+Lysosome,rn04142
+Peroxisome,rn04146
+Autophagy - animal,rn04140
+Autophagy - yeast,rn04138
+Autophagy - other,rn04136
+Mitophagy - animal,rn04137
+Mitophagy - yeast,rn04139
+Cell cycle,rn04110
+Cell cycle - yeast,rn04111
+Cell cycle - Caulobacter,rn04112
+Meiosis - yeast,rn04113
+Oocyte meiosis,rn04114
+Apoptosis,rn04210
+Apoptosis - fly,rn04214
+Apoptosis - multiple species,rn04215
+Ferroptosis,rn04216
+Necroptosis,rn04217
+p53 signaling pathway,rn04115
+Cellular senescence,rn04218
+Focal adhesion,rn04510
+Adherens junction,rn04520
+Tight junction,rn04530
+Gap junction,rn04540
+Signaling pathways regulating pluripotency of stem cells,rn04550
+Quorum sensing,rn02024
+Biofilm formation - Vibrio cholerae,rn05111
+Biofilm formation - Pseudomonas aeruginosa,rn02025
+Biofilm formation - Escherichia coli,rn02026
+Bacterial chemotaxis,rn02030
+Flagellar assembly,rn02040
+Motor proteins,rn04814
+Regulation of actin cytoskeleton,rn04810
+Hematopoietic cell lineage,rn04640
+Complement and coagulation cascades,rn04610
+Platelet activation,rn04611
+Neutrophil extracellular trap formation,rn04613
+Toll-like receptor signaling pathway,rn04620
+Toll and Imd signaling pathway,rn04624
+NOD-like receptor signaling pathway,rn04621
+RIG-I-like receptor signaling pathway,rn04622
+Cytosolic DNA-sensing pathway,rn04623
+C-type lectin receptor signaling pathway,rn04625
+Natural killer cell mediated cytotoxicity,rn04650
+Antigen processing and presentation,rn04612
+T cell receptor signaling pathway,rn04660
+Th1 and Th2 cell differentiation,rn04658
+Th17 cell differentiation,rn04659
+IL-17 signaling pathway,rn04657
+B cell receptor signaling pathway,rn04662
+Fc epsilon RI signaling pathway,rn04664
+Fc gamma R-mediated phagocytosis,rn04666
+Leukocyte transendothelial migration,rn04670
+Intestinal immune network for IgA production,rn04672
+Chemokine signaling pathway,rn04062
+Insulin secretion,rn04911
+Insulin signaling pathway,rn04910
+Glucagon signaling pathway,rn04922
+Regulation of lipolysis in adipocytes,rn04923
+Adipocytokine signaling pathway,rn04920
+PPAR signaling pathway,rn03320
+GnRH secretion,rn04929
+GnRH signaling pathway,rn04912
+Ovarian steroidogenesis,rn04913
+Estrogen signaling pathway,rn04915
+Progesterone-mediated oocyte maturation,rn04914
+Prolactin signaling pathway,rn04917
+Oxytocin signaling pathway,rn04921
+Relaxin signaling pathway,rn04926
+"Growth hormone synthesis, secretion and action",rn04935
+Thyroid hormone synthesis,rn04918
+Thyroid hormone signaling pathway,rn04919
+"Parathyroid hormone synthesis, secretion and action",rn04928
+Melanogenesis,rn04916
+Renin secretion,rn04924
+Renin-angiotensin system,rn04614
+Aldosterone synthesis and secretion,rn04925
+Cortisol synthesis and secretion,rn04927
+Cardiac muscle contraction,rn04260
+Adrenergic signaling in cardiomyocytes,rn04261
+Vascular smooth muscle contraction,rn04270
+Salivary secretion,rn04970
+Gastric acid secretion,rn04971
+Pancreatic secretion,rn04972
+Bile secretion,rn04976
+Carbohydrate digestion and absorption,rn04973
+Protein digestion and absorption,rn04974
+Fat digestion and absorption,rn04975
+Cholesterol metabolism,rn04979
+Vitamin digestion and absorption,rn04977
+Mineral absorption,rn04978
+Vasopressin-regulated water reabsorption,rn04962
+Aldosterone-regulated sodium reabsorption,rn04960
+Endocrine and other factor-regulated calcium reabsorption,rn04961
+Proximal tubule bicarbonate reclamation,rn04964
+Collecting duct acid secretion,rn04966
+Glutamatergic synapse,rn04724
+GABAergic synapse,rn04727
+Cholinergic synapse,rn04725
+Dopaminergic synapse,rn04728
+Serotonergic synapse,rn04726
+Long-term potentiation,rn04720
+Long-term depression,rn04730
+Retrograde endocannabinoid signaling,rn04723
+Synaptic vesicle cycle,rn04721
+Neurotrophin signaling pathway,rn04722
+Phototransduction,rn04744
+Phototransduction - fly,rn04745
+Olfactory transduction,rn04740
+Taste transduction,rn04742
+Inflammatory mediator regulation of TRP channels,rn04750
+Dorso-ventral axis formation,rn04320
+Axon guidance,rn04360
+Axon regeneration,rn04361
+Osteoclast differentiation,rn04380
+Longevity regulating pathway,rn04211
+Longevity regulating pathway - worm,rn04212
+Longevity regulating pathway - multiple species,rn04213
+Circadian rhythm,rn04710
+Circadian entrainment,rn04713
+Circadian rhythm - fly,rn04711
+Circadian rhythm - plant,rn04712
+Thermogenesis,rn04714
+Plant-pathogen interaction,rn04626
+Pathways in cancer,rn05200
+Transcriptional misregulation in cancer,rn05202
+MicroRNAs in cancer,rn05206
+Proteoglycans in cancer,rn05205
+Chemical carcinogenesis - DNA adducts,rn05204
+Chemical carcinogenesis - receptor activation,rn05207
+Chemical carcinogenesis - reactive oxygen species,rn05208
+Viral carcinogenesis,rn05203
+Central carbon metabolism in cancer,rn05230
+Choline metabolism in cancer,rn05231
+PD-L1 expression and PD-1 checkpoint pathway in cancer,rn05235
+Colorectal cancer,rn05210
+Pancreatic cancer,rn05212
+Hepatocellular carcinoma,rn05225
+Gastric cancer,rn05226
+Glioma,rn05214
+Thyroid cancer,rn05216
+Acute myeloid leukemia,rn05221
+Chronic myeloid leukemia,rn05220
+Basal cell carcinoma,rn05217
+Melanoma,rn05218
+Renal cell carcinoma,rn05211
+Bladder cancer,rn05219
+Prostate cancer,rn05215
+Endometrial cancer,rn05213
+Breast cancer,rn05224
+Small cell lung cancer,rn05222
+Non-small cell lung cancer,rn05223
+Human T-cell leukemia virus 1 infection,rn05166
+Human immunodeficiency virus 1 infection,rn05170
+Hepatitis B,rn05161
+Hepatitis C,rn05160
+Coronavirus disease - COVID-19,rn05171
+Influenza A,rn05164
+Measles,rn05162
+Herpes simplex virus 1 infection,rn05168
+Human cytomegalovirus infection,rn05163
+Kaposi sarcoma-associated herpesvirus infection,rn05167
+Epstein-Barr virus infection,rn05169
+Human papillomavirus infection,rn05165
+Vibrio cholerae infection,rn05110
+Epithelial cell signaling in Helicobacter pylori infection,rn05120
+Pathogenic Escherichia coli infection,rn05130
+Salmonella infection,rn05132
+Shigellosis,rn05131
+Yersinia infection,rn05135
+Pertussis,rn05133
+Legionellosis,rn05134
+Staphylococcus aureus infection,rn05150
+Tuberculosis,rn05152
+Bacterial invasion of epithelial cells,rn05100
+Amoebiasis,rn05146
+Malaria,rn05144
+Toxoplasmosis,rn05145
+Leishmaniasis,rn05140
+Chagas disease,rn05142
+African trypanosomiasis,rn05143
+Asthma,rn05310
+Systemic lupus erythematosus,rn05322
+Rheumatoid arthritis,rn05323
+Autoimmune thyroid disease,rn05320
+Inflammatory bowel disease,rn05321
+Allograft rejection,rn05330
+Graft-versus-host disease,rn05332
+Primary immunodeficiency,rn05340
+Alzheimer disease,rn05010
+Parkinson disease,rn05012
+Amyotrophic lateral sclerosis,rn05014
+Huntington disease,rn05016
+Spinocerebellar ataxia,rn05017
+Prion disease,rn05020
+Pathways of neurodegeneration - multiple diseases,rn05022
+Cocaine addiction,rn05030
+Amphetamine addiction,rn05031
+Morphine addiction,rn05032
+Nicotine addiction,rn05033
+Alcoholism,rn05034
+Lipid and atherosclerosis,rn05417
+Fluid shear stress and atherosclerosis,rn05418
+Hypertrophic cardiomyopathy,rn05410
+Arrhythmogenic right ventricular cardiomyopathy,rn05412
+Dilated cardiomyopathy,rn05414
+Diabetic cardiomyopathy,rn05415
+Viral myocarditis,rn05416
+Type II diabetes mellitus,rn04930
+Type I diabetes mellitus,rn04940
+Maturity onset diabetes of the young,rn04950
+Alcoholic liver disease,rn04936
+Non-alcoholic fatty liver disease,rn04932
+Insulin resistance,rn04931
+AGE-RAGE signaling pathway in diabetic complications,rn04933
+Cushing syndrome,rn04934
+beta-Lactam resistance,rn01501
+Vancomycin resistance,rn01502
+Cationic antimicrobial peptide (CAMP) resistance,rn01503
+EGFR tyrosine kinase inhibitor resistance,rn01521
+Platinum drug resistance,rn01524
+Antifolate resistance,rn01523
+Endocrine resistance,rn01522
+Penicillins,rn07011
+Cephalosporins - parenteral agents,rn07012
+Cephalosporins - oral agents,rn07013
+Aminoglycosides,rn07021
+Tetracyclines,rn07019
+Macrolides and ketolides,rn07020
+Quinolones,rn07014
+Rifamycins,rn07023
+Antifungal agents,rn07026
+Antiviral agents,rn07044
+Anti-HIV agents,rn07053
+Antineoplastics - alkylating agents,rn07040
+Antineoplastics - antimetabolic agents,rn07041
+Antineoplastics - agents from natural products,rn07042
+Antineoplastics - hormones,rn07043
+Antineoplastics - protein kinase inhibitors,rn07045
+Hypnotics,rn07032
+Anxiolytics,rn07030
+Anticonvulsants,rn07033
+Local analgesics,rn07015
+Opioid analgesics,rn07039
+Antipsychotics,rn07028
+Antipsychotics - phenothiazines,rn07029
+Antipsychotics - butyrophenones,rn07031
+Antidepressants,rn07027
+Agents for Alzheimer-type dementia,rn07056
+Antiparkinsonian agents,rn07057
+Sulfonamide derivatives - overview,rn07055
+Sulfonamide derivatives - sulfa drugs,rn07016
+Sulfonamide derivatives - diuretics,rn07017
+Sulfonamide derivatives - hypoglycemic agents,rn07018
+Antiarrhythmic drugs,rn07037
+Antiulcer drugs,rn07038
+Immunosuppressive agents,rn07046
+Osteoporosis drugs,rn07047
+Antimigraines,rn07048
+Antithrombosis agents,rn07049
+Antirheumatics - DMARDs and biological agents,rn07050
+Antidiabetics,rn07051
+Antidyslipidemic agents,rn07052
+Antiglaucoma agents,rn07054
+Cholinergic and anticholinergic drugs,rn07220
+alpha-Adrenergic receptor agonists/antagonists,rn07215
+beta-Adrenergic receptor agonists/antagonists,rn07214
+Dopamine receptor agonists/antagonists,rn07213
+Histamine H1 receptor antagonists,rn07212
+Histamine H2/H3 receptor agonists/antagonists,rn07227
+Serotonin receptor agonists/antagonists,rn07211
+Eicosanoid receptor agonists/antagonists,rn07228
+Opioid receptor agonists/antagonists,rn07224
+Angiotensin receptor and endothelin receptor antagonists,rn07229
+Glucocorticoid and mineralocorticoid receptor agonists/antagonists,rn07225
+"Progesterone, androgen and estrogen receptor agonists/antagonists",rn07226
+Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists,rn07223
+Peroxisome proliferator-activated receptor (PPAR) agonists,rn07222
+Nicotinic cholinergic receptor antagonists,rn07221
+GABA-A receptor agonists/antagonists,rn07230
+Calcium channel blocking drugs,rn07036
+Sodium channel blocking drugs,rn07231
+Potassium channel blocking and opening drugs,rn07232
+N-Methyl-D-aspartic acid (NMDA) receptor antagonists,rn07235
+Ion transporter inhibitors,rn07233
+Neurotransmitter transporter inhibitors,rn07234
+Catecholamine transferase inhibitors,rn07216
+Cyclooxygenase inhibitors,rn07219
+HMG-CoA reductase inhibitors,rn07024
+Renin-angiotensin system inhibitors,rn07217
+HIV protease inhibitors,rn07218
+Quinolines,rn07025
+Eicosanoids,rn07034
+Prostaglandins,rn07035
+Benzoic acid family,rn07110
+"1,2-Diphenyl substitution family",rn07112
+Naphthalene family,rn07114
+Benzodiazepine family,rn07117

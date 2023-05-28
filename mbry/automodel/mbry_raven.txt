@@ -1,0 +1,1299 @@
+R00006	pyruvate:pyruvate acetaldehydetransferase (decarboxylating);	2.2.1.6	B1812_19675 or B1812_19980 or B1812_19990		
+R00014	pyruvate:thiamin diphosphate acetaldehydetransferase (decarboxylating)	1.2.4.1;2.2.1.6;4.1.1.1	B1812_18235 or B1812_18230 or B1812_19675 or B1812_19980 or B1812_19990	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism	
+R00018	putrescine:putrescine 4-aminobutyltransferase (ammonia-forming)	2.5.1.44	B1812_05690	Tropane, piperidine and pyridine alkaloid biosynthesis	
+R00022	chitobiose N-acetylglucosaminohydrolase	3.2.1.52	B1812_06880	Amino sugar and nucleotide sugar metabolism	
+R00025	ethylnitronate:oxygen 2-oxidoreductase (nitrite-forming)	1.13.12.16	B1812_00670	Nitrogen metabolism	
+R00026	cellobiose glucohydrolase	3.2.1.21	B1812_15755		
+R00036	5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming)	4.2.1.24	B1812_17825	Porphyrin metabolism	
+R00066	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase	2.5.1.9	B1812_19740	Riboflavin metabolism	
+R00078	Fe(II):oxygen oxidoreductase;	1.16.3.1	B1812_07520 or B1812_09110	Porphyrin metabolism	
+R00081	ferrocytochrome-c:oxygen oxidoreductase	1.7.2.1;7.1.1.9	B1812_05015 or B1812_18765 or B1812_21535 or B1812_05020 or B1812_18760 or B1812_21540 or B1812_05005 or B1812_05010 or B1812_18775 or B1812_21530		
+R00084	porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing);	2.5.1.61	B1812_05030	Porphyrin metabolism	
+R00087	ATP diphosphohydrolase (diphosphate-forming);	3.6.1.8;3.6.1.9	B1812_21070	Purine metabolism	
+R00089	ATP diphosphate-lyase (cyclizing; 3',5'-cyclic-AMP-forming)	4.6.1.1	B1812_00695 or B1812_01915 or B1812_02760 or B1812_06715 or B1812_08810 or B1812_19545	Purine metabolism	
+R00094	glutathione:NAD+ oxidoreductase	1.8.1.7	B1812_11495		
+R00103	NAD+ phosphohydrolase	3.6.1.9;3.6.1.22	B1812_21070	Nicotinate and nicotinamide metabolism	
+R00104	ATP:NAD+ 2'-phosphotransferase	2.7.1.23	B1812_02915	Nicotinate and nicotinamide metabolism	
+R00112	NADPH:NAD+ oxidoreductase	1.6.1.1;1.6.1.2;1.6.1.3	B1812_17400 or B1812_17405 or B1812_17410	Nicotinate and nicotinamide metabolism	
+R00114	L-glutamate:NADP+ oxidoreductase (transaminating)	1.4.1.13	B1812_00470 or B1812_18715	Alanine, aspartate and glutamate metabolism;Nitrogen metabolism	
+R00115	glutathione:NADP+ oxidoreductase	1.8.1.7	B1812_11495	Glutathione metabolism	
+R00127	ATP:AMP phosphotransferase	2.7.4.3	B1812_15630	Purine metabolism	
+R00130	ATP:dephospho-CoA 3'-phosphotransferase	2.7.1.24	B1812_09875	Pantothenate and CoA biosynthesis	
+R00132	carbonate hydro-lyase (carbon-dioxide-forming);	4.2.1.1	B1812_01215 or B1812_12700 or B1812_12795 or B1812_16115 or B1812_16265 or B1812_16325		
+R00137	ATP:nicotinamide-nucleotide adenylyltransferase	2.7.7.1;2.7.7.18	B1812_03450	Nicotinate and nicotinamide metabolism	
+R00139	ATP:2'-deoxy-5-hydroxymethylcytidine-5'-diphosphate phosphotransferase	2.7.4.6	B1812_05375	Pyrimidine metabolism	
+R00143	ammonia:NAD+ oxidoreductase;	1.7.1.10;1.7.99.1	B1812_09650	Nitrogen metabolism	
+R00148	ammonia,ubiquinol:oxygen oxidoreductase;	1.14.99.39	B1812_00565 or B1812_13465 or B1812_14775 or B1812_18680 or B1812_00560 or B1812_13470 or B1812_14780 or B1812_18685 or B1812_00555 or B1812_06380 or B1812_12550 or B1812_13455 or B1812_14770 or B1812_18675	Nitrogen metabolism	
+R00156	ATP:UDP phosphotransferase	2.7.4.6	B1812_05375	Pyrimidine metabolism	
+R00158	ATP:UMP phosphotransferase	2.7.4.4;2.7.4.14;2.7.4.22	B1812_20405	Pyrimidine metabolism	
+R00161	ATP:FMN adenylyltransferase	2.7.7.2	B1812_16280	Riboflavin metabolism	
+R00177	ATP:L-methionine S-adenosyltransferase	2.5.1.6	B1812_01225	Cysteine and methionine metabolism;Biosynthesis of various plant secondary metabolites	
+R00183	adenosine 5'-monophosphate phosphohydrolase	3.1.3.5	B1812_00085	Purine metabolism	
+R00188	adenosine-3',5'-bisphosphate 3'-phosphohydrolase	3.1.3.7;3.1.3.97	B1812_11865		
+R00190	AMP:diphosphate phospho-D-ribosyltransferase	2.4.2.7	B1812_12160	Purine metabolism	
+R00191	adenosine 3',5'-phosphate 5'-nucleotidohydrolase	3.1.4.17;3.1.4.53	B1812_18655 or B1812_21630	Purine metabolism	
+R00192	S-Adenosyl-L-homocysteine hydrolase	3.13.2.1	B1812_20060	Cysteine and methionine metabolism	
+R00196	(S)-Lactate:ferricytochrome-c 2-oxidoreductase	1.1.2.3	B1812_07235	Pyruvate metabolism	
+R00199	ATP:pyruvate,water phosphotransferase	2.7.9.2	B1812_18215	Glycolysis / Gluconeogenesis;Pyruvate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00200	ATP:pyruvate 2-O-phosphotransferase	2.7.1.40	B1812_06770 or B1812_06945	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R00206	ATP:pyruvate,phosphate phosphotransferase	2.7.9.1	B1812_03055	Glycolysis / Gluconeogenesis;Pyruvate metabolism;Carbon fixation in photosynthetic organisms;Carbon fixation pathways in prokaryotes	
+R00209	pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating);	1.2.1.104	B1812_18235 or B1812_18230 or B1812_15670 or B1812_17770 or B1812_10465		
+R00216	(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating)	1.1.1.40	B1812_01755 or B1812_08775	Pyruvate metabolism;Carbon fixation in photosynthetic organisms	
+R00226	pyruvate:pyruvate acetaldehydetransferase (decarboxylating);	2.2.1.6	B1812_19675 or B1812_19980 or B1812_19990	Valine, leucine and isoleucine biosynthesis;Butanoate metabolism;C5-Branched dibasic acid metabolism;Pantothenate and CoA biosynthesis	
+R00230	acetyl-CoA:phosphate acetyltransferase	2.3.1.8	B1812_05185	Taurine and hypotaurine metabolism;Pyruvate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00235	Acetate:CoA ligase (AMP-forming)	6.2.1.1	B1812_11570	Glycolysis / Gluconeogenesis;Glyoxylate and dicarboxylate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00236	acetyl adenylate:CoA acetyltransferase	6.2.1.1	B1812_11570	Pyruvate metabolism	
+R00237	(3S)-citramalyl-CoA pyruvate-lyase (acetyl-CoA-forming)	4.1.3.25	B1812_00060 or B1812_17545	C5-Branched dibasic acid metabolism;Carbon fixation pathways in prokaryotes	
+R00238	acetyl-CoA:acetyl-CoA C-acetyltransferase	2.3.1.9;2.3.1.16	B1812_02625 or B1812_13220 or B1812_16415	Fatty acid degradation;Valine, leucine and isoleucine degradation;Lysine degradation;Benzoate degradation;Tryptophan metabolism;Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Butanoate metabolism;Carbon fixation pathways in prokaryotes;Terpenoid backbone biosynthesis	
+R00239	ATP:L-glutamate 5-phosphotransferase	2.7.2.11	B1812_03035	Arginine and proline metabolism;Carbapenem biosynthesis	
+R00243	L-glutamate:NAD+ oxidoreductase (deaminating)	1.4.1.2;1.4.1.3;1.4.1.14	B1812_16445	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Taurine and hypotaurine metabolism;Nitrogen metabolism	
+R00245	L-glutamate gamma-semialdehyde:NAD+ oxidoreductase	1.2.1.88	B1812_02890	Arginine and proline metabolism	
+R00248	L-glutamate:NADP+ oxidoreductase (deaminating)	1.4.1.3;1.4.1.4;1.4.1.13	B1812_00470 or B1812_18715	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Nitrogen metabolism	
+R00251	5-oxo-L-proline amidohydrolase (ATP-hydrolysing)	3.5.2.9	B1812_07045 or B1812_07035	Glutathione metabolism	
+R00253	L-Glutamate:ammonia ligase (ADP-forming)	6.3.1.2	B1812_03860	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Glyoxylate and dicarboxylate metabolism;Nitrogen metabolism	
+R00256	L-glutamine amidohydrolase	1.4.1.13;1.4.1.14;1.4.7.1;2.6.1.85	B1812_14820 or B1812_02375 or B1812_12015	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism	
+R00257	Deamido-NAD+:L-glutamine amido-ligase (AMP-forming)	6.3.5.1	B1812_01200	Nicotinate and nicotinamide metabolism	
+R00259	acetyl-CoA:L-glutamate N-acetyltransferase	2.3.1.1	B1812_01810	Arginine biosynthesis	
+R00264	2,5-dioxopentanoate:NADP+ 5-oxidoreductase	1.2.1.3;1.2.1.26	B1812_01610	Pentose and glucuronate interconversions;Ascorbate and aldarate metabolism;D-Amino acid metabolism	
+R00267	Isocitrate:NADP+ oxidoreductase (decarboxylating)	1.1.1.42	B1812_14835	Glutathione metabolism;Carbon fixation pathways in prokaryotes	
+R00268	oxalosuccinate carboxy-lyase (2-oxoglutarate-forming)	1.1.1.42	B1812_14835	Citrate cycle (TCA cycle)	
+R00271	acetyl-CoA:2-oxoglutarate C-acetyltransferase (thioester-hydrolysing, carboxymethyl forming)	2.3.3.14	B1812_07905	Lysine biosynthesis;Pyruvate metabolism	
+R00274	glutathione:hydrogen-peroxide oxidoreductase	1.11.1.9	B1812_03095	Glutathione metabolism	
+R00277	pyridoxamine-5'-phosphate:oxygen oxidoreductase (deaminating)	1.4.3.5	B1812_18475	Vitamin B6 metabolism	
+R00278	pyridoxine 5'-phosphate:oxygen oxidoreductase	1.4.3.5	B1812_18475	Vitamin B6 metabolism	
+R00286	UDP-glucose:NAD+ 6-oxidoreductase	1.1.1.22	B1812_01770	Pentose and glucuronate interconversions;Ascorbate and aldarate metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00287	UDP-glucose glucophosphohydrolase	3.6.1.9;3.6.1.45	B1812_21070	Starch and sucrose metabolism	
+R00289	UTP:alpha-D-glucose-1-phosphate uridylyltransferase	2.7.7.9;2.7.7.64	B1812_09590	Pentose and glucuronate interconversions;Galactose metabolism;Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis;Glycerolipid metabolism	
+R00291	UDP-glucose 4-epimerase;	5.1.3.2	B1812_09585 or B1812_17370	Galactose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00299	ATP:D-glucose 6-phosphotransferase	2.7.1.1;2.7.1.2	B1812_15765	Starch and sucrose metabolism;Streptomycin biosynthesis;Neomycin, kanamycin and gentamicin biosynthesis	
+R00306	cellobiose glucohydrolase	3.2.1.21;3.2.1.74	B1812_15755	Starch and sucrose metabolism	
+R00310	protoheme ferro-lyase (protoporphyrin-forming)	4.98.1.1	B1812_13955	Porphyrin metabolism	
+R00315	ATP:acetate phosphotransferase	2.7.2.1;2.7.2.15	B1812_12045	Taurine and hypotaurine metabolism;Pyruvate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00316	ATP:acetate adenylyltransferase	6.2.1.1	B1812_11570	Pyruvate metabolism	
+R00317	Acetyl phosphate phosphohydrolase	3.6.1.7	B1812_12990	Pyruvate metabolism	
+R00330	ATP:GDP phosphotransferase	2.7.4.6	B1812_05375	Purine metabolism	
+R00332	ATP:GMP phosphotransferase	2.7.4.8	B1812_14795	Purine metabolism	
+R00336	guanosine-3',5'-bis(diphosphate) 3'-diphosphohydrolase	3.1.7.2	B1812_00450 or B1812_12360 or B1812_12370	Purine metabolism	
+R00341	ATP:oxaloacetate carboxy-lyase (transphosphorylating;phosphoenolpyruvate-forming)	4.1.1.49	B1812_19060	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism;Carbon fixation in photosynthetic organisms	
+R00342	(S)-malate:NAD+ oxidoreductase	1.1.1.37;1.1.1.299	B1812_20510	Citrate cycle (TCA cycle);Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Methane metabolism;Carbon fixation in photosynthetic organisms;Carbon fixation pathways in prokaryotes	
+R00345	phosphate:oxaloacetate carboxy-lyase (adding phosphate;phosphoenolpyruvate-forming);	4.1.1.31	B1812_17540 or B1812_20705	Pyruvate metabolism;Methane metabolism;Carbon fixation in photosynthetic organisms;Carbon fixation pathways in prokaryotes	
+R00351	acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing)	2.3.3.1;2.3.3.3;2.3.3.16	B1812_12670	Citrate cycle (TCA cycle);Glyoxylate and dicarboxylate metabolism	
+R00355	L-Aspartate:2-oxoglutarate aminotransferase	2.6.1.1	B1812_18810	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Carbon fixation in photosynthetic organisms	
+R00357	L-Aspartic acid:oxygen oxidoreductase (deaminating)	1.4.3.2;1.4.3.16	B1812_18435	Alanine, aspartate and glutamate metabolism	
+R00362	citrate oxaloacetate-lyase (forming acetate from the pro-S carboxymethyl group of citrate);	4.1.3.6	B1812_01160 or B1812_16260 or B1812_18220		
+R00369	L-Alanine:glyoxylate aminotransferase	2.6.1.44	B1812_17505	Alanine, aspartate and glutamate metabolism	
+R00371	Acetyl-CoA:glycine C-acetyltransferase	2.3.1.29	B1812_09135	Glycine, serine and threonine metabolism	
+R00372	Glycine:2-oxoglutarate aminotransferase	2.6.1.4;2.6.1.44	B1812_17505	Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism	
+R00396	L-alanine:NAD+ oxidoreductase (deaminating)	1.4.1.1	B1812_05090	Alanine, aspartate and glutamate metabolism;Taurine and hypotaurine metabolism	
+R00401	alanine racemase	5.1.1.1	B1812_06180	D-Amino acid metabolism	
+R00405	Succinate:CoA ligase (ADP-forming)	6.2.1.5	B1812_11090 or B1812_02340	Citrate cycle (TCA cycle);Propanoate metabolism;Carbon fixation pathways in prokaryotes	
+R00416	UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase	2.7.7.23	B1812_01375 or B1812_10425	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00418	UDP-N-acetyl-D-glucosamine 4-epimerase	5.1.3.2;5.1.3.7	B1812_01445	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00421	UDP-N-acetyl-D-glucosamine:NAD+ 6-oxidoreductase	1.1.1.136	B1812_01450	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00424	GTP 7,8-8,9-dihydrolase	3.5.4.16	B1812_08340		
+R00425	GTP 7,8-8,9-dihydrolase (diphosphate-forming)	3.5.4.25	B1812_04620 or B1812_03540 or B1812_04415	Riboflavin metabolism;Folate biosynthesis	
+R00426	GTP diphosphohydrolase (diphosphate-forming);	3.6.1.9	B1812_21070	Purine metabolism	
+R00428	GTP 8,9-hydrolase	3.5.4.16	B1812_08340	Folate biosynthesis	
+R00429	ATP:GTP 3'-diphosphotransferase	2.7.6.5	B1812_00450 or B1812_12360 or B1812_12370	Purine metabolism	
+R00430	GTP:pyruvate 2-O-phosphotransferase	2.7.1.40	B1812_06770 or B1812_06945		
+R00434	GTP diphosphate-lyase (cyclizing; 3',5'-cyclic-GMP-forming)	4.6.1.1;4.6.1.2	B1812_00695 or B1812_01915 or B1812_02760 or B1812_06715 or B1812_08810 or B1812_19545	Purine metabolism	
+R00451	meso-2,6-diaminoheptanedioate carboxy-lyase (L-lysine-forming)	4.1.1.20	B1812_04985	Lysine biosynthesis;D-Amino acid metabolism	
+R00461	L-Lysine 2,3-aminomutase	5.4.3.2	B1812_19720	Lysine degradation	
+R00473	L-malyl-CoA glyoxylate-lyase (acetyl-CoA-forming)	4.1.3.24	B1812_00060 or B1812_17545	Glyoxylate and dicarboxylate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00475	glycolate:oxygen 2-oxidoreductase	1.1.3.15	B1812_02130 or B1812_02125 or B1812_02120	Glyoxylate and dicarboxylate metabolism	
+R00476	glycolate:acceptor 2-oxidoreductase	1.1.99.14	B1812_02130 or B1812_02125 or B1812_02120	Glyoxylate and dicarboxylate metabolism	
+R00480	ATP:L-aspartate 4-phosphotransferase	2.7.2.4	B1812_17090	Glycine, serine and threonine metabolism;Monobactam biosynthesis;Cysteine and methionine metabolism;Lysine biosynthesis	
+R00481	L-aspartate:oxygen oxidoreductase	1.4.3.16	B1812_18435	Nicotinate and nicotinamide metabolism	
+R00497	gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming)	6.3.2.3	B1812_09560	Glutathione metabolism	
+R00508	3'-phospho-5'-adenylyl sulfate 3'-phosphohydrolase	3.1.3.7	B1812_11865	Sulfur metabolism	
+R00509	ATP:adenylylsulfate 3'-phosphotransferase	2.7.1.25	B1812_14625 or B1812_19065	Purine metabolism;Sulfur metabolism	
+R00511	cytidine-5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.91;3.1.3.-	B1812_00085	Pyrimidine metabolism	
+R00512	ATP:CMP phosphotransferase	2.7.4.14;2.7.4.25	B1812_05300	Pyrimidine metabolism	
+R00515	CTP diphosphohydrolase (diphosphate-forming);	3.6.1.9;3.6.1.65;3.6.1.-	B1812_21070 or B1812_09870 or B1812_16060	Pyrimidine metabolism	
+R00519	formate:NAD+ oxidoreductase	1.17.1.9	B1812_11270 or B1812_11280 or B1812_20185 or B1812_20190 or B1812_20170 or B1812_20175 or B1812_20195	Glyoxylate and dicarboxylate metabolism;Methane metabolism	
+R00522	Oxalate carboxy-lyase	4.1.1.2	B1812_07745 or B1812_21095 or B1812_21100	Glyoxylate and dicarboxylate metabolism	
+R00529	ATP:sulfate adenylyltransferase	2.7.7.4	B1812_19065 or B1812_19070	Purine metabolism;Monobactam biosynthesis;Sulfur metabolism	
+R00549	ATP:riboflavin 5'-phosphotransferase	2.7.1.26	B1812_16280	Riboflavin metabolism	
+R00565	L-Arginine:glycine amidinotransferase	2.1.4.1	B1812_00380	Glycine, serine and threonine metabolism;Arginine and proline metabolism	
+R00570	ATP:CDP phosphotransferase	2.7.4.6	B1812_05375	Pyrimidine metabolism	
+R00571	UTP:ammonia ligase (ADP-forming)	6.3.4.2	B1812_12335	Pyrimidine metabolism	
+R00573	UTP:L-glutamine amido-ligase (ADP-forming)	6.3.4.2	B1812_12335	Pyrimidine metabolism	
+R00575	HCO3-:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)	6.3.5.5	B1812_14820 or B1812_02375	Pyrimidine metabolism;Alanine, aspartate and glutamate metabolism	
+R00578	L-aspartate:L-glutamine amido-ligase (AMP-forming)	6.3.5.4	B1812_01350 or B1812_06505	Alanine, aspartate and glutamate metabolism	
+R00582	O-phospho-L-serine phosphohydrolase	3.1.3.3	B1812_08300	Glycine, serine and threonine metabolism;Methane metabolism	
+R00585	L-Serine:pyruvate aminotransferase	2.6.1.51	B1812_17505	Glycine, serine and threonine metabolism	
+R00586	acetyl-CoA:L-serine O-acetyltransferase	2.3.1.30	B1812_05645 or B1812_07900 or B1812_09455 or B1812_18865	Cysteine and methionine metabolism;Sulfur metabolism;Biosynthesis of various antibiotics	
+R00588	L-Serine:glyoxylate aminotransferase	2.6.1.45	B1812_17505	Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism;Methane metabolism	
+R00597	S-adenosyl-L-methionine:tRNA guanine N1-methyltransferase;	2.1.1.228	B1812_04175		
+R00602	methanol:hydrogen-peroxide oxidoreductase	1.11.1.6;1.11.1.7;1.11.1.21	B1812_08190		
+R00617	ATP:thiamin-phosphate phosphotransferase	2.7.4.16	B1812_18160	Thiamine metabolism	
+R00621		1.2.4.2	B1812_11095	Citrate cycle (TCA cycle)	
+R00651	O-acetyl-L-homoserine:methanethiol 3-amino-3-carboxypropyltransferase;	2.5.1.49	B1812_01580 or B1812_09295 or B1812_10700	Cysteine and methionine metabolism	
+R00654	L-methionine methanethiol-lyase (deaminating;2-oxobutanoate-forming)	4.4.1.11	B1812_02095	Cysteine and methionine metabolism	
+R00658	2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)	4.2.1.11	B1812_10045	Glycolysis / Gluconeogenesis;Methane metabolism	
+R00660	Phosphoenolpyruvate:UDP-N-acetyl-D-glucosamine 1-carboxyvinyl-transferase	2.5.1.7	B1812_20265	Amino sugar and nucleotide sugar metabolism;Peptidoglycan biosynthesis	
+R00662	uridine triphosphate pyrophosphohydrolase	3.6.1.9;3.6.1.-	B1812_21070 or B1812_09870 or B1812_16060	Pyrimidine metabolism	
+R00667	L-Ornithine:2-oxo-acid aminotransferase	2.6.1.13	B1812_08545 or B1812_09115 or B1812_19785	Arginine and proline metabolism	
+R00669	N2-Acetyl-L-ornithine amidohydrolase	3.5.1.14;3.5.1.16	B1812_11020	Arginine biosynthesis	
+R00670	L-ornithine carboxy-lyase (putrescine-forming)	4.1.1.17	B1812_06960 or B1812_12065	Arginine and proline metabolism;Glutathione metabolism	
+R00674	L-serine hydro-lyase (adding indole; L-tryptophan-forming)	4.2.1.20;4.2.1.122	B1812_11140 or B1812_10510	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R00678	L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing)	1.13.11.11;1.13.11.52	B1812_07760	Tryptophan metabolism	
+R00685	L-tryptophan decarboxy-lyase	4.1.1.28;4.1.1.105	B1812_02640	Tryptophan metabolism;Indole alkaloid biosynthesis	
+R00691	L-arogenate hydro-lyase (decarboxylating; L-phenylalanine-forming)	4.2.1.51;4.2.1.91	B1812_03265	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R00694	L-Phenylalanine:2-oxoglutarate aminotransferase	2.6.1.1;2.6.1.5;2.6.1.9;2.6.1.57	B1812_18810 or B1812_17075	Phenylalanine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Tropane, piperidine and pyridine alkaloid biosynthesis	
+R00699	L-phenylalanine carboxy-lyase (phenylethylamine-forming)	4.1.1.28;4.1.1.53	B1812_02640	Phenylalanine metabolism	
+R00700	hydrogen:NAD+ oxidoreductase	1.12.1.2;1.12.1.5	B1812_19420		
+R00705	3-Oxopropanoate:NAD+ oxidoreductase (decarboxylating, CoA-acetylating)	1.2.1.18;1.2.1.27	B1812_16345	beta-Alanine metabolism;Inositol phosphate metabolism;Propanoate metabolism	
+R00706	3-Oxopropanoate:NADP+ oxidoreductase (decarboxylating, CoA-acetylating)	1.2.1.18	B1812_16345	beta-Alanine metabolism;Inositol phosphate metabolism;Propanoate metabolism	
+R00707	(S)-1-pyrroline-5-carboxylate:NAD+ oxidoreductase	1.2.1.88	B1812_02890	Alanine, aspartate and glutamate metabolism;Arginine and proline metabolism	
+R00708	(S)-1-pyrroline-5-carboxylate:NADP+ oxidoreductase	1.2.1.88	B1812_02890	Alanine, aspartate and glutamate metabolism;Arginine and proline metabolism	
+R00710	Acetaldehyde:NAD+ oxidoreductase	1.2.1.3;1.2.1.5	B1812_01610	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R00711	Acetaldehyde:NADP+ oxidoreductase	1.2.1.4;1.2.1.5;1.2.1.-	B1812_07075 or B1812_13450	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R00713	succinate-semialdehyde:NAD+ oxidoreductase	1.2.1.16;1.2.1.24	B1812_10935	Alanine, aspartate and glutamate metabolism;Tyrosine metabolism;Butanoate metabolism;Nicotinate and nicotinamide metabolism	
+R00714	succinate-semialdehyde:NADP+ oxidoreductase	1.2.1.16;1.2.1.79	B1812_10935	Alanine, aspartate and glutamate metabolism;Tyrosine metabolism;Butanoate metabolism;Nicotinate and nicotinamide metabolism	
+R00717	Glycolate:NAD+ oxidoreductase	1.1.1.26;1.1.1.29	B1812_12520 or B1812_17510	Glyoxylate and dicarboxylate metabolism	
+R00720	Inosine 5'-triphosphate pyrophosphohydrolase	3.6.1.66	B1812_11780	Purine metabolism	
+R00722	ATP:IDP phosphotransferase	2.7.4.6	B1812_05375	Purine metabolism	
+R00728	L-tyrosine phenol-lyase (deaminating; pyruvate-forming)	4.1.99.2	B1812_17480	Tyrosine metabolism	
+R00732	L-arogenate:NAD+ oxidoreductase	1.3.1.43;1.3.1.79	B1812_17070	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R00734	L-tyrosine:2-oxoglutarate aminotransferase	2.6.1.1;2.6.1.5;2.6.1.9;2.6.1.57	B1812_18810 or B1812_17075	Ubiquinone and other terpenoid-quinone biosynthesis;Tyrosine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Novobiocin biosynthesis;Isoquinoline alkaloid biosynthesis	
+R00736	L-tyrosine carboxy-lyase (tyramine-forming)	4.1.1.25;4.1.1.28	B1812_02640	Tyrosine metabolism;Methane metabolism;Isoquinoline alkaloid biosynthesis	
+R00742	acetyl-CoA:carbon-dioxide ligase (ADP-forming)	6.4.1.2	B1812_04050 or B1812_16160 or B1812_11145 or B1812_04055	Fatty acid biosynthesis;Aflatoxin biosynthesis;Pyruvate metabolism;Propanoate metabolism;Carbon fixation pathways in prokaryotes	
+R00746	Ethanol:NADP+ oxidoreductase	1.1.1.2;1.1.1.71	B1812_03385	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R00749	ethanolamine ammonia-lyase (acetaldehyde-forming)	4.3.1.7	B1812_11190 or B1812_11195	Glycerophospholipid metabolism	
+R00754	ethanol:NAD+ oxidoreductase	1.1.1.1;1.1.1.71	B1812_18345	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R00756	ATP:D-fructose-6-phosphate 1-phosphotransferase	2.7.1.11	B1812_09340	Methane metabolism	
+R00760	ATP:D-fructose 6-phosphotransferase	2.7.1.1;2.7.1.4	B1812_05170	Starch and sucrose metabolism	
+R00761	D-fructose-6-phosphate D-erythrose-4-phosphate-lyase (adding phosphate; acetyl-phosphate-forming)	4.1.2.22	B1812_18100	Carbon fixation in photosynthetic organisms	
+R00764	diphosphate:D-fructose-6-phosphate 1-phosphotransferase	2.7.1.90	B1812_09340		
+R00768	L-glutamine:D-fructose-6-phosphate isomerase (deaminating);	2.6.1.16	B1812_10420	Alanine, aspartate and glutamate metabolism;Amino sugar and nucleotide sugar metabolism	
+R00771	D-glucose-6-phosphate aldose-ketose-isomerase	5.3.1.9	B1812_03175 or B1812_07720	Starch and sucrose metabolism	
+R00782	L-cysteine hydrogen-sulfide-lyase (deaminating; pyruvate-forming)	4.4.1.1;4.4.1.13;4.4.1.28	B1812_19800	Cysteine and methionine metabolism	
+R00787	ammonia:NAD+ oxidoreductase	1.7.1.4;1.7.1.15	B1812_15935 or B1812_15940	Nitrogen metabolism	
+R00789	ammonia:NADP+ oxidoreductase	1.7.1.4	B1812_15935 or B1812_15940	Nitrogen metabolism	
+R00798	nitrite:acceptor oxidoreductase	1.7.99.-	B1812_15930	Nitrogen metabolism	
+R00830	succinyl-CoA:glycine C-succinyltransferase (decarboxylating)	2.3.1.37	B1812_05585 or B1812_20730	Glycine, serine and threonine metabolism;Porphyrin metabolism	
+R00833	(R)-Methylmalonyl-CoA CoA-carbonylmutase	5.4.99.2	B1812_09640 or B1812_11465	Valine, leucine and isoleucine degradation;Glyoxylate and dicarboxylate metabolism;Propanoate metabolism;Carbon fixation pathways in prokaryotes	
+R00835	D-glucose-6-phosphate:NADP+ 1-oxidoreductase	1.1.1.49;1.1.1.363	B1812_07710		
+R00842	sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase	1.1.1.8;1.1.1.94	B1812_05195	Glycerophospholipid metabolism	
+R00844	sn-Glycerol-3-phosphate:NADP+ 2-oxidoreductase	1.1.1.94	B1812_05195	Glycerophospholipid metabolism	
+R00847	ATP:glycerol 3-phosphotransferase	2.7.1.30	B1812_06950	Glycerolipid metabolism	
+R00848	sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase	1.1.5.3	B1812_02950 or B1812_07110 or B1812_20475	Glycerophospholipid metabolism	
+R00858	hydrogen-sulfide:NADP+ oxidoreductase	1.8.1.2	B1812_19085	Sulfur metabolism	
+R00867	ATP:D-fructose 6-phosphotransferase	2.7.1.1;2.7.1.4	B1812_05170	Fructose and mannose metabolism	
+R00885	GTP:alpha-D-mannose-1-phosphate guanylyltransferase	2.7.7.13	B1812_21410 or B1812_02400	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00888	GDP-alpha-D-mannose 4,6-hydro-lyase (GDP-4-dehydro-alpha-D-rhamnose-forming);	4.2.1.47	B1812_17905	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00894	L-glutamate:L-cysteine gamma-ligase (ADP-forming)	6.3.2.2	B1812_15120	Glutathione metabolism	
+R00896	L-cysteine:2-oxoglutarate aminotransferase	2.6.1.1	B1812_18810	Cysteine and methionine metabolism	
+R00897	O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase;	2.5.1.47;2.5.1.65	B1812_04185 or B1812_18885 or B1812_20270	Cysteine and methionine metabolism;Sulfur metabolism	
+R00899	L-cysteinylglycine dipeptidase	3.4.11.1;3.4.11.2;3.4.11.23;3.4.13.-	B1812_01570 or B1812_04080 or B1812_15745	Glutathione metabolism	
+R00904	3-aminopropanal:NAD+ oxidoreductase	1.2.1.3;1.2.1.5;1.2.1.19	B1812_01610	beta-Alanine metabolism;Pantothenate and CoA biosynthesis	
+R00919	propanoyl-CoA:NADP+ 2-oxidoreductase;	1.3.1.84;1.3.1.-	B1812_05370	Propanoate metabolism;Carbon fixation pathways in prokaryotes	
+R00921	propanoyl-CoA:phosphate propanoyltransferase	2.3.1.8;2.3.1.222	B1812_05185	Propanoate metabolism	
+R00922	2-Methyl-3-oxopropanoate:NAD+ oxidoreductase (CoA-propanoylating)	1.2.1.27	B1812_16345	Valine, leucine and isoleucine degradation	
+R00923	(S)-methylmalonyl-CoA carboxy-lyase (propanoyl-CoA-forming)	4.1.1.-	B1812_00700	Propanoate metabolism	
+R00925	Propanoate:CoA ligase (AMP-forming)	6.2.1.1;6.2.1.17	B1812_11570		
+R00926	Propionyladenylate:CoA propionyltransferase	6.2.1.1;6.2.1.17	B1812_11570	Propanoate metabolism	
+R00928	Acetyl-CoA:propanoate CoA-transferase	2.8.3.1	B1812_05755	Pyruvate metabolism;Propanoate metabolism	
+R00934	L-erythro-3-methylmalyl-CoA glyoxylate-lyase (propanoyl-CoA-forming)	4.1.3.24	B1812_00060 or B1812_17545	Glyoxylate and dicarboxylate metabolism;C5-Branched dibasic acid metabolism;Carbon fixation pathways in prokaryotes	
+R00935	(S)-Methylmalonate semialdehyde:NAD+ oxidoreductase (CoA-propanoylating)	1.2.1.27	B1812_16345	Propanoate metabolism	
+R00936	5,6,7,8-tetrahydrofolate:NAD+ oxidoreductase	1.5.1.3	B1812_10365	One carbon pool by folate;Folate biosynthesis	
+R00937	5,6,7,8-tetrahydrofolate:NAD+ oxidoreductase	1.5.1.3	B1812_10365	One carbon pool by folate;Folate biosynthesis	
+R00939	5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase	1.5.1.3	B1812_10365	One carbon pool by folate;Folate biosynthesis	
+R00940	5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase	1.5.1.3	B1812_10365	One carbon pool by folate;Folate biosynthesis	
+R00942	Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	6.3.2.17	B1812_11150	Folate biosynthesis	
+R00943	Formate:tetrahydrofolate ligase (ADP-forming)	6.3.4.3	B1812_17500	One carbon pool by folate;Carbon fixation pathways in prokaryotes	
+R00945	5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase	2.1.2.1	B1812_07245 or B1812_20575	Glycine, serine and threonine metabolism;Cyanoamino acid metabolism;Glyoxylate and dicarboxylate metabolism;One carbon pool by folate;Methane metabolism	
+R00946	5-methyltetrahydrofolate:L-homocysteine S-methyltransferase	2.1.1.13	B1812_03980	Cysteine and methionine metabolism;One carbon pool by folate	
+R00955	UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase	2.7.7.12	B1812_16105	Galactose metabolism;Amino sugar and nucleotide sugar metabolism	
+R00956	CTP:alpha-D-glucose-1-phosphate cytidylyltransferase	2.7.7.33	B1812_08400	Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00959	alpha-D-Glucose 1-phosphate 1,6-phosphomutase	5.4.2.2;5.4.2.5	B1812_02305	Glycolysis / Gluconeogenesis;Galactose metabolism;Amino sugar and nucleotide sugar metabolism	
+R00963	uridine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.-	B1812_00085	Pyrimidine metabolism	
+R00965	orotidine-5'-phosphate carboxy-lyase (UMP-forming)	4.1.1.23	B1812_03885	Pyrimidine metabolism	
+R00985	chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)	4.1.3.27	B1812_04260 or B1812_04275	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R00986	Chorismate pyruvate-lyase (amino-accepting)	4.1.3.27	B1812_04260 or B1812_04275	Phenylalanine, tyrosine and tryptophan biosynthesis;Phenazine biosynthesis	
+R00994	(2R,3S)-3-methylmalate:NAD+ oxidoreductase	1.1.1.85	B1812_12315	Valine, leucine and isoleucine biosynthesis;C5-Branched dibasic acid metabolism	
+R01015	D-glyceraldehyde-3-phosphate aldose-ketose-isomerase	5.3.1.1	B1812_03480	Glycolysis / Gluconeogenesis;Fructose and mannose metabolism;Inositol phosphate metabolism;Carbon fixation in photosynthetic organisms	
+R01030	sn-Glycero-3-phosphocholine glycerophosphohydrolase	3.1.4.2;3.1.4.46	B1812_07255	Glycerophospholipid metabolism	
+R01041	glycerol:NADP+ oxidoreductase	1.1.1.2;1.1.1.21;1.1.1.72;1.1.1.372	B1812_03385	Glycerolipid metabolism	
+R01049	ATP:D-ribose-5-phosphate diphosphotransferase	2.7.6.1	B1812_03000 or B1812_05065	Pentose phosphate pathway;Purine metabolism	
+R01056	D-ribose-5-phosphate aldose-ketose-isomerase	5.3.1.6	B1812_13950	Pentose phosphate pathway;Carbon fixation in photosynthetic organisms	
+R01057	D-Ribose 1,5-phosphomutase	5.4.2.2;5.4.2.7	B1812_02305	Pentose phosphate pathway;Purine metabolism	
+R01061	D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)	1.2.1.12;1.2.1.59	B1812_12285	Glycolysis / Gluconeogenesis;Carbon fixation in photosynthetic organisms	
+R01067	D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	2.2.1.1	B1812_02725 or B1812_07725 or B1812_21435 or B1812_21440	Carbon fixation in photosynthetic organisms	
+R01068	D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)	4.1.2.13	B1812_09170 or B1812_11395	Methane metabolism;Carbon fixation in photosynthetic organisms	
+R01070	beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)	4.1.2.13	B1812_09170 or B1812_11395	Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism	
+R01071	1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase	2.4.2.17	B1812_02410 or B1812_02405	Histidine metabolism	
+R01072	5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)	2.4.2.14	B1812_05665	Purine metabolism;Alanine, aspartate and glutamate metabolism	
+R01073	N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate phosphoribosyl-transferase	2.4.2.18	B1812_04280	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01074	biotin:CoA ligase (AMP-forming);	6.2.1.11;6.3.4.9;6.3.4.10;6.3.4.11	B1812_03650	Biotin metabolism	
+R01078	dethiobiotin:sulfur sulfurtransferase	2.8.1.6	B1812_12600	Biotin metabolism	
+R01082	(S)-malate hydro-lyase (fumarate-forming)	4.2.1.2	B1812_08770 or B1812_10650	Citrate cycle (TCA cycle);Pyruvate metabolism;Carbon fixation pathways in prokaryotes	
+R01083	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)	4.3.2.2	B1812_17235	Purine metabolism;Alanine, aspartate and glutamate metabolism	
+R01085	3-fumarylpyruvate fumarylhydrolase	3.7.1.5;3.7.1.20	B1812_07570	Tyrosine metabolism	
+R01086	2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming)	4.3.2.1	B1812_02610	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism	
+R01090	L-Leucine:2-oxoglutarate aminotransferase	2.6.1.6;2.6.1.42;2.6.1.67	B1812_09305 or B1812_19775	Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis;Glucosinolate biosynthesis	
+R01092	ATP:alpha-D-galactose 1-phosphotransferase	2.7.1.6	B1812_16100	Galactose metabolism;Amino sugar and nucleotide sugar metabolism	
+R01106	nitrite:(acceptor) oxidoreductase	1.7.99.-	B1812_15930		
+R01122	delta2-isopentenyl-diphosphate:tRNA isopentenyltransferase	2.5.1.75	B1812_01955	Zeatin biosynthesis	
+R01126	inosine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.99;3.1.3.-	B1812_00085	Purine metabolism	
+R01127	IMP 1,2-hydrolase (decyclizing)	3.5.4.10	B1812_13560	Purine metabolism	
+R01130	IMP:NAD+ oxidoreductase	1.1.1.205	B1812_20245	Purine metabolism	
+R01132	IMP:diphosphate phospho-D-ribosyltransferase	2.4.2.8	B1812_21360	Purine metabolism	
+R01135	IMP:L-aspartate ligase (GDP-forming)	6.3.4.4	B1812_17680 or B1812_18850	Purine metabolism;Alanine, aspartate and glutamate metabolism	
+R01137	ATP:dADP phosphotransferase	2.7.4.6	B1812_05375	Purine metabolism	
+R01138	dATP:pyruvate 2-O-phosphotransferase	2.7.1.40	B1812_06770 or B1812_06945		
+R01142	Methane,NADH:oxygen oxidoreductase (hydroxylating)	1.14.13.25	B1812_14140 or B1812_14135 or B1812_14125 or B1812_14130 or B1812_14115 or B1812_14120	Methane metabolism	
+R01146	methanol:ferricytochrome-c oxidoreductase;	1.1.2.7;1.1.2.10	B1812_04775 or B1812_05555 or B1812_07070	Methane metabolism	
+R01150	D-alanine:D-alanine ligase (ADP-forming)	6.3.2.4	B1812_00890	D-Amino acid metabolism;Peptidoglycan biosynthesis	
+R01158	L-histidinol:NAD+ oxidoreductase	1.1.1.23	B1812_17655		
+R01163	L-histidinal:NAD+ oxidoreductase	1.1.1.23	B1812_17655	Histidine metabolism	
+R01177	butanoyl-CoA:acetyl-CoA C-butanoyltransferase	2.3.1.9;2.3.1.16	B1812_02625 or B1812_13220 or B1812_16415	Fatty acid elongation;Fatty acid degradation	
+R01179	butanoyl-CoA:acetate CoA-transferase	2.8.3.8	B1812_03950 or B1812_03955	Butanoate metabolism	
+R01185	1D-myo-inositol 1-phosphate phosphohydrolase	3.1.3.25	B1812_07130 or B1812_14030	Inositol phosphate metabolism	
+R01186	1D-myo-inositol 4-phosphate phosphohydrolase	3.1.3.25	B1812_07130 or B1812_14030	Inositol phosphate metabolism	
+R01187	1D-myo-inositol 3-phosphate phosphohydrolase	3.1.3.25	B1812_07130 or B1812_14030	Streptomycin biosynthesis;Inositol phosphate metabolism	
+R01209	2,3-Dihydroxy-3-methylbutanoate hydro-lyase	4.2.1.9	B1812_17145		
+R01213	acetyl-CoA:3-methyl-2-oxobutanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming);	2.3.3.13	B1812_03430 or B1812_18325	Valine, leucine and isoleucine biosynthesis;Pyruvate metabolism	
+R01214	L-Valine:2-oxoglutarate aminotransferase	2.6.1.6;2.6.1.42	B1812_09305 or B1812_19775	Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis;Glucosinolate biosynthesis	
+R01220	5,10-methylenetetrahydrofolate:NADP+ oxidoreductase	1.5.1.5	B1812_17515 or B1812_11370	One carbon pool by folate;Carbon fixation pathways in prokaryotes	
+R01221	glycine:NAD+ 2-oxidoreductase (tetrahydrofolate-methylene-adding);	1.4.1.27	B1812_02900 or B1812_15670 or B1812_17770 or B1812_02910 or B1812_02905	Glyoxylate and dicarboxylate metabolism	
+R01226	5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	B1812_13960	Pantothenate and CoA biosynthesis	
+R01227	guanosine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.-	B1812_00085	Purine metabolism	
+R01229	GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase	2.4.2.8;2.4.2.22	B1812_21360 or B1812_07220	Purine metabolism	
+R01230	Xanthosine-5'-phosphate:ammonia ligase (AMP-forming)	6.3.5.2	B1812_20710	Purine metabolism	
+R01231	Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)	6.3.5.2	B1812_20710	Purine metabolism	
+R01244	Adenine aminohydrolase	3.5.4.2	B1812_21365	Purine metabolism	
+R01248	L-Proline:NAD+ 5-oxidoreductase	1.5.1.2	B1812_21295	Arginine and proline metabolism	
+R01251	L-Proline:NADP+ 5-oxidoreductase	1.5.1.2	B1812_21295	Arginine and proline metabolism	
+R01253	L-proline:quinone oxidoreductase	1.5.5.2	B1812_02890	Arginine and proline metabolism	
+R01256	(S)-malate:CoA ligase (ADP-forming)	6.2.1.9	B1812_17530 or B1812_17525	Glyoxylate and dicarboxylate metabolism;Methane metabolism	
+R01268	Nicotinamide amidohydrolase	3.5.1.19	B1812_05080	Nicotinate and nicotinamide metabolism	
+R01274	palmitoyl-CoA hydrolase	3.1.2.2;3.1.2.22;3.1.2.-	B1812_07330 or B1812_09075 or B1812_14210 or B1812_16290 or B1812_16315	Fatty acid elongation;Biosynthesis of unsaturated fatty acids	
+R01280	Palmitate:CoA ligase (AMP-forming)	6.2.1.3	B1812_03800 or B1812_14705	Fatty acid biosynthesis;Fatty acid degradation	
+R01286	L-cystathionine L-homocysteine-lyase (deaminating; pyruvate-forming)	4.4.1.13	B1812_19800	Cysteine and methionine metabolism	
+R01287	O-acetyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase;	2.5.1.49	B1812_01580 or B1812_09295 or B1812_10700	Cysteine and methionine metabolism	
+R01288	O4-succinyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase;	2.5.1.48;2.5.1.-	B1812_12235	Cysteine and methionine metabolism;Sulfur metabolism	
+R01312	Phosphatidylcholine cholinephosphohydrolase	3.1.4.3	B1812_02250 or B1812_09770 or B1812_14615 or B1812_15870	Glycerophospholipid metabolism	
+R01320	S-adenosyl-L-methionine:phosphatidyl-N-dimethylethanolamine N-methyltransferase	2.1.1.16;2.1.1.71	B1812_03890 or B1812_12650	Glycerophospholipid metabolism	
+R01324	citrate hydroxymutase	4.2.1.3	B1812_09145 or B1812_09255		
+R01325	citrate hydro-lyase (cis-aconitate-forming)	4.2.1.3	B1812_09145 or B1812_09255	Citrate cycle (TCA cycle);Glyoxylate and dicarboxylate metabolism;Carbon fixation pathways in prokaryotes	
+R01334	2-phosphoglycolate phosphohydrolase	3.1.3.18	B1812_12075 or B1812_13350	Glyoxylate and dicarboxylate metabolism	
+R01353	ATP:propanoate phosphotransferase	2.7.2.1;2.7.2.15	B1812_12045	Propanoate metabolism	
+R01354	ATP:propanoate adenylyltransferase	6.2.1.1;6.2.1.17	B1812_11570	Propanoate metabolism	
+R01357	Acetoacetate:CoA ligase (AMP-forming)	6.2.1.16	B1812_16375	Valine, leucine and isoleucine degradation;Butanoate metabolism	
+R01359	acetoacetyl-CoA:acetate CoA-transferase	2.8.3.8	B1812_03950 or B1812_03955	Butanoate metabolism	
+R01360	(S)-3-hydroxy-3-methylglutaryl-CoA acetoacetate-lyase (acetyl-CoA-forming)	4.1.3.4	B1812_16400	Valine, leucine and isoleucine degradation;Butanoate metabolism	
+R01361	(R)-3-Hydroxybutanoate:NAD+ oxidoreductase	1.1.1.30	B1812_03960	Butanoate metabolism	
+R01364	4-fumarylacetoacetate fumarylhydrolase	3.7.1.2	B1812_16365	Tyrosine metabolism;Styrene degradation	
+R01365	Butanoyl-CoA:acetoacetate CoA-transferase	2.8.3.9	B1812_03950 or B1812_03955	Lysine degradation	
+R01366	Acetoacetate carboxy-lyase (acetone-forming)	4.1.1.4	B1812_03945	Butanoate metabolism	
+R01372	Phenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)	1.13.11.27	B1812_16355	Phenylalanine metabolism	
+R01373	prephenate hydro-lyase (decarboxylating; phenylpyruvate-forming)	4.2.1.51;4.2.1.91	B1812_03265	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01385	UDP-glucuronate 4-epimerase	5.1.3.6	B1812_15680	Ascorbate and aldarate metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R01388	D-Glycerate:NAD+ 2-oxidoreductase	1.1.1.26;1.1.1.29;1.1.1.81	B1812_12520 or B1812_17510	Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism;Methane metabolism	
+R01395	ATP:carbamate phosphotransferase	2.7.2.2;6.3.5.5	B1812_14820 or B1812_02375	Nitrogen metabolism	
+R01397	carbamoyl-phosphate:L-aspartate carbamoyltransferase	2.1.3.2	B1812_05315	Pyrimidine metabolism;Alanine, aspartate and glutamate metabolism	
+R01398	Carbamoyl-phosphate:L-ornithine carbamoyltransferase	2.1.3.3	B1812_12455	Arginine biosynthesis	
+R01402	S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase	2.4.2.28	B1812_10740 or B1812_15065	Cysteine and methionine metabolism	
+R01403	acyl-[acyl-carrier-protein]:NAD+ oxidoreductase	1.3.1.9	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R01404	acyl-[acyl-carrier protein]:NADP+ oxidoreductase	1.3.1.10;1.3.1.39;1.3.1.104;1.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R01406	long-chain-fatty-acid:[acyl-carrier-protein] ligase (AMP-forming)	6.2.1.20	B1812_17055	Fatty acid degradation	
+R01421	Benzoyl phosphate phosphohydrolase	3.6.1.7	B1812_12990	Aminobenzoate degradation	
+R01449	lactoyl-CoA:propanoate CoA-transferase	2.8.3.1	B1812_05755	Propanoate metabolism	
+R01466	O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming)	4.2.3.1	B1812_00100	Glycine, serine and threonine metabolism	
+R01470	sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase	3.1.4.2;3.1.4.46	B1812_07255	Glycerophospholipid metabolism	
+R01492	ATP:cob(I)alamin Co-beta-adenosyltransferase	2.5.1.17;2.5.1.154	B1812_04855 or B1812_05600 or B1812_03405	Porphyrin metabolism	
+R01497	UDP-glucose:N-acylsphingosine D-glucosyltransferase	2.4.1.80	B1812_09720 or B1812_11620 or B1812_14350	Sphingolipid metabolism	
+R01512	ATP:3-phospho-D-glycerate 1-phosphotransferase	2.7.2.3	B1812_12300	Glycolysis / Gluconeogenesis;Carbon fixation in photosynthetic organisms	
+R01513	3-Phospho-D-glycerate:NAD+ 2-oxidoreductase	1.1.1.95	B1812_08315 or B1812_18890	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Methane metabolism	
+R01515	3-Phospho-D-glyceroyl phosphate phosphohydrolase	3.6.1.7	B1812_12990		
+R01518	D-phosphoglycerate 2,3-phosphomutase	5.4.2.11;5.4.2.12	B1812_08650 or B1812_20140	Glycolysis / Gluconeogenesis;Glycine, serine and threonine metabolism;Methane metabolism	
+R01523	ATP:D-ribulose-5-phosphate 1-phosphotransferase	2.7.1.19	B1812_02720	Carbon fixation in photosynthetic organisms	
+R01528	6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating)	1.1.1.44;1.1.1.351	B1812_07715	Pentose phosphate pathway;Glutathione metabolism	
+R01529	D-Ribulose-5-phosphate 3-epimerase	5.1.3.1	B1812_08880	Pentose phosphate pathway;Pentose and glucuronate interconversions;Carbon fixation in photosynthetic organisms	
+R01547	ATP:dAMP phosphotransferase	2.7.4.3;2.7.4.11	B1812_15630	Purine metabolism	
+R01558	oxalate:CoA ligase (AMP-forming)	6.2.1.8	B1812_21110	Glyoxylate and dicarboxylate metabolism	
+R01560	Adenosine aminohydrolase	3.5.4.4	B1812_15065	Purine metabolism	
+R01561	adenosine:phosphate alpha-D-ribosyltransferase	2.4.2.1	B1812_15065	Purine metabolism	
+R01562	adenosine 3'-phosphate phosphohydrolase	3.1.3.6	B1812_00085	Purine metabolism	
+R01569	thymidylate 5'-phosphohydrolase	3.1.3.5;3.1.3.35;3.1.3.89;3.1.3.-	B1812_00085 or B1812_03815	Pyrimidine metabolism	
+R01579	D-Glutamine amidohydrolase	3.5.1.2;3.5.1.35;3.5.1.38	B1812_12015	D-Amino acid metabolism	
+R01600	ATP:beta-D-glucose 6-phosphotransferase	2.7.1.1;2.7.1.2	B1812_15765	Glycolysis / Gluconeogenesis	
+R01621	D-xylulose 5-phosphate D-glyceraldehyde-3-phosphate-lyase (adding phosphate; acetyl-phosphate-forming)	4.1.2.9	B1812_18100	Pentose phosphate pathway;Carbon fixation in photosynthetic organisms	
+R01625	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase	2.7.8.7;2.7.8.-	B1812_00415 or B1812_17640 or B1812_21615	Pantothenate and CoA biosynthesis	
+R01626	Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase	2.3.1.39;2.3.1.85;2.3.1.86;2.3.1.-	B1812_08685	Fatty acid biosynthesis	
+R01641	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	2.2.1.1	B1812_02725 or B1812_07725 or B1812_21435 or B1812_21440	Pentose phosphate pathway;Carbon fixation in photosynthetic organisms	
+R01655	5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)	3.5.4.9	B1812_11370 or B1812_17520	One carbon pool by folate;Carbon fixation pathways in prokaryotes	
+R01658	Dimethylallyl-diphosphate:isopentenyl-diphosphate dimethylallyltranstransferase	2.5.1.1	B1812_03100	Terpenoid backbone biosynthesis	
+R01664	2'-deoxycytidine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.89;3.1.3.-	B1812_00085 or B1812_03815	Pyrimidine metabolism	
+R01665	ATP:dCMP phosphotransferase	2.7.4.14;2.7.4.25	B1812_05300	Pyrimidine metabolism	
+R01676	Guanine aminohydrolase	3.5.4.3	B1812_18150	Purine metabolism	
+R01698	Dihydrolipoamide:NAD+ oxidoreductase	1.8.1.4	B1812_15670 or B1812_17770		
+R01699	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-acetylating)	1.2.4.1	B1812_18235 or B1812_18230		
+R01700	2-oxoglutarate:[dihydrolipoyllysine-residue succinyltransferase]-lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-succinylating)	1.2.4.2	B1812_11095		
+R01701	3-methyl-2-oxobutanoate:[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-2-methylpropanoylating)	1.2.4.4	B1812_16420 or B1812_16425		
+R01702	4-methyl-2-oxopentanoate:[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-2-methylpropanoylating)	1.2.4.4	B1812_16420 or B1812_16425		
+R01708	Pyridoxine:NADP+ 4-oxidoreductase	1.1.1.65	B1812_13700	Vitamin B6 metabolism	
+R01710	pyridoxamine:oxygen oxidoreductase (deaminating)	1.4.3.5	B1812_18475	Vitamin B6 metabolism	
+R01711	pyridoxine:oxygen oxidoreductase (deaminating)	1.1.3.12;1.4.3.5	B1812_18475	Vitamin B6 metabolism	
+R01714	5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase (chorismate-forming)	4.2.3.5	B1812_12185	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01716	chorismate:L-glutamine aminotransferase	2.6.1.85	B1812_04975	Folate biosynthesis	
+R01724	5-phospho-alpha-D-ribose 1-diphosphate:nicotinate ligase (ADP, diphosphate-forming)	6.3.4.21	B1812_05070	Nicotinate and nicotinamide metabolism	
+R01728	prephenate:NAD+ oxidoreductase(decarboxylating)	1.3.1.12	B1812_17070	Phenylalanine, tyrosine and tryptophan biosynthesis;Novobiocin biosynthesis	
+R01736	(R)-S-Lactoylglutathione hydrolase	3.1.2.6	B1812_17435	Pyruvate metabolism	
+R01752	D-Glyceraldehyde:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Glycerolipid metabolism	
+R01771	ATP:L-homoserine O-phosphotransferase	2.7.1.39	B1812_05215	Glycine, serine and threonine metabolism	
+R01773	L-Homoserine:NAD+ oxidoreductase	1.1.1.3	B1812_00960	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Lysine biosynthesis	
+R01775	L-homoserine:NADP+ oxidoreductase	1.1.1.3	B1812_00960	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Lysine biosynthesis	
+R01776	Acetyl-CoA:L-homoserine O-acetyltransferase	2.3.1.31	B1812_12630 or B1812_09300	Cysteine and methionine metabolism	
+R01777	Succinyl-CoA:L-homoserine O-succinyltransferase	2.3.1.46	B1812_12630 or B1812_09300	Cysteine and methionine metabolism;Sulfur metabolism	
+R01779	(3R)-3-hydroxyacyl-CoA:NADP+ oxidoreductase	1.1.1.36	B1812_02630		
+R01786	ATP:alpha-D-glucose 6-phosphotransferase	2.7.1.1;2.7.1.2	B1812_15765	Glycolysis / Gluconeogenesis;Galactose metabolism;Amino sugar and nucleotide sugar metabolism	
+R01795	L-Phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase (4-hydroxylating)	1.14.16.1	B1812_16370	Phenylalanine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01797	CDP-diacylglycerol phosphatidylhydrolase	3.6.1.26	B1812_09260	Glycerophospholipid metabolism	
+R01799	CTP:phosphatidate cytidyltransferase	2.7.7.41	B1812_20430	Glycerophospholipid metabolism	
+R01800	CDP-diacylglycerol:L-serine 3-phosphatidyltransferase	2.7.8.8	B1812_06130	Glycine, serine and threonine metabolism;Glycerophospholipid metabolism	
+R01818	D-mannose 6-phosphate 1,6-phosphomutase	5.4.2.8	B1812_02305	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R01819	D-mannose-6-phosphate aldose-ketose-isomerase	5.3.1.8	B1812_02400	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R01826	Phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming)	2.5.1.54	B1812_16005	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01827	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase	2.2.1.2	B1812_07720	Pentose phosphate pathway	
+R01829	sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase	4.1.2.13	B1812_09170 or B1812_11395	Carbon fixation in photosynthetic organisms	
+R01830	beta-D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	2.2.1.1	B1812_02725 or B1812_07725 or B1812_21435 or B1812_21440	Pentose phosphate pathway	
+R01851	Methanethiol:oxygen oxidoreductase	1.8.3.4	B1812_14370	Sulfur metabolism	
+R01856	dGTP triphosphohydrolase	3.1.5.1	B1812_19640	Purine metabolism	
+R01857	ATP:dGDP phosphotransferase	2.7.4.6	B1812_05375	Purine metabolism	
+R01858	dGTP:pyruvate 2-O-phosphotransferase	2.7.1.40	B1812_06770 or B1812_06945		
+R01859	propanoyl-CoA:carbon-dioxide ligase (ADP-forming)	6.4.1.3	B1812_15435 or B1812_10815	Valine, leucine and isoleucine degradation;Glyoxylate and dicarboxylate metabolism;Propanoate metabolism;Carbon fixation pathways in prokaryotes	
+R01863	inosine:phosphate alpha-D-ribosyltransferase	2.4.2.1	B1812_15065	Purine metabolism	
+R01868	(S)-dihydroorotate:quinone oxidoreductase	1.3.5.2	B1812_10445	Pyrimidine metabolism	
+R01870	Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase	2.4.2.10	B1812_12220	Pyrimidine metabolism	
+R01877	uridine 3'-monophosphate phosphohydrolase	3.1.3.6	B1812_00085	Pyrimidine metabolism	
+R01884	Creatinine amidohydrolase	3.5.2.10	B1812_17845	Arginine and proline metabolism	
+R01899	Isocitrate:NADP+ oxidoreductase	1.1.1.42	B1812_14835	Citrate cycle (TCA cycle)	
+R01900	isocitrate hydro-lyase (cis-aconitate-forming)	4.2.1.3	B1812_09145 or B1812_09255	Citrate cycle (TCA cycle);Glyoxylate and dicarboxylate metabolism;Carbon fixation pathways in prokaryotes	
+R01931	thiosulfate:cyanide sulfurtranserase	2.8.1.1	B1812_03870 or B1812_08070	Sulfur metabolism	
+R01933	2-oxoadipate dehydrogenase complex	1.2.4.2;1.8.1.4;2.3.1.61	B1812_15670 or B1812_17770 or B1812_10790	Lysine degradation;Tryptophan metabolism	
+R01954	L-Citrulline:L-aspartate ligase (AMP-forming)	6.3.4.5	B1812_19265	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism	
+R01968	2'-deoxyguanosine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.89	B1812_00085 or B1812_03815	Purine metabolism	
+R01975	(S)-3-Hydroxybutanoyl-CoA:NAD+ oxidoreductase	1.1.1.35	B1812_13225	Fatty acid degradation;Lysine degradation;Tryptophan metabolism;Butanoate metabolism;Carbon fixation pathways in prokaryotes	
+R01976	(S)-3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase	1.1.1.157	B1812_04170 or B1812_19425	Benzoate degradation;Butanoate metabolism	
+R01977	(R)-3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase	1.1.1.36	B1812_02630	Glyoxylate and dicarboxylate metabolism;Butanoate metabolism	
+R01986	4-Aminobutyraldehyde:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Arginine and proline metabolism	
+R01989	L-Arginine:4-aminobutanoate amidinotransferase	2.1.4.1	B1812_00380	Arginine and proline metabolism	
+R01993	(S)-dihydroorotate amidohydrolase	3.5.2.3	B1812_06215 or B1812_07215	Pyrimidine metabolism	
+R02003	Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase	2.5.1.10	B1812_03100	Terpenoid backbone biosynthesis	
+R02016	NADPH:oxidized-thioredoxin oxidoreductase	1.8.1.9	B1812_11380 or B1812_15990 or B1812_20805		
+R02017	2'-deoxyadenosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	1.17.4.1	B1812_02390	Purine metabolism	
+R02018	2'-deoxyuridine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	1.17.4.1	B1812_02390	Pyrimidine metabolism	
+R02019	2'-deoxyguanosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	1.17.4.1	B1812_02390	Purine metabolism	
+R02021	adenosine 3',5'-bisphosphate,sulfite:oxidized-thioredoxin oxidoreductase (3'-phosphoadenosine-5'-phosphosulfate -forming)	1.8.4.8	B1812_19075	Sulfur metabolism	
+R02024	2'-deoxycytidine diphosphate:oxidized-thioredoxin 2'-oxidoreductase	1.17.4.1	B1812_02390	Pyrimidine metabolism	
+R02026	O-acetyl-L-homoserine acetate-lyase (L-homocysteine forming)		B1812_01580 or B1812_09295 or B1812_10700	Cysteine and methionine metabolism	
+R02027	Phosphatidylglycerol cholinephosphohydrolase	3.1.4.3;3.1.4.-	B1812_02250 or B1812_09770 or B1812_14615 or B1812_15870	Glycerophospholipid metabolism	
+R02030	CDP-diacylglycerol:phosphatidylglycerol 3-phosphatidyltransferase	2.7.8.41	B1812_05440	Glycerophospholipid metabolism	
+R02035	6-Phospho-D-glucono-1,5-lactone lactonohydrolase	3.1.1.31	B1812_07700 or B1812_00445	Pentose phosphate pathway	
+R02052	Phosphatidylethanolamine ethanolaminephosphohydrolase	3.1.4.3	B1812_02250 or B1812_09770 or B1812_14615 or B1812_15870	Glycerophospholipid metabolism	
+R02055	Phsophatidyl-L-serine carboxy-lyase	4.1.1.65	B1812_06135 or B1812_16210	Glycerophospholipid metabolism	
+R02056	S-adenosyl-L-methionine:phosphatidylethanolamine N-methyltransferase	2.1.1.17	B1812_03890 or B1812_12650	Glycerophospholipid metabolism	
+R02060	D-Glucosamine 1-phosphate 1,6-phosphomutase;	5.4.2.10	B1812_19280	Amino sugar and nucleotide sugar metabolism	
+R02065	geranylgeranyl-diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase (prephytoene-diphosphate-forming)	2.5.1.32;2.5.1.148	B1812_03615	Carotenoid biosynthesis	
+R02073	diphosphate:beta-D-fructose-6-phosphate 1-phosphotransferase	2.7.1.90	B1812_09340	Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism	
+R02080	3,4-Dihydroxy-L-phenylalanine carboxy-lyase	4.1.1.25;4.1.1.28	B1812_02640	Tyrosine metabolism;Isoquinoline alkaloid biosynthesis;Betalain biosynthesis	
+R02085	(S)-3-Hydroxy-3-methylglutaryl-CoA hydro-lyase (trans-3-methylglutaconyl-CoA-forming)	4.2.1.18	B1812_16390	Valine, leucine and isoleucine degradation	
+R02088	2'-deoxyadenosine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.89	B1812_00085 or B1812_03815	Purine metabolism	
+R02090	ATP:dGMP phosphotransferase	2.7.4.8;2.7.4.12	B1812_14795	Purine metabolism	
+R02093	ATP:dTDP phosphotransferase	2.7.4.6	B1812_05375	Pyrimidine metabolism	
+R02094	ATP:dTMP phosphotransferase	2.7.4.9;2.7.4.12	B1812_21235	Pyrimidine metabolism	
+R02098	ATP:dUMP phosphotransferase	2.7.4.4;2.7.4.9	B1812_21235	Pyrimidine metabolism	
+R02100	dUTP nucleotidohydrolase	3.6.1.23	B1812_06150	Pyrimidine metabolism	
+R02101	5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase	2.1.1.45	B1812_02220	Pyrimidine metabolism;One carbon pool by folate	
+R02102	2'-deoxyuridine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.89;3.1.3.-	B1812_00085 or B1812_03815	Pyrimidine metabolism	
+R02124	retinol:NAD+ oxidoreductase	1.1.1.1;1.1.1.105	B1812_18345	Retinol metabolism	
+R02142	XMP:pyrophosphate phosphoribosyltransferase	2.4.2.8;2.4.2.22	B1812_21360 or B1812_07220	Purine metabolism	
+R02147	guanosine:phosphate alpha-D-ribosyltransferase	2.4.2.1;2.4.2.15	B1812_15065	Purine metabolism	
+R02148	guanosine 3'-phosphate phosphohydrolase	3.1.3.6	B1812_00085	Purine metabolism	
+R02164	succinate:quinone oxidoreductase	1.3.5.1	B1812_14595 or B1812_04995 or B1812_14585	Citrate cycle (TCA cycle);Pyruvate metabolism;Butanoate metabolism;Carbon fixation pathways in prokaryotes	
+R02173	Tryptamine:oxygen oxidoreductase(deaminating)	1.4.3.4;1.4.3.22	B1812_02235 or B1812_08060	Tryptophan metabolism	
+R02199	L-Isoleucine:2-oxoglutarate aminotransferase	2.6.1.42	B1812_09305 or B1812_19775	Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis;Glucosinolate biosynthesis	
+R02235	dihydrofolate:NAD+ oxidoreductase	1.5.1.3	B1812_10365	One carbon pool by folate;Folate biosynthesis	
+R02236	dihydrofolate:NADP+ oxidoreductase	1.5.1.3	B1812_10365	One carbon pool by folate;Folate biosynthesis	
+R02237	7,8-dihydropteroate:L-glutamate ligase (ADP-forming)	6.3.2.12;6.3.2.17	B1812_11150	Folate biosynthesis	
+R02241	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-O-acyltransferase	2.3.1.51	B1812_07320	Glycerolipid metabolism;Glycerophospholipid metabolism	
+R02250	triacylglycerol acylhydrolase	3.1.1.3	B1812_21275	Glycerolipid metabolism	
+R02272	(S)-4-Amino-5-oxopentanoate 4,5-aminomutase	5.4.3.8	B1812_16215	Porphyrin metabolism	
+R02282	N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase	2.3.1.35	B1812_01810	Arginine biosynthesis	
+R02283	N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase	2.6.1.11	B1812_12450	Arginine biosynthesis	
+R02291	L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)	1.2.1.11	B1812_15795	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Lysine biosynthesis	
+R02300	S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming)	2.1.2.10	B1812_02910	One carbon pool by folate	
+R02301	5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)	6.3.3.2	B1812_09970	One carbon pool by folate	
+R02320	NTP:pyruvate O2-phosphotransferase	2.7.1.40	B1812_06770 or B1812_06945	Pyruvate metabolism	
+R02322	nicotinamide-D-ribonucleotide amidohydrolase	3.5.1.42	B1812_19750	Nicotinate and nicotinamide metabolism	
+R02323	nicotinamide ribonucleotide phosphohydrolase	3.1.3.5;3.1.3.-	B1812_00085	Nicotinate and nicotinamide metabolism	
+R02325	dCTP aminohydrolase	3.5.4.13	B1812_03560 or B1812_15085	Pyrimidine metabolism	
+R02326	ATP:dCDP phosphotransferase	2.7.4.6	B1812_05375	Pyrimidine metabolism	
+R02328	dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase	2.7.7.24	B1812_11920	Streptomycin biosynthesis;Polyketide sugar unit biosynthesis;Acarbose and validamycin biosynthesis;O-Antigen nucleotide sugar biosynthesis	
+R02331	ATP:dUDP phosphotransferase	2.7.4.6	B1812_05375	Pyrimidine metabolism	
+R02340	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase	4.1.2.8;4.2.1.20	B1812_11140 or B1812_10510	Phenylalanine, tyrosine and tryptophan biosynthesis;Benzoxazinoid biosynthesis;Biosynthesis of various plant secondary metabolites	
+R02370	cytidine 3'-phosphate phosphohydrolase	3.1.3.6	B1812_00085	Pyrimidine metabolism	
+R02382	tyramine:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4;1.4.3.21;1.4.3.-;1.4.9.2	B1812_02235 or B1812_08060	Tyrosine metabolism	
+R02401	glutarate-semialdehyde:NAD+ oxidoreductase	1.2.1.20	B1812_10935	Lysine degradation	
+R02404	Itaconate:CoA ligase (ADP-forming)	6.2.1.5	B1812_11090 or B1812_02340	C5-Branched dibasic acid metabolism	
+R02408	L-cystine thiocysteine-lyase (deaminating; pyruvate-forming)	4.4.1.1;4.4.1.13;4.4.1.35	B1812_19800	Cysteine and methionine metabolism	
+R02412	ATP:shikimate 3-phosphotransferase	2.7.1.71	B1812_10260	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R02413	Shikimate:NADP+ 3-oxidoreductase	1.1.1.25;1.1.1.282	B1812_12355	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R02433	L-cysteate:2-oxoglutarate aminotransferase	2.6.1.1	B1812_18810	Cysteine and methionine metabolism	
+R02472	(R)-pantoate:NADP+ 2-oxidoreductase	1.1.1.169	B1812_04030 or B1812_21115	Pantothenate and CoA biosynthesis	
+R02473	(R)-Pantoate:beta-alanine ligase (AMP-forming)	6.3.2.1	B1812_12995	beta-Alanine metabolism;Pantothenate and CoA biosynthesis	
+R02519	Homogentisate:oxygen 1,2-oxidoreductase (decyclizing)	1.13.11.5	B1812_16360	Tyrosine metabolism;Styrene degradation	
+R02521	4-Hydroxyphenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)	1.13.11.27	B1812_16355	Ubiquinone and other terpenoid-quinone biosynthesis;Tyrosine metabolism	
+R02529	aminoacetone:oxygen oxidoreductase(deaminating)	1.4.3.4;1.4.3.21	B1812_02235 or B1812_08060	Glycine, serine and threonine metabolism	
+R02530	(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)	4.4.1.5	B1812_03090 or B1812_06625 or B1812_11525	Pyruvate metabolism	
+R02532	4-[(1R)-2-Amino-1-hydroxyethyl]-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	B1812_02235 or B1812_08060	Tyrosine metabolism	
+R02540	2-phenylacetamide amidohydrolase	3.5.1.4	B1812_17615	Phenylalanine metabolism;Styrene degradation	
+R02549	4-aminobutanal:NAD+ 1-oxidoreductase;	1.2.1.3;1.2.1.19;1.2.1.-	B1812_01610	Arginine and proline metabolism;beta-Alanine metabolism	
+R02550	toluene, ferredoxin:oxygen oxidoreductase (methyl-hydroxylating);	1.14.13.-;1.14.15.26	B1812_07855	Toluene degradation	
+R02558	(R)-Prunasin beta-D-glucohydrolase	3.2.1.21;3.2.1.118	B1812_15755	Cyanoamino acid metabolism	
+R02568	D-fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase	4.1.2.13	B1812_09170 or B1812_11395	Fructose and mannose metabolism	
+R02569	acetyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-acetyltransferase	2.3.1.12	B1812_10465	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism	
+R02570	succinyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-succinyltransferase	2.3.1.61	B1812_10790	Citrate cycle (TCA cycle)	
+R02571	Glutaryl-CoA:dihydrolipoamide S-succinyltransferase	2.3.1.61	B1812_10790		
+R02596	Donor:hydrogen-peroxide oxidoreductase	1.11.1.7;1.11.1.21	B1812_08190	Phenylpropanoid biosynthesis	
+R02613	Phenethylamine:oxygen oxidoreductase (deaminating)	1.4.3.4;1.4.3.21	B1812_02235 or B1812_08060	Phenylalanine metabolism	
+R02619	3-sulfino-L-alanine:2-oxoglutarate aminotransferase	2.6.1.1	B1812_18810	Cysteine and methionine metabolism	
+R02630	protein-N(pi)-phosphohistidine:D-mannose 6-phosphotransferase	2.7.1.191	B1812_05340	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism	
+R02649	ATP:N-acetyl-L-glutamate 5-phosphotransferase	2.7.2.8	B1812_13915	Arginine biosynthesis	
+R02662	2-methylpropanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-(2-methylpropanoyl)transferase	2.3.1.168	B1812_16430	Valine, leucine and isoleucine degradation	
+R02670		1.11.1.6;1.11.1.21	B1812_08190	Tryptophan metabolism	
+R02678	Indole-3-acetaldehyde:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Tryptophan metabolism	
+R02687	1,2-diacyl-sn-glycerol acylhydrolase	3.1.1.3	B1812_21275	Glycerolipid metabolism	
+R02701	5-Hydroxy-L-tryptophan decarboxy-lyase	4.1.1.28	B1812_02640	Tryptophan metabolism	
+R02702	5-hydroxy-L-tryptophan:oxygen 2,3-dioxygenase (indole-decyclizing)	1.13.11.52	B1812_07760	Tryptophan metabolism	
+R02719	xanthosine 5'-phosphate phosphohydrolase	3.1.3.5	B1812_00085	Purine metabolism	
+R02720	XTP pyrophosphohydrolase;	3.6.1.66	B1812_11780	Purine metabolism	
+R02722	L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate; L-tryptophan and glyceraldehyde-3-phosphate-forming]	4.2.1.20	B1812_11140 or B1812_10510	Glycine, serine and threonine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis	
+R02734	N-Succinyl-LL-2,6-diaminoheptanedioate amidohydrolase	3.5.1.18	B1812_02270	Lysine biosynthesis	
+R02735	LL-2,6-Diaminoheptanedioate 2-epimerase	5.1.1.7	B1812_00195	Lysine biosynthesis;D-Amino acid metabolism	
+R02736	beta-D-glucose-6-phosphate:NADP+ 1-oxoreductase	1.1.1.49;1.1.1.363	B1812_07710	Pentose phosphate pathway;Glutathione metabolism	
+R02737	UDPglucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase	2.4.1.15	B1812_00755 or B1812_04930 or B1812_14510	Starch and sucrose metabolism	
+R02739	alpha-D-Glucose 6-phosphate ketol-isomerase	5.1.3.15;5.3.1.9	B1812_03175 or B1812_07720	Glycolysis / Gluconeogenesis;Pentose phosphate pathway	
+R02740	alpha-D-Glucose 6-phosphate ketol-isomerase	5.3.1.9	B1812_03175 or B1812_07720	Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Amino sugar and nucleotide sugar metabolism	
+R02765	Methylmalonyl-CoA epimerase	5.1.99.1	B1812_01100	Valine, leucine and isoleucine degradation;Glyoxylate and dicarboxylate metabolism;Propanoate metabolism;Carbon fixation pathways in prokaryotes	
+R02777	dTDP-beta-L-rhamnose:NADP+ 4-oxidoreductase;	1.1.1.133	B1812_11915	Streptomycin biosynthesis;Polyketide sugar unit biosynthesis;O-Antigen nucleotide sugar biosynthesis	
+R02778	Trehalose-6-phosphate phosphohydrolase	3.1.3.12	B1812_09215	Starch and sucrose metabolism	
+R02783	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)	6.3.2.9	B1812_11710	D-Amino acid metabolism;Peptidoglycan biosynthesis	
+R02788	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming);	6.3.2.13	B1812_11695	Lysine biosynthesis;Peptidoglycan biosynthesis	
+R02864	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	4.99.1.4	B1812_08875	Porphyrin metabolism	
+R02908	5-Hydroxytryptamine:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	B1812_02235 or B1812_08060	Tryptophan metabolism	
+R02909	5-hydroxytryptamine:oxygen 2,3-dioxygenase (indole-decyclizing)	1.13.11.52	B1812_07760	Tryptophan metabolism	
+R02918	L-Tyrosine:tRNA(Tyr) ligase (AMP-forming)	6.1.1.1	B1812_18945	Aminoacyl-tRNA biosynthesis	
+R02919	4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	B1812_02235 or B1812_08060	Tyrosine metabolism	
+R02940	2-Propyn-1-al:NAD+ oxidoreductase	1.2.1.3	B1812_01610		
+R02957	D-Glucuronolactone:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Ascorbate and aldarate metabolism	
+R02964	NADH:menaquinone oxidoreductase	1.6.5.2	B1812_15980 or B1812_07060	Ubiquinone and other terpenoid-quinone biosynthesis	
+R02971	ATP:pantothenate 4'-phosphotransferase	2.7.1.33;2.7.1.34	B1812_01280	Pantothenate and CoA biosynthesis	
+R02984	dTDPglucose 4-epimerase	5.1.3.2	B1812_09585 or B1812_17370		
+R02985	amygdalin beta-glucosidase	3.2.1.21;3.2.1.117	B1812_15755	Cyanoamino acid metabolism	
+R03004	Deamino-NAD+ nucleotidohydrolase	3.6.1.9;3.6.1.22	B1812_21070	Nicotinate and nicotinamide metabolism	
+R03005	ATP:nicotinamide-nucleotide adenylyltransferase	2.7.7.1;2.7.7.18	B1812_03450	Nicotinate and nicotinamide metabolism	
+R03012	L-Histidinol:NAD+ oxidoreductase	1.1.1.23	B1812_17655	Histidine metabolism	
+R03015	formylmethanofuran:ferredoxin oxidoreductase	1.2.7.12	B1812_13890 or B1812_16140 or B1812_16135 or B1812_16150	Methane metabolism	
+R03018	ATP:pantothenate 4'-phosphotransferase	2.7.1.33	B1812_01280	Pantothenate and CoA biosynthesis	
+R03026	(S)-3-hydroxybutanoyl-CoA hydro-lyase	4.2.1.17	B1812_05275 or B1812_16410 or B1812_13225	Fatty acid degradation;Lysine degradation;Benzoate degradation;Tryptophan metabolism;Aminobenzoate degradation;Butanoate metabolism;Carbon fixation pathways in prokaryotes	
+R03027	(3R)-3-hydroxybutanoyl-CoA hydro-lyase	4.2.1.55	B1812_16275	Glyoxylate and dicarboxylate metabolism;Butanoate metabolism	
+R03035	ATP:pantetheine-4'-phosphate adenylyltransferase	2.7.7.3	B1812_11415	Pantothenate and CoA biosynthesis	
+R03036	Dephospho-CoA nucleotidohydrolase	3.6.1.9	B1812_21070	Pantothenate and CoA biosynthesis	
+R03038	L-Alanine:tRNA(Ala) ligase (AMP-forming)	6.1.1.7	B1812_00855	Aminoacyl-tRNA biosynthesis	
+R03045	3-Hydroxypropionyl-CoA hydro-lyase	4.2.1.17;4.2.1.116;4.2.1.-	B1812_05275 or B1812_16410 or B1812_13225	beta-Alanine metabolism;Propanoate metabolism;Carbon fixation pathways in prokaryotes	
+R03050	2-Acetolactate pyruvate-lyase (carboxylating)	2.2.1.6	B1812_19675 or B1812_19980 or B1812_19990		
+R03051	2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86	B1812_10275		
+R03066	6-(hydroxymethyl)-7,8-dihydropterin:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase	2.5.1.15	B1812_14755	Folate biosynthesis	
+R03067	(7,8-dihydropterin-6-yl)methyl diphosphate:4-aminobenzoate 2-amino-4-hydroxy-7,8-dihydropteridine-6-methenyltransferase	2.5.1.15	B1812_14755	Folate biosynthesis	
+R03083	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase (cyclyzing)	4.2.3.4	B1812_10260	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03084	3-Dehydroquinate hydro-lyase	4.2.1.10	B1812_04060	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03096	Indole-3-acetamide amidohydrolase	3.5.1.4;3.5.1.-	B1812_17615	Tryptophan metabolism	
+R03105	3-mercaptopyruvate:sulfide sulfurtransferase	2.8.1.2	B1812_03870 or B1812_08070	Cysteine and methionine metabolism	
+R03145	pyruvate:ubiquinone oxidoreductase	1.2.5.1	B1812_01600	Pyruvate metabolism	
+R03165	Hydroxymethylbilane hydro-lyase(cyclizing)	4.2.1.75	B1812_05025	Porphyrin metabolism	
+R03174	(S)-2-methylbutanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-(2-methylbutanoyl)transferase	2.3.1.168	B1812_16430	Valine, leucine and isoleucine degradation	
+R03180	4-Guanidinobutanamide amidohydrolase	3.5.1.4	B1812_17615	Arginine and proline metabolism	
+R03182	7,8-Diaminononanoate:carbon-dioxide cyclo-ligase	6.3.3.3	B1812_14725	Biotin metabolism	
+R03191	UDP-N-acetylmuramate:NADP+ oxidoreductase	1.3.1.98	B1812_11755	Amino sugar and nucleotide sugar metabolism;Peptidoglycan biosynthesis	
+R03192	UDP-N-acetylmuramate:NADP+ oxidoreductase	1.3.1.98	B1812_11755	Amino sugar and nucleotide sugar metabolism;Peptidoglycan biosynthesis	
+R03193	UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)	6.3.2.8	B1812_11725	Peptidoglycan biosynthesis	
+R03194	S-adenosyl-L-methionine:uroporphyrinogen-III C-methyltransferase	2.1.1.107	B1812_08875	Porphyrin metabolism	
+R03197	Uroporphyrinogen-III carboxy-lyase	4.1.1.37	B1812_09865	Porphyrin metabolism	
+R03210	pimeloyl-CoA:L-alanine C-carboxyhexanoyltransferase (decarboxylating)	2.3.1.47	B1812_10575 or B1812_14730	Biotin metabolism	
+R03223	2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-(2-phosphoethyl)-thiazole 2-methyl-4-aminopyridine-5-methenyltransferase	2.5.1.3	B1812_05265 or B1812_13180	Thiamine metabolism	
+R03231	S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase	2.6.1.62	B1812_14720	Biotin metabolism	
+R03236	ATP:D-tagatose-6-phosphate 1-phosphotransferase	2.7.1.11;2.7.1.56;2.7.1.144	B1812_09340	Galactose metabolism	
+R03243	5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase	2.6.1.9	B1812_17075	Histidine metabolism	
+R03269	N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase	4.1.1.36	B1812_06155	Pantothenate and CoA biosynthesis	
+R03270		1.2.4.1	B1812_18235 or B1812_18230	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism	
+R03276	(S)-3-Hydroxybutanoyl-CoA 3-epimerase	5.1.2.3	B1812_13225	Fatty acid degradation;Butanoate metabolism	
+R03283	4-Trimethylammoniobutanal:NAD+ 1-oxidoreductase;	1.2.1.3;1.2.1.47	B1812_01610	Lysine degradation	
+R03291	trans-4-Hydroxy-L-proline:NAD+ 5-oxidoreductase	1.5.1.2	B1812_21295	Arginine and proline metabolism	
+R03293	trans-4-Hydroxy-L-proline:NADP+ 5-oxidoreductase	1.5.1.2	B1812_21295	Arginine and proline metabolism	
+R03313	L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating)	1.2.1.41	B1812_03470	Arginine and proline metabolism;Carbapenem biosynthesis	
+R03316		1.2.4.2	B1812_11095	Citrate cycle (TCA cycle)	
+R03321	beta-D-Glucose 6-phosphate ketol-isomerase	5.3.1.9	B1812_03175 or B1812_07720	Glycolysis / Gluconeogenesis	
+R03332	1-Phosphatidyl-D-myo-inositol inositolphosphohydrolase	3.1.4.3;3.1.4.11;4.6.1.13	B1812_02250 or B1812_09770 or B1812_14615 or B1812_15870	Inositol phosphate metabolism	
+R03346	nicotinate D-ribonucleotide phosphohydrolase	3.1.3.5;3.1.3.-	B1812_00085	Nicotinate and nicotinamide metabolism	
+R03348	Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating)	2.4.2.19	B1812_18430	Nicotinate and nicotinamide metabolism	
+R03351	CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase	2.7.7.38	B1812_03260	Lipopolysaccharide biosynthesis	
+R03390	Formylmethanofuran:5,6,7,8-tetrahydromethanopterin 5-formyltransferase	2.3.1.101	B1812_16145	Methane metabolism	
+R03397	GDP-6-deoxy-D-mannose:NAD+ 4-oxidoreductase	1.1.1.187;1.1.1.281	B1812_17900	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R03399	GDP-6-deoxy-D-mannose:NADP+ 4-oxidoreductase	1.1.1.187;1.1.1.281	B1812_17900	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R03409	guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase	3.6.1.11;3.6.1.40	B1812_07140 or B1812_13660	Purine metabolism	
+R03424	S-adenosyl-L-methionine:phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.16;2.1.1.71	B1812_03890 or B1812_12650	Glycerophospholipid metabolism	
+R03425	glycine:lipoylprotein oxidoreductase (decarboxylating and acceptor-aminomethylating)	1.4.4.2	B1812_02900	Glycine, serine and threonine metabolism	
+R03443	N-acetyl-L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphrylating)	1.2.1.38	B1812_15690	Arginine biosynthesis	
+R03457	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase	4.2.1.19	B1812_01250	Histidine metabolism	
+R03458	5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase	1.1.1.193	B1812_08730 or B1812_19745	Riboflavin metabolism	
+R03459	2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine 2-aminohydrolase	3.5.4.26	B1812_08730 or B1812_19745	Riboflavin metabolism	
+R03460	phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase	2.5.1.19	B1812_05295	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03464	5,10-Methenyltetrahydromethanopterin 10-hydrolase (decyclizing)	3.5.4.27	B1812_02320	Methane metabolism	
+R03470	4-Carboxymuconolactone carboxy-lyase	4.1.1.44	B1812_19680	Benzoate degradation	
+R03471	ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase	2.7.1.49	B1812_13170	Thiamine metabolism	
+R03472	5-amino-1-(5-phospho-D-ribosyl)imidazole formate-lyase (decarboxylating, 4-amino-2-methyl-5-phosphomethylpyrimidine-forming)	4.1.99.17	B1812_09905	Thiamine metabolism	
+R03503	ATP:6-hydroxymethyl-7,8-dihydropterin 6'-diphosphotransferase	2.7.6.3	B1812_14760	Folate biosynthesis	
+R03508	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing)	4.1.1.48	B1812_05460	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03509	N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase	5.3.1.24	B1812_01070 or B1812_12110 or B1812_14605	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03522	RX:glutathione R-transferase	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Glutathione metabolism	
+R03527	D-Glucoside glucohydrolase	3.2.1.21	B1812_15755	Starch and sucrose metabolism	
+R03530	ATP:dIDP phosphotransferase	2.7.4.6	B1812_05375	Purine metabolism	
+R03531	2'-deoxyinosine-5'-triphosphate pyrophosphohydrolase;	3.6.1.66	B1812_11780	Purine metabolism	
+R03537	2',3'-Cyclic AMP 3'-nucleotidohydrolase	3.1.4.16	B1812_19965	Purine metabolism	
+R03538	2',3'-Cyclic UMP 3'-nucleotidohydrolase	3.1.4.16	B1812_19965	Pyrimidine metabolism	
+R03562	Toluene,NADPH:oxogen oxidoreductase (3-hydroxylating)	1.14.13.-	B1812_07855	Toluene degradation	
+R03596	hydrogen selenide:NADP+ oxidoreductase	1.8.1.9	B1812_11380 or B1812_15990 or B1812_20805	Selenocompound metabolism	
+R03599	L-selenocysteine selenide-lyase (L-alanine-forming)	4.4.1.16	B1812_05425 or B1812_07795 or B1812_18880	Selenocompound metabolism	
+R03601	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)	2.5.1.47	B1812_04185 or B1812_18885 or B1812_20270		
+R03628	melatonin:oxygen 2,3-dioxygenase (indole-decyclizing)	1.13.11.52	B1812_07760	Tryptophan metabolism	
+R03643	NADH:(quinone-acceptor) oxidoreductase	1.6.5.2	B1812_15980 or B1812_07060		
+R03646	L-Arginine:tRNA(Arg) ligase (AMP-forming)	6.1.1.19	B1812_06890	Aminoacyl-tRNA biosynthesis	
+R03650	L-Cysteine:tRNA(Cys) ligase (AMP-forming)	6.1.1.16	B1812_18340	Aminoacyl-tRNA biosynthesis	
+R03654	glycine:tRNA(Gly) ligase (AMP-forming)	6.1.1.14	B1812_05570 or B1812_10050	Aminoacyl-tRNA biosynthesis	
+R03655	L-Histidine:tRNA(His) ligase (AMP-forming)	6.1.1.21	B1812_03240	Aminoacyl-tRNA biosynthesis	
+R03656	L-Isoleucine:tRNA(Ile) ligase (AMP-forming)	6.1.1.5	B1812_17425	Aminoacyl-tRNA biosynthesis	
+R03657	L-Leucine:tRNA(Leu) ligase (AMP-forming)	6.1.1.4	B1812_09430	Aminoacyl-tRNA biosynthesis	
+R03658	L-lysine:tRNALys ligase (AMP-forming)	6.1.1.6	B1812_06195	Aminoacyl-tRNA biosynthesis	
+R03659	L-Methionine:tRNAMet ligase (AMP-forming)	6.1.1.10	B1812_21010	Aminoacyl-tRNA biosynthesis	
+R03660	L-Phenylalanine:tRNA(Ala) ligase (AMP-forming)	6.1.1.20	B1812_07590 or B1812_09985	Aminoacyl-tRNA biosynthesis	
+R03661	L-proline:tRNA(Pro) ligase (AMP-forming)	6.1.1.15	B1812_01980	Aminoacyl-tRNA biosynthesis	
+R03662	L-Serine:tRNA(Ser) ligase (AMP-forming)	6.1.1.11	B1812_00090	Aminoacyl-tRNA biosynthesis	
+R03663	L-Threonine:tRNA(Thr) ligase (AMP-forming)	6.1.1.3	B1812_18355	Aminoacyl-tRNA biosynthesis	
+R03664	L-Tryptophan -tRNA(Trp) ligase (AMP-forming)	6.1.1.2	B1812_03190	Aminoacyl-tRNA biosynthesis	
+R03665	L-Valine:tRNAVal ligase (AMP-forming)	6.1.1.9	B1812_03935	Aminoacyl-tRNA biosynthesis	
+R03751	epsilon-Caprolactone lactonohydrolase	3.1.1.17;3.1.1.83	B1812_18180	Caprolactam degradation	
+R03791	mandelate racemase	5.1.2.2	B1812_00545	Aminobenzoate degradation	
+R03813	L-leucyl-tRNA(Leu):protein leucyltransferase	2.3.2.6	B1812_12715		
+R03815	dihydrolipoylprotein:NAD+ oxidoreductase	1.8.1.4	B1812_15670 or B1812_17770	Glycine, serine and threonine metabolism	
+R03816	NADH:phylloquinone oxidoreductase	1.6.5.2	B1812_15980 or B1812_07060	Ubiquinone and other terpenoid-quinone biosynthesis	
+R03869	(S)-Methylmalonate semialdehyde:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Valine, leucine and isoleucine degradation	
+R03893	4-Carboxymethylenebut-2-en-4-olide lactonohydrolase	3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Chlorocyclohexane and chlorobenzene degradation	
+R03896	(R)-2-Methylmalate hydro-lyase (2-methylmaleate-forming)	4.2.1.35	B1812_10140 or B1812_12695	Valine, leucine and isoleucine biosynthesis;C5-Branched dibasic acid metabolism	
+R03898	2-methylmaleate hydratase;	4.2.1.35	B1812_10140 or B1812_12695	Valine, leucine and isoleucine biosynthesis;C5-Branched dibasic acid metabolism	
+R03905	Glu-tRNA(Gln):L-glutamine amido-ligase(ADP-forming)	6.3.5.7	B1812_11980 or B1812_17800 or B1812_11985	Aminoacyl-tRNA biosynthesis	
+R03909	Monocarboxylic acid amide amidohydrolase	3.5.1.4	B1812_17615		
+R03919	Donor:hydrogen-peroxide oxidoreductase	1.11.1.7;1.11.1.21	B1812_08190	Phenylpropanoid biosynthesis	
+R03920	ATP:D-fructose 6-phosphotransferase	2.7.1.1;2.7.1.4	B1812_05170	Amino sugar and nucleotide sugar metabolism	
+R03929	2',3'-Cyclic CMP 3'-nucleotidohydrolase	3.1.4.16	B1812_19965	Pyrimidine metabolism	
+R03940	10-Formyltetrahydrofolate:L-methionyl-tRNA N-formyltransferase	2.1.2.9	B1812_10125	One carbon pool by folate;Aminoacyl-tRNA biosynthesis	
+R03947	S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	1.3.1.76	B1812_08875	Porphyrin metabolism	
+R03948	S-adenosyl-L-methionine:precorrin-4 C20-methyltransferase	2.1.1.130	B1812_19500	Porphyrin metabolism	
+R03966		5.3.2.6	B1812_10660	Benzoate degradation;Dioxin degradation	
+R03968	2-Isopropylmalate hydro-lyase	4.2.1.33	B1812_10140 or B1812_12695	Valine, leucine and isoleucine biosynthesis	
+R04001	3-Isopropylmalate hydro-lyase	4.2.1.33	B1812_10140 or B1812_12695	Valine, leucine and isoleucine biosynthesis	
+R04007	Donor:hydrogen-peroxide oxidoreductase	1.11.1.7;1.11.1.21	B1812_08190	Phenylpropanoid biosynthesis	
+R04025	N-Acetylputrescine:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	B1812_02235 or B1812_08060	Arginine and proline metabolism	
+R04035	Phosphoribosyl-ATP pyrophosphohydrolase	3.6.1.31	B1812_01275	Histidine metabolism	
+R04037	1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase	3.5.4.19	B1812_18720	Histidine metabolism	
+R04065	Imidazole acetaldehyde:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Histidine metabolism	
+R04095	3-methylbutanoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase	1.3.8.4;1.3.8.7	B1812_16380	Valine, leucine and isoleucine degradation	
+R04097	3-methylbutanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-(3-methylbutanoyl)transferase	2.3.1.168	B1812_16430	Valine, leucine and isoleucine degradation	
+R04112	N-Acetylmuramoyl-Ala amidohydrolase	3.5.1.28	B1812_05750 or B1812_19555		
+R04125	[protein]-S8-aminomethyldihydrolipoyllysine:tetrahydrofolate aminomethyltransferase (ammonia-forming)	2.1.2.10	B1812_02910	Glycine, serine and threonine metabolism;One carbon pool by folate	
+R04137	3-hydroxyisovaleryl-CoA hydro-lyase	4.2.1.17	B1812_05275 or B1812_16410 or B1812_13225	Valine, leucine and isoleucine degradation	
+R04138	3-Methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)	6.4.1.4	B1812_16395 or B1812_16385	Valine, leucine and isoleucine degradation	
+R04144	5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)	6.3.4.13	B1812_08725	Purine metabolism	
+R04148	Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase	2.4.2.21	B1812_04955	Porphyrin metabolism	
+R04161	(S)-4-Hydroxymandelate racemase	5.1.2.2	B1812_00545		
+R04170	(S)-3-Hydroxydodecanoyl-CoA hydro-lyase	4.2.1.17;4.2.1.74	B1812_05275 or B1812_16410 or B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04173	3-Phosphoserine:2-oxoglutarate aminotransferase	2.6.1.52	B1812_08320	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Methane metabolism	
+R04198	2,3,4,5-tetrahydrodipicolinate:NAD+ 4-oxidoreductase	1.17.1.8	B1812_08655	Monobactam biosynthesis;Lysine biosynthesis	
+R04199	2,3,4,5-tetrahydrodipicolinate:NADP+ 4-oxidoreductase	1.17.1.8	B1812_08655	Monobactam biosynthesis;Lysine biosynthesis	
+R04203	(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase	1.1.1.35;1.1.1.178	B1812_13225	Valine, leucine and isoleucine degradation	
+R04204	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA hydro-liase	4.2.1.17	B1812_05275 or B1812_16410 or B1812_13225	Valine, leucine and isoleucine degradation	
+R04208	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)	6.3.3.1	B1812_19365	Purine metabolism	
+R04212	Asp-tRNA(Asn):L-glutamine amido-ligase (ADP-forming)	6.3.5.6	B1812_11980 or B1812_17800 or B1812_11985	Aminoacyl-tRNA biosynthesis	
+R04218	prephytoene diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase	2.5.1.32	B1812_03615	Carotenoid biosynthesis	
+R04224	(S)-3-Hydroxyisobutyryl-CoA hydro-lyase	4.2.1.17	B1812_05275 or B1812_16410 or B1812_13225	Valine, leucine and isoleucine degradation	
+R04225	(S)-3-Methyl-2-oxopentanoate:[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-2-methylpropanoylating)	1.2.4.4	B1812_16420 or B1812_16425		
+R04231	(R)-4'-phosphopantothenate:L-cysteine ligase	6.3.2.5	B1812_06155	Pantothenate and CoA biosynthesis	
+R04286	2-amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate lyase	4.2.3.12	B1812_03820	Folate biosynthesis	
+R04292	glycerone phosphate:iminosuccinate alkyltransferase (cyclizing)	2.5.1.72	B1812_18445	Nicotinate and nicotinamide metabolism	
+R04300	4-(2-aminoethyl)-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4;1.4.3.21;1.4.3.-;1.4.9.2	B1812_02235 or B1812_08060	Tyrosine metabolism;Isoquinoline alkaloid biosynthesis	
+R04325	10-formyltetrahydrofolate:5'-phosphoribosylglycinamide formyltransferase	2.1.2.2	B1812_19370	Purine metabolism;One carbon pool by folate	
+R04326		2.1.2.2	B1812_19370	One carbon pool by folate	
+R04355	Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	B1812_12260 or B1812_14810	Fatty acid biosynthesis	
+R04365	Succinyl-CoA:2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	2.3.1.117	B1812_02260	Lysine biosynthesis	
+R04378	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide:pyrophosphate phosphoribosyltransferase	2.4.2.7	B1812_12160	Purine metabolism	
+R04385	biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming)	6.3.4.14	B1812_04050		
+R04386	carboxybiotin-carboxyl-carrier-protein:acetyl-CoA carboxytransferase	2.1.3.15	B1812_16160 or B1812_11145		
+R04391	ATP:pantothenate 4'-phosphotransferase	2.7.1.33	B1812_01280	Pantothenate and CoA biosynthesis	
+R04420	5-methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase	5.3.1.23	B1812_01605	Cysteine and methionine metabolism	
+R04426	(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase	1.1.1.85	B1812_12315	Valine, leucine and isoleucine biosynthesis	
+R04428	(3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	B1812_12255 or B1812_20455	Fatty acid biosynthesis	
+R04429	butyryl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04430	butyryl-[acp]:NADP+ trans-2-oxidoreductase	1.3.1.10;1.3.1.39;1.3.1.104;1.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04439	(R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86;1.1.1.383	B1812_10275	Pantothenate and CoA biosynthesis	
+R04440	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86	B1812_10275	Valine, leucine and isoleucine biosynthesis	
+R04441	(R)-2,3-Dihydroxy-3-methylbutanoate hydro-lyase	4.2.1.9	B1812_17145	Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis	
+R04444	L-1-pyrroline-3-hydroxy-5-carboxylate:NAD+ oxidoreductase	1.2.1.88	B1812_02890	Arginine and proline metabolism	
+R04445	L-1-pyrroline-3-hydroxy-5-carboxylate:NADP+ oxidoreductase	1.2.1.88	B1812_02890	Arginine and proline metabolism	
+R04457	5-amino-6-(D-ribitylamino)uracil butanedionetransferase	2.5.1.78	B1812_18140	Riboflavin metabolism	
+R04463	5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)	6.3.5.3	B1812_12010 or B1812_12015 or B1812_05705	Purine metabolism	
+R04475	N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase	2.6.1.17	B1812_12450	Lysine biosynthesis	
+R04506	3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al:NAD+ oxidoreductase	1.2.1.3	B1812_01610		
+R04509	ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase	2.7.4.7	B1812_13170	Thiamine metabolism	
+R04533	(3R)-3-hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Fatty acid biosynthesis	
+R04534	(3R)-3-hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Fatty acid biosynthesis	
+R04535	(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	B1812_12255 or B1812_20455	Fatty acid biosynthesis	
+R04536	(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Fatty acid biosynthesis	
+R04537	(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	B1812_12255 or B1812_20455	Fatty acid biosynthesis	
+R04543	(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Fatty acid biosynthesis	
+R04544	(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	B1812_12255 or B1812_20455	Fatty acid biosynthesis	
+R04550	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]:UDP-3-O-[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine N-acetyltransferase	2.3.1.191	B1812_20450	Lipopolysaccharide biosynthesis	
+R04558	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate-lyase (L-glutamine-hydrolysing; 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide-forming)	4.3.2.10	B1812_01270 or B1812_01260	Histidine metabolism	
+R04559	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase	4.3.2.2	B1812_17235	Purine metabolism	
+R04560	10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-imidazolecarboxamide formyltransferase	2.1.2.3	B1812_13560	Purine metabolism;One carbon pool by folate	
+R04566	(3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Fatty acid biosynthesis	
+R04567	(R)-3-Hydroxytetradecanoly-[acyl-carrier-protein]:UDP-N-acetyl-glucosamine 3-O-(3-hydroxytetradecanoyl)transferase	2.3.1.129	B1812_20460	Lipopolysaccharide biosynthesis	
+R04568	(3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	B1812_12255 or B1812_20455	Fatty acid biosynthesis	
+R04573	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine:alanyl-D-alanine ligase (ADP-forming)	6.3.2.10	B1812_11700	Peptidoglycan biosynthesis	
+R04587	UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetylglucosamine amidohydrolase	3.5.1.108	B1812_12570	Lipopolysaccharide biosynthesis	
+R04591	1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming)	6.3.2.6	B1812_15805	Purine metabolism	
+R04606	UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine:2,3-bis-(3-hydroxytetradecanoyl)-alpha-D-glucosaminyl-1-phosphate 2,3-bis(3-hydroxytetradecanoyl)-glucosaminyltransferase	2.4.1.182	B1812_20465	Lipopolysaccharide biosynthesis	
+R04617	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming)	6.3.2.10	B1812_11700	Lysine biosynthesis;Peptidoglycan biosynthesis	
+R04640	N-(5'-phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase;	5.3.1.16	B1812_01265 or B1812_14605	Histidine metabolism	
+R04657	ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-alpha-phosphate 4-O'-phosphotransferase	2.7.1.130	B1812_13375	Lipopolysaccharide biosynthesis	
+R04658	CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase	2.4.99.12	B1812_13370	Lipopolysaccharide biosynthesis	
+R04672	(S)-2-Acetolactate pyruvate-lyase (carboxylating)	2.2.1.6	B1812_19675 or B1812_19980 or B1812_19990		
+R04673	(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)	2.2.1.6	B1812_19675 or B1812_19980 or B1812_19990		
+R04674	N-methylhistamine:oxygen oxidoreductase (deaminating)	1.4.3.4;1.4.3.22	B1812_02235 or B1812_08060	Histidine metabolism	
+R04710	Protein-glycine,dihydroflavodoxin:S-adenosyl-L-methionine oxidoreductase (S-adenosyl-L-methionine cleaving)	1.97.1.4	B1812_11565		
+R04724	dodecanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04725	dodecanoyl-[acp]:NADP+ trans-2-oxidoreductase	1.3.1.10;1.3.1.39;1.3.1.104;1.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04726	dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	B1812_12260 or B1812_14810	Fatty acid biosynthesis	
+R04734	4a-hydroxytetrahydrobiopterin hydro-lyase	4.2.1.96	B1812_13620	Folate biosynthesis	
+R04737	(S)-3-Hydroxyhexadecanoyl-CoA:NAD+ oxidoreductase	1.1.1.35;1.1.1.211	B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04738	(S)-3-Hydroxyhexadecanoyl-CoA hydro-lyase	4.2.1.17;4.2.1.74	B1812_05275 or B1812_16410 or B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04739	(S)-3-Hydroxytetradecanoyl-CoA:NAD+ oxidoreductase	1.1.1.35;1.1.1.211	B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04740	(S)-3-Hydroxytetradecanoyl-CoA hydro-lyase	4.2.1.17;4.2.1.74	B1812_05275 or B1812_16410 or B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04741	(S)-3-hydroxydodecanoyl-CoA:NAD+ oxidoreductase	1.1.1.35;1.1.1.211	B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04744	(S)-Hydroxydecanoyl-CoA hydro-lyase	4.2.1.17;4.2.1.74	B1812_05275 or B1812_16410 or B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04745	(S)-hydroxyoctanoyl-CoA:NAD+ oxidoreductase	1.1.1.35;1.1.1.211	B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04746	(S)-Hydroxyoctanoyl-CoA hydro-lyase	4.2.1.17;4.2.1.74	B1812_05275 or B1812_16410 or B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04748	(S)-hydroxyhexanoyl-CoA:NAD+ oxidoreductase	1.1.1.35;1.1.1.211	B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04749	(S)-Hydroxyhexanoyl-CoA hydro-lyase	4.2.1.17;4.2.1.74	B1812_05275 or B1812_16410 or B1812_13225	Fatty acid elongation;Fatty acid degradation	
+R04770	Selenomethionine methanethiol-lyase (deaminating)	4.4.1.1;4.4.1.11	B1812_02095	Selenocompound metabolism	
+R04771	ATP:L-selenomethione S-adenosyltransferase	2.5.1.6	B1812_01225		
+R04773	Selenomethionine:tRNAMet ligase (AMP-forming)	6.1.1.10	B1812_21010	Selenocompound metabolism	
+R04779	ATP:D-fructose-6-phosphate 1-phosphotransferase	2.7.1.11	B1812_09340	Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism	
+R04858	S-adenosyl-L-methionine:DNA (cytosine-5-)-methyltransferase	2.1.1.37	B1812_14255 or B1812_16790	Cysteine and methionine metabolism	
+R04859	O3-acetyl-L-serine:thiosulfate 2-amino-2-carboxyethyltransferase (reducing, L-cysteine-forming);	2.5.1.47;2.5.1.49	B1812_04185 or B1812_18885 or B1812_20270 or B1812_01580 or B1812_09295 or B1812_10700		
+R04864	2-Acyl-sn-glycero-3-phosphoethanolamine O-acyltransferase	2.3.1.40	B1812_17055	Glycerophospholipid metabolism	
+R04880	3,4-dihydroxyphenylethyleneglycol:NAD+ oxidoreductase	1.1.1.1	B1812_18345	Tyrosine metabolism	
+R04890	3-Methoxytyramine:oxygen oxidoreductase (deaminating) (copper-containing)	1.4.3.4	B1812_02235 or B1812_08060	Tyrosine metabolism	
+R04893	L-Normetanephrine:oxygen oxidoreductase (deaminating) (copper-containing)	1.4.3.4	B1812_02235 or B1812_08060	Tyrosine metabolism	
+R04894	L-Metanephrine:oxygen oxidoreductase (deaminating) (flavin-containing)	1.4.3.4	B1812_02235 or B1812_08060	Tyrosine metabolism	
+R04903	5-Hydroxyindoleacetaldehyde:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Tryptophan metabolism	
+R04907	3-Hydroxykynurenamine:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	B1812_02235 or B1812_08060	Tryptophan metabolism	
+R04909	5-Hydroxykynurenamine decarboxy-lyase	4.1.1.28	B1812_02640	Tryptophan metabolism	
+R04928	ATP:adenylylsulfate 3'-phosphotransferase	2.7.1.25	B1812_14625 or B1812_19065		
+R04929	ATP:selenate adenylyltransferase	2.7.7.4	B1812_19065 or B1812_19070	Selenocompound metabolism	
+R04941	Selenocystathionine L-homocysteine-lyase (deaminating)	4.4.1.13	B1812_19800	Selenocompound metabolism	
+R04949	Cyanoglycoside glucohydrolase	3.2.1.21	B1812_15755		
+R04951		3.4.11.1;3.4.11.2;3.4.11.23;3.4.13.-	B1812_01570 or B1812_04080 or B1812_15745	Glutathione metabolism	
+R04952	butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	B1812_12260 or B1812_14810	Fatty acid biosynthesis	
+R04953	(3R)-3-hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Fatty acid biosynthesis	
+R04954	(3R)-3-hydroxyhexanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	B1812_12255 or B1812_20455	Fatty acid biosynthesis	
+R04955	hexanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04956	hexanoyl-[acp]:NADP+ trans-2-oxidoreductase	1.3.1.10;1.3.1.39;1.3.1.104;1.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04957	hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	B1812_12260 or B1812_14810	Fatty acid biosynthesis	
+R04958	octanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04959	octanoyl-[acp]:NADP+ trans-2-oxidoreductase	1.3.1.10;1.3.1.39;1.3.1.104;1.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04960	Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	B1812_12260 or B1812_14810	Fatty acid biosynthesis	
+R04961	decanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04962	decanoyl-[acp]:NADP+ trans-2-oxidoreductase	1.3.1.10;1.3.1.39;1.3.1.104;1.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04963	Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	B1812_12260 or B1812_14810	Fatty acid biosynthesis	
+R04964	(3R)-3-hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Fatty acid biosynthesis	
+R04965	(3R)-3-hydroxydodecanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	B1812_12255 or B1812_20455	Fatty acid biosynthesis	
+R04966	tetradecanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04967	tetradecanoyl-[acp]:NADP+ trans-2-oxidoreductase	1.3.1.10;1.3.1.39;1.3.1.104;1.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04968	Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	B1812_12260 or B1812_14810	Fatty acid biosynthesis	
+R04969	hexadecanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04970	hexadecanoyl-[acp]:NADP+ trans-2-oxidoreductase	1.3.1.10;1.3.1.39;1.3.1.104;1.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R04972	Uroporphyrinogen I carboxy-lyase	4.1.1.37	B1812_09865	Porphyrin metabolism	
+R04988	S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase	2.1.1.222	B1812_17095		
+R04998	beta-D-Glucosyl-2-coumarinate glucohydrolase	3.2.1.21	B1812_15755	Biosynthesis of various plant secondary metabolites	
+R05032	UDP-N-acetyl-D-glucosamine:undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine 4-beta-N-acetylglucosaminlytransferase	2.4.1.227	B1812_11720	Peptidoglycan biosynthesis	
+R05046	formamidopyrimidine nucleoside triphosphate amidohydrolase	3.5.4.16	B1812_08340	Folate biosynthesis	
+R05050	N4-Acetylaminobutanal:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Arginine and proline metabolism	
+R05051	L-erythro-4-Hydroxyglutamate:NAD+ oxidoreductase	1.2.1.88	B1812_02890	Arginine and proline metabolism	
+R05052	L-erythro-4-hydroxyglutamate:2-oxoglutarate aminotransferase	2.6.1.1;2.6.1.23	B1812_18810	Arginine and proline metabolism	
+R05066	3-hydroxy-2-methylpropanoate:NAD+ oxidoreductase	1.1.1.31	B1812_03595 or B1812_14270	Valine, leucine and isoleucine degradation	
+R05068	(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86	B1812_10275	Valine, leucine and isoleucine biosynthesis	
+R05069	(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86;5.4.99.3	B1812_10275	Valine, leucine and isoleucine biosynthesis	
+R05070	(R)-2,3-Dihydroxy-3-methylpentanoate hydro-lyase	4.2.1.9	B1812_17145	Valine, leucine and isoleucine biosynthesis	
+R05071	(S)-2-Acetolactate methylmutase	1.1.1.86;5.4.99.3	B1812_10275	Valine, leucine and isoleucine biosynthesis	
+R05074	CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase	2.4.99.13	B1812_13370	Lipopolysaccharide biosynthesis	
+R05076	(2R,3S)-2-methylmalyl-CoA hydro-lyase (2-methylfumaryl-CoA-forming)	4.2.1.148	B1812_00605	Glyoxylate and dicarboxylate metabolism;C5-Branched dibasic acid metabolism;Carbon fixation pathways in prokaryotes	
+R05085	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase	2.6.1.52	B1812_08320	Vitamin B6 metabolism	
+R05086	O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water)	4.2.3.1	B1812_00100	Vitamin B6 metabolism	
+R05118		3.1.1.75	B1812_02595 or B1812_17745	Butanoate metabolism	
+R05135	2',3'-Cyclic GMP 3'-nucleotidohydrolase	3.1.4.16	B1812_19965	Purine metabolism	
+R05149	S-Adenosyl-L-methionine:1-precorrin-6Y C5,15-methyltransferase (C-12-decarboxylating)	2.1.1.132	B1812_19510	Porphyrin metabolism	
+R05150	precorrin-6Y:NADP+ oxidoreductase	1.3.1.54	B1812_02965	Porphyrin metabolism	
+R05176	ADP-D-glycero-D-manno-heptose 6-epimerase	5.1.3.20	B1812_17360	Lipopolysaccharide biosynthesis	
+R05177	precorrin 8X 11,12-methylmutase	5.4.99.61	B1812_19495	Porphyrin metabolism	
+R05180	S-adenosyl-L-methionine:precorrin-3B C17-methyltransferase	2.1.1.131	B1812_19505	Porphyrin metabolism	
+R05181	S-adenosyl-L-methionine:precorrin-4 C11 methyltransferase	2.1.1.133	B1812_19520	Porphyrin metabolism	
+R05185	reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)	1.18.6.1	B1812_08120 or B1812_06620 or B1812_07920 or B1812_08125 or B1812_08115	Nitrogen metabolism	
+R05217	precorrin-3A,NADH:oxygen oxidoreductase (20-hydroxylating)	1.14.13.83	B1812_19490	Porphyrin metabolism	
+R05219		2.1.1.152	B1812_16085	Porphyrin metabolism	
+R05220	ATP:cob(I)yrinic acid-a,c-diamide Cobeta-adenosyltransferase	2.5.1.17	B1812_04855 or B1812_05600 or B1812_03405	Porphyrin metabolism	
+R05221		2.7.1.156	B1812_05385	Porphyrin metabolism	
+R05222	GTP:adenosylcobinamide-phosphate guanylyltransferase	2.7.7.62	B1812_05385	Porphyrin metabolism	
+R05223		2.7.8.26	B1812_14575	Porphyrin metabolism	
+R05224		6.3.5.9	B1812_05240	Porphyrin metabolism	
+R05225		6.3.5.10	B1812_02970	Porphyrin metabolism	
+R05227	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	6.6.1.2	B1812_19485 or B1812_13590	Porphyrin metabolism	
+R05233	trans-3-Chloro-2-propene-1-ol:NAD+ oxidoreductase	1.1.1.1	B1812_18345	Chloroalkane and chloroalkene degradation	
+R05234	cis-3-chloro-2-propene-1-ol:NAD+ oxidoreductase	1.1.1.1	B1812_18345	Chloroalkane and chloroalkene degradation	
+R05237		1.2.1.3	B1812_01610	Chloroalkane and chloroalkene degradation	
+R05238		1.2.1.3	B1812_01610	Chloroalkane and chloroalkene degradation	
+R05286	Chloroacetaldehyde:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Chloroalkane and chloroalkene degradation	
+R05287	Chloroacetic acid halidohydrolase	3.8.1.2;3.8.1.3	B1812_03735 or B1812_14610	Chlorocyclohexane and chlorobenzene degradation;Chloroalkane and chloroalkene degradation	
+R05305	3-hydroxypimeloyl-CoA:NAD+ oxidoreductase	1.1.1.35;1.1.1.259	B1812_13225	Benzoate degradation	
+R05332	Acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase	2.3.1.157	B1812_01375 or B1812_10425	Amino sugar and nucleotide sugar metabolism	
+R05389	2-Hydroxy-5-methyl-cis,cis-muconate 2-Oxo-5-methyl-cis-muconate isomerase	5.3.2.6	B1812_10660	Xylene degradation	
+R05496	reduced ferredoxin:acetylene oxidoreductase (ATP-hydrolysing)	1.18.6.1	B1812_08120 or B1812_06620 or B1812_07920 or B1812_08125 or B1812_08115	Chloroalkane and chloroalkene degradation	
+R05508		2.8.3.1	B1812_05755	Styrene degradation	
+R05510	Protoanemonin lactonohydrolase	3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Chlorocyclohexane and chlorobenzene degradation	
+R05511		3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Chlorocyclohexane and chlorobenzene degradation	
+R05551		3.5.1.4	B1812_17615	Styrene degradation	
+R05553	4-amino-4-deoxychorismate pyruvate-lyase	4.1.3.38	B1812_08785	Folate biosynthesis	
+R05566	UDP-N-acetyl-alpha-D-mannosamine:N-acetyl-alpha-D-glucosaminyldiphospho-ditrans,octacis-undecaprenol 4-beta-N-acetylmannosaminyltransferase (configuration-inverting)	2.4.1.187	B1812_10895		
+R05576	(S)-3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase	1.1.1.157	B1812_04170 or B1812_19425		
+R05577	L-Aspartate:tRNA(Asp) ligase (AMP-forming)	6.1.1.12;6.1.1.23	B1812_03070	Aminoacyl-tRNA biosynthesis	
+R05578	L-glutamate:tRNA(Glu) ligase (AMP-forming)	6.1.1.17;6.1.1.24	B1812_11625 or B1812_12675	Porphyrin metabolism;Aminoacyl-tRNA biosynthesis	
+R05590	Acylamide aminohydrolase	3.5.1.4	B1812_17615	Aminobenzoate degradation	
+R05595		4.2.1.17	B1812_05275 or B1812_16410		
+R05615	all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase	2.5.1.39	B1812_07120		
+R05627	undecaprenyl-diphosphate phosphohydrolase	3.6.1.27	B1812_04965	Peptidoglycan biosynthesis;Teichoic acid biosynthesis	
+R05629	UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase	2.7.8.13	B1812_11705	Peptidoglycan biosynthesis	
+R05630	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine:undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase	2.7.8.13	B1812_11705	Peptidoglycan biosynthesis	
+R05633	CTP: 2-C-Methyl-D-erythritol 4-phosphate cytidylyltransferase	2.7.7.60	B1812_21290	Terpenoid backbone biosynthesis	
+R05634	ATP:4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol 2-phosphotransferase	2.7.1.148	B1812_14855	Terpenoid backbone biosynthesis	
+R05636	1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)	2.2.1.7	B1812_01145	Thiamine metabolism;Terpenoid backbone biosynthesis	
+R05637	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol CMP-lyase (cyclizing)	4.6.1.12	B1812_21290	Terpenoid backbone biosynthesis	
+R05644	ATP:D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase	2.7.7.70	B1812_11925	Lipopolysaccharide biosynthesis	
+R05645	D-glycero-beta-D-manno-heptose-7-phosphate aldose-ketose-isomerase	5.3.1.28	B1812_08920 or B1812_21425	Lipopolysaccharide biosynthesis	
+R05646	ATP:D-glycero-beta-D-manno-heptose 7-phosphate 1-phosphotransferase	2.7.1.167	B1812_11925	Lipopolysaccharide biosynthesis	
+R05647	D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphohydrolase	3.1.3.82	B1812_17365	Lipopolysaccharide biosynthesis	
+R05662	UDP-N-acetyl-D-glucosamine:N-acetyl-alpha-D-muramyl(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase	2.4.1.227	B1812_11720	Peptidoglycan biosynthesis	
+R05666	toluene,NADH:oxygen oxidoreductase (4-hydroxylating)	1.14.13.236	B1812_07855	Toluene degradation	
+R05681	NAD-dependent threonine 4-phosphate dehydrogenase	1.1.1.262	B1812_02815	Vitamin B6 metabolism	
+R05688	1-Deoxy-D-xylulose-5-phosphate isomeroreductase	1.1.1.267	B1812_20435	Terpenoid backbone biosynthesis	
+R05706	FMNH2:NADP+ oxidoreductase	1.5.1.38;1.5.1.39;1.5.1.-	B1812_04410	Riboflavin metabolism	
+R05771	N-cyclohexylformamide hydro-lyase	4.2.1.103	B1812_17210 or B1812_17725	Caprolactam degradation	
+R05808	S-adenosyl-L-methionine:cobalt-factor-II C20-methyltransferase	2.1.1.151	B1812_19500	Porphyrin metabolism	
+R05809		2.1.1.131	B1812_19505		
+R05810	cobalt-precorrin-4 methyltransferase	2.1.1.271	B1812_19520	Porphyrin metabolism	
+R05812	cobalt-precorrin-6B:NAD+ oxidoreductase	1.3.1.106	B1812_02965	Porphyrin metabolism	
+R05814	precorrin-8 11,12-methylmutase	5.4.99.60	B1812_19495	Porphyrin metabolism	
+R05815	cobyrinate:L-glutamine amido-ligase (ADP-forming)	6.3.5.11	B1812_05240	Porphyrin metabolism	
+R05837	4-(phosphonooxy)threonine:NAD oxidoreductase	1.1.1.262	B1812_02815		
+R05838	pyridoxine 5'-phosphate synthase	2.6.99.2	B1812_00420	Vitamin B6 metabolism	
+R05884	isopentenyl-diphosphate:ferredoxin oxidoreductase	1.17.7.4	B1812_05210	Terpenoid backbone biosynthesis	
+R06129		2.4.1.187	B1812_10895	Teichoic acid biosynthesis	
+R06173		2.4.1.227	B1812_11720		
+R06174		2.4.1.227	B1812_11720		
+R06275		2.4.1.80	B1812_09720 or B1812_11620 or B1812_14350		
+R06285		2.4.99.13	B1812_13370	Lipopolysaccharide biosynthesis	
+R06366	Aldehyde:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Limonene degradation	
+R06390	monoterpene epsilon-lactone hydrolase	3.1.1.83	B1812_18180	Limonene degradation	
+R06391	isopropenylmethyloxepan-2-one lactonohydrolase	3.1.1.83	B1812_18180	Limonene degradation	
+R06392	4-isopropenyl-7-methyloxepan-2-one lactonohydrolase	3.1.1.83	B1812_18180	Limonene degradation	
+R06393	monoterpene epsilon-lactone hydrolase	3.1.1.83	B1812_18180	Limonene degradation	
+R06447	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate cistransferase (adding 8 isopentenyl units)	2.5.1.31	B1812_20425	Peptidoglycan biosynthesis;Terpenoid backbone biosynthesis	
+R06513	dTDPglucose 4,6-hydro-lyase	4.2.1.46	B1812_11905 or B1812_21430	Streptomycin biosynthesis;Polyketide sugar unit biosynthesis;Acarbose and validamycin biosynthesis;O-Antigen nucleotide sugar biosynthesis;Biosynthesis of vancomycin group antibiotics	
+R06514	dTDP-4-dehydro-6-deoxy-alpha-D-glucose 3,5-epimerase;	5.1.3.13	B1812_08390 or B1812_11910	Streptomycin biosynthesis;Polyketide sugar unit biosynthesis;O-Antigen nucleotide sugar biosynthesis	
+R06519	dihydroceramide,ferrocytochrome b5:oxygen oxidoreductase (4,5-dehydrogenating)	1.14.19.17	B1812_10565	Sphingolipid metabolism	
+R06529	adenosylcobyric acid:(R)-1-aminopropan-2-yl phosphate ligase	6.3.1.10	B1812_02975 or B1812_03770	Porphyrin metabolism	
+R06558		2.7.1.156	B1812_05385	Porphyrin metabolism	
+R06590	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehydetransferase;	2.2.1.1	B1812_02725 or B1812_07725 or B1812_21435 or B1812_21440	Biosynthesis of ansamycins	
+R06835	4-carboxymethylenebut-2-en-4-olide lactonohydrolase	3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Chlorocyclohexane and chlorobenzene degradation	
+R06838	4-carboxymethylenebut-2-en-4-olide lactonohydrolase	3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Chlorocyclohexane and chlorobenzene degradation	
+R06894		1.1.1.-	B1812_01450	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R06895	coproporphyrinogen-III:S-adenosyl-L-methionine oxidoreductase(decarboxylating)	1.3.98.3	B1812_02835	Porphyrin metabolism	
+R06917	1-hydroxymethylnaphthalene:NAD+ oxidoreductase	1.1.1.1	B1812_18345	Naphthalene degradation	
+R06927	(2-naphthyl)methanol:NAD+ oxidoreductase	1.1.1.1	B1812_18345	Naphthalene degradation	
+R06941	(S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase	1.1.1.35;1.1.1.157	B1812_04170 or B1812_19425 or B1812_13225	Phenylalanine metabolism;Caprolactam degradation	
+R06942	(3S)-3-hydroxyacyl-CoA hydro-lyase	4.2.1.17	B1812_05275 or B1812_16410 or B1812_13225	Phenylalanine metabolism;Caprolactam degradation	
+R06977	L-2,4-diaminobutyrate:2-oxoglutarate 4-aminotransferase	2.6.1.76	B1812_21605	Glycine, serine and threonine metabolism	
+R07002	(1R)-hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07003	(1R)-glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07004	(1S)-hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07023	1-nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07024	1-nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07025	1-nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07026	1-nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07069	3,4-dihydro-3-hydroxy-4-S-glutathionyl bromobenzene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07070	2,3-dihydro-2-S-glutathionyl-3-hydroxy bromobenzene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07083	4,5-dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene glutathione-lyase (epoxide-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07084	7,8-dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene hydrolase	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07091	S-(2,2-dichloro-1-hydroxy)ethyl-glutathione 2,2-dichloroacetaldehyde-lyase (glutathione-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07092	1,1-dichloroethylene-epoxide:glutathione S-(chloroepoxyethyl)transferase [2-(S-glutathionyl)acetyl-chloride-forming]	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07093	chloroacetyl-chloride:glutathione S-chloroacetyltransferase	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07094	2-(S-glutathionyl)acetyl-chloride:glutathione 2-(S-glutathionyl)acetyltransferase	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07100	trichloroethene:glutathione S-(1,2-dichlorovinyl)transferase	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07105	trichloroethanol:NAD+ oxidoreductase	1.1.1.1	B1812_18345	Metabolism of xenobiotics by cytochrome P450	
+R07113	1,2-dibromoethane:glutathione ethylenetransferase (episulfonium-forming)	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07116	2-bromoacetaldehyde:glutathione S-(formylmethyl)transferase	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R07136	(2R)-3-sulfolactate:NAD+ oxidoreductase	1.1.1.37;1.1.1.337	B1812_20510	Cysteine and methionine metabolism;Methane metabolism	
+R07163	all-trans-13,14-dihydroretinol:acceptor 13,14-oxidoreductas	1.3.99.23	B1812_16130	Retinol metabolism	
+R07168	5-methyltetrahydrofolate:NAD+ oxidoreductase	1.5.1.20;1.5.1.54	B1812_03985	One carbon pool by folate;Carbon fixation pathways in prokaryotes	
+R07210	alkanesulfonate, reduced-FMN:oxygen oxidoreductase	1.14.14.5	B1812_04410 or B1812_04425	Sulfur metabolism	
+R07211	L-phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase(4-hydroxylating)	1.14.16.1	B1812_16370	Folate biosynthesis	
+R07268	ATP:cobinamide Cobeta-adenosyltransferase	2.5.1.17	B1812_04855 or B1812_05600 or B1812_03405	Porphyrin metabolism	
+R07270	prephytoene diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase	2.5.1.32	B1812_03615	Carotenoid biosynthesis	
+R07274	O-phospho-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase	2.5.1.47;2.5.1.65	B1812_04185 or B1812_18885 or B1812_20270	Cysteine and methionine metabolism	
+R07281	D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming)	4.1.99.12	B1812_03540 or B1812_04415	Riboflavin metabolism	
+R07302	adenosylcobyric acid:(R)-1-aminopropan-2-ol ligase (ADP-forming)	6.3.1.10	B1812_02975 or B1812_03770	Porphyrin metabolism	
+R07381	Plasmenylethanolamine ethanolamine phosphohydrolase	3.1.4.3	B1812_02250 or B1812_09770 or B1812_14615 or B1812_15870	Ether lipid metabolism	
+R07395	5-(methylthio)-2,3-dioxopentyl-phosphate phosphohydrolase (isomerizing)	3.1.3.77	B1812_21150	Cysteine and methionine metabolism	
+R07404	5-amino-1-(5-phospho-D-ribosyl)imidazole:carbon-dioxide ligase (ADP-forming)	6.3.4.18	B1812_03355	Purine metabolism	
+R07405	5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole carboxymutase	5.4.99.18	B1812_03350	Purine metabolism	
+R07411	(2E,6E)-farnesyl-diphosphate:protoheme IX farnesyltranstransferase	2.5.1.141	B1812_00105	Porphyrin metabolism	
+R07412	ferroheme o:acceptor C-81-oxidoreductase (heme a-forming)	1.17.99.9	B1812_11635	Porphyrin metabolism	
+R07443	donor:hydrogen-peroxide oxidoreductase	1.11.1.7;1.11.1.21	B1812_08190	Phenylpropanoid biosynthesis	
+R07459	ATP:[sulfur-carrier protein] adenylyltransferase	2.7.7.73;2.7.7.80	B1812_04215	Thiamine metabolism	
+R07460	L-cysteine:[enzyme]-cysteine sulfurtransferase	2.8.1.7	B1812_05405 or B1812_08035	Thiamine metabolism	
+R07463	glycine:oxygen oxidoreductase	1.4.3.19	B1812_05250	Thiamine metabolism	
+R07521	S-adenosyl-L-methionine:demethylspheroidene O-methyltransferase	2.1.1.210	B1812_02310	Carotenoid biosynthesis	
+R07524	S-adenosyl-L-methionine:demethylspheroidene O-methyltransferase	2.1.1.210	B1812_02310	Carotenoid biosynthesis	
+R07527	S-adenosyl-L-methionine:demethylspheroidene O-methyltransferase	2.1.1.210	B1812_02310	Carotenoid biosynthesis	
+R07529	S-adenosyl-L-methionine:demethylspheroidene O-methyltransferase	2.1.1.210	B1812_02310	Carotenoid biosynthesis	
+R07533	demethylspheroidene O-methyltransferase	2.1.1.210	B1812_02310	Carotenoid biosynthesis	
+R07535	S-adenosyl-L-methionine:demethylspheroidene O-methyltransferase	2.1.1.210	B1812_02310	Carotenoid biosynthesis	
+R07574	UDP-glucose:zeaxanthin beta-D-glucosyltransferase	2.4.1.276	B1812_22155	Carotenoid biosynthesis	
+R07599		1.2.4.4	B1812_16420 or B1812_16425	Valine, leucine and isoleucine degradation	
+R07600		1.2.4.4	B1812_16420 or B1812_16425	Valine, leucine and isoleucine degradation	
+R07601		1.2.4.4	B1812_16420 or B1812_16425	Valine, leucine and isoleucine degradation	
+R07602		1.2.4.4	B1812_16420 or B1812_16425	Valine, leucine and isoleucine degradation	
+R07603		1.2.4.4	B1812_16420 or B1812_16425	Valine, leucine and isoleucine degradation	
+R07604		1.2.4.4	B1812_16420 or B1812_16425	Valine, leucine and isoleucine degradation	
+R07605	7-aminomethyl-7-carbaguanine:NADP+ oxidoreductase	1.7.1.13	B1812_03410	Folate biosynthesis	
+R07618	enzyme N6-(dihydrolipoyl)lysine:NAD+ oxidoreductase	1.8.1.4	B1812_15670 or B1812_17770	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Valine, leucine and isoleucine degradation;Pyruvate metabolism;Propanoate metabolism	
+R07639	decenoyl-[acyl-carrier-protein] Delta2-trans-Delta3-cis-isomerase	5.3.3.14	B1812_12255	Fatty acid biosynthesis	
+R07762		2.3.1.41;2.3.1.179;2.3.1.199;2.3.1.-	B1812_12260 or B1812_14810	Fatty acid biosynthesis	
+R07763		1.1.1.100;2.3.1.-	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Fatty acid biosynthesis	
+R07764		2.3.1.-;4.2.1.-	B1812_20455	Fatty acid biosynthesis	
+R07765	octadecanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;1.3.1.-;2.3.1.-	B1812_06235 or B1812_12265	Fatty acid biosynthesis	
+R07766	octanoyl-[acp]:protein N6-octanoyltransferase	2.3.1.181	B1812_18010		
+R07767	[protein]-N6-(octanoyl)-L-lysine:an [Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster sulfurtransferase	2.8.1.8	B1812_19880		
+R07769	lipoyl-[acp]:protein N6-lipoyltransferase	2.3.1.181	B1812_18010		
+R07772	cobalt-precorrin 5A acylhydrolase	3.7.1.12	B1812_19515	Porphyrin metabolism	
+R07773	S-adenosyl-L-methionine:cobalt-precorrin-5B (C1)-methyltransferase	2.1.1.195	B1812_05380	Porphyrin metabolism	
+R07774	S-adenosyl-L-methionine:cobalt-precorrin-6B C15-methyltransferase (C12-decarboxylating)	2.1.1.196	B1812_19510	Porphyrin metabolism	
+R07775	S-adenosyl-L-methionine:cobalt-precorrin-7 C5-methyltransferase	2.1.1.289	B1812_19510	Porphyrin metabolism	
+R07832	3-hydroxy-5-oxohexanoyl-CoA:acetate CoA-transferase	2.8.3.8	B1812_03950 or B1812_03955	Aminobenzoate degradation	
+R08034		1.2.7.1;1.2.7.4;1.12.99.6	B1812_08935 or B1812_13110 or B1812_08930 or B1812_13115 or B1812_13125 or B1812_13060 or B1812_13120	Nitrotoluene degradation	
+R08057	GTP:GTP guanylyltransferase	2.7.7.65	B1812_20010		
+R08058	5,6,7,8-tetrahydromethanopterin hydro-lyase (formaldehyde-adding, 5,10-methylenetetrahydromethanopterin-forming)	4.2.1.147	B1812_14735 or B1812_14740 or B1812_18000	Methane metabolism	
+R08059		1.5.1.-	B1812_17515 or B1812_17885	Methane metabolism	
+R08060		1.2.7.12	B1812_13890 or B1812_16140 or B1812_16135 or B1812_16150	Methane metabolism	
+R08087		1.2.1.-	B1812_12005	Geraniol degradation	
+R08090	3-hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA acetate-lyase (7-methyl-3-oxooct-6-enoyl-CoA-forming)	4.1.3.4;4.1.3.26	B1812_16400	Geraniol degradation	
+R08093	3-hydroxy-5-methylhex-4-enoyl-CoA hydro-lyase	4.2.1.17	B1812_05275 or B1812_16410 or B1812_13225	Geraniol degradation	
+R08094	3-hydroxy-5-methylhex-4-enoyl-CoA:NAD+ oxidoreductase	1.1.1.35	B1812_13225	Geraniol degradation	
+R08096		1.2.1.-	B1812_12005	Geraniol degradation	
+R08120	5-fluoromuconolactone lactonohydrolase	3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Fluorobenzoate degradation	
+R08121	4-fluoromuconolactone lactonohydrolase	3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Fluorobenzoate degradation	
+R08146	farnesal:NAD+ oxidoreductase	1.2.1.3	B1812_01610	Insect hormone biosynthesis	
+R08210	dimethylallyl diphosphate:ferredoxin oxidoreductase	1.17.7.4	B1812_05210	Terpenoid backbone biosynthesis	
+R08218	L-serine:tRNASec ligase (AMP-forming)	6.1.1.11	B1812_00090	Aminoacyl-tRNA biosynthesis	
+R08237	6-thioinosine 5'-monophosphate:diphosphate phospho-D-ribosyltransferase	2.4.2.8	B1812_21360	Drug metabolism - other enzymes	
+R08238	6-methylthiopurine 5'-monophosphate ribonucleotide:diphosphate phospho-D-ribosyltransferase	2.4.2.8	B1812_21360	Drug metabolism - other enzymes	
+R08240	6-thioinosine 5'-monophosphate:NAD+ oxidoreductase	1.1.1.205	B1812_20245	Drug metabolism - other enzymes	
+R08243	inosine triphosphate pyrophosphatase	3.6.1.66	B1812_11780	Drug metabolism - other enzymes	
+R08244	6-thioxanthine 5'-monophosphate:L-glutamine amido-ligase (AMP-forming)	6.3.5.2	B1812_20710	Drug metabolism - other enzymes	
+R08245	6-thioguanosine monophosphate:diphosphate phospho-D-ribosyltransferase	2.4.2.8	B1812_21360	Drug metabolism - other enzymes	
+R08280	4-glutathionyl cyclophosphamide hydrolase	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Drug metabolism - cytochrome P450	
+R08281	alcophosphamide:NAD+ oxidoreductase	1.1.1.1	B1812_18345	Drug metabolism - cytochrome P450	
+R08306	2-phenyl-1,3-propanediol monocarbamate:NAD+ oxidoreductase	1.1.1.1	B1812_18345	Drug metabolism - cytochrome P450	
+R08310	4-hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one:NAD+ oxidoreductase	1.1.1.1	B1812_18345	Drug metabolism - cytochrome P450	
+R08346	Citalopram:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	B1812_02235 or B1812_08060	Drug metabolism - cytochrome P450	
+R08347	Demethylcitalopram:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	B1812_02235 or B1812_08060	Drug metabolism - cytochrome P450	
+R08348	didemethylcitalopram:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	B1812_02235 or B1812_08060	Drug metabolism - cytochrome P450	
+R08549	2-oxoglutarate:NAD+ 2-oxidoreductase (CoA-succinylating);	1.2.1.105	B1812_11095 or B1812_15670 or B1812_17770 or B1812_10790		
+R08572	ATP:(R)-glycerate 2-phosphotransferase	2.7.1.165	B1812_15895	Pentose phosphate pathway;Glycine, serine and threonine metabolism;Glycerolipid metabolism;Glyoxylate and dicarboxylate metabolism;Methane metabolism	
+R08620	2-(2'-methylthio)ethylmalate hydroxymutase	4.2.1.170	B1812_10140	Glucosinolate biosynthesis	
+R08622	homomethionine:2-oxo-acid aminotransferase	2.6.1.-	B1812_09305 or B1812_19775	Glucosinolate biosynthesis	
+R08624	2-(3'-methylthio)propylmalate hydroxymutase	4.2.1.170	B1812_10140	Glucosinolate biosynthesis	
+R08626	dihomomethionine:2-oxo-acid aminotransferase	2.6.1.-	B1812_09305 or B1812_19775	Glucosinolate biosynthesis	
+R08628	2-(3'-methylthio)butylmalate hydroxymutase	4.2.1.170	B1812_10140	Glucosinolate biosynthesis	
+R08634	2-(3'-methylthio)pentylmalate hydroxymutase	4.2.1.170	B1812_10140	Glucosinolate biosynthesis	
+R08639	alpha-D-glucose 1,6-phosphomutase	5.4.2.2;5.4.2.5	B1812_02305	Starch and sucrose metabolism;Streptomycin biosynthesis	
+R08641	2-(3'-methylthio)hexylmalate hydroxymutase	4.2.1.170	B1812_10140	Glucosinolate biosynthesis	
+R08645	2-(3'-methylthio)heptylmalate hydroxymutase	4.2.1.170	B1812_10140	Glucosinolate biosynthesis	
+R08648	pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)	2.2.1.6	B1812_19675 or B1812_19980 or B1812_19990	Valine, leucine and isoleucine biosynthesis	
+R08689	(E)-4-hydroxy-3-methylbut-2-en-1-yl-diphosphate:oxidized ferredoxin oxidoreductase (hydrating)	1.17.7.1	B1812_03895	Terpenoid backbone biosynthesis	
+R08706	UDP-N-acetyl-D-glucosaminuronate 4-epimerase	5.1.3.-	B1812_01445	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R08779	L-alanyl-tRNA:undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine N6-alanyltransferase	2.3.2.10	B1812_18800	Peptidoglycan biosynthesis	
+R08968	ATP:N-acetyl-D-glucosamine 1-phosphotransferase	2.7.1.162;2.7.1.-	B1812_18535	Amino sugar and nucleotide sugar metabolism	
+R09072	S-adenosyl-L-methionine:1,2-diacyl-sn-glycerol 3-amino-3-carboxypropyltransferase		B1812_17315	Glycerophospholipid metabolism	
+R09073	S-adenosylmethionine:diacylglycerylhomoserine N-methyltransferase (diacylglyceryl-N,N,N-trimethylhomoserine-forming)		B1812_17320	Glycerophospholipid metabolism	
+R09099	5,10-methylenetetrahydromethanopterin:glycine hydroxymethyltransferase	2.1.2.1	B1812_07245 or B1812_20575	Methane metabolism	
+R09107	N-acetyl-L-citrulline amidohydrolase	3.5.1.16	B1812_11020	Arginine biosynthesis	
+R09127	ethanol:cytochrome c oxidoreductase	1.1.2.7	B1812_04775	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R09128	2-chloroethanol:cytochrome c oxidoreductase	1.1.2.7	B1812_04775	Chloroalkane and chloroalkene degradation	
+R09136	2,3,5-trichlorodienelactone lactonohydrolase	3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Chlorocyclohexane and chlorobenzene degradation	
+R09220	dienelactone hydrolase	3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Toluene degradation	
+R09222	dienelactone hydrolase	3.1.1.45	B1812_04565 or B1812_07940 or B1812_10340	Toluene degradation	
+R09248	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 5 isopentenyl units)	2.5.1.90	B1812_07345	Terpenoid backbone biosynthesis	
+R09289	3-hydroxypropionate:NADP+ oxidoreductase	1.1.1.298;1.1.1.-	B1812_17915	Pyrimidine metabolism;Carbon fixation pathways in prokaryotes	
+R09291	ethylmalonyl-CoA:NADP+ oxidoreductase (decarboxylating)	1.3.1.85	B1812_02315	Glyoxylate and dicarboxylate metabolism	
+R09292	(2R)-ethylmalonyl-CoA CoA-carbonylmutase	5.4.99.63	B1812_17295	Glyoxylate and dicarboxylate metabolism	
+R09293	(2S)-methylsuccinyl-CoA:electron-transfer flavoprotein oxidoreductase	1.3.8.12	B1812_14845	Glyoxylate and dicarboxylate metabolism	
+R09365	5-methyltetrahydropteroyltri-L-glutamate:L-selenohomocysteine Se-methyltransferase	2.1.1.13;2.1.1.14	B1812_03980	Selenocompound metabolism	
+R09372	methaneselenol:NADP+ oxidoreductase	1.8.1.9	B1812_11380 or B1812_15990 or B1812_20805	Selenocompound metabolism	
+R09381	acyl-ACP:1-acyl-sn-glycerol-3-phosphate 2-O-acyltransferase	2.3.1.51	B1812_07320		
+R09382	CTP,CTP,ATP:tRNA cytidylyl,cytidylyl,adenylyltransferase	2.7.7.72	B1812_01210		
+R09383	CTP:tRNA cytidylyltransferase	2.7.7.72	B1812_01210		
+R09384	CTP:tRNA cytidylyltransferase	2.7.7.72	B1812_01210		
+R09386	ATP:tRNA adenylyltransferase	2.7.7.72	B1812_01210		
+R09394	GTP 3',8-cyclase [(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate-forming]	4.1.99.22	B1812_02020	Folate biosynthesis	
+R09395	thiocarboxylated molybdopterin synthase:cyclic pyranopterin phosphate sulfurtransferase	2.8.1.12	B1812_10235	Folate biosynthesis	
+R09409	glutathione-S-transferase	2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Metabolism of xenobiotics by cytochrome P450	
+R09489	protoporphyrinogen IX:quinone oxidoreductase	1.3.5.3	B1812_15740	Porphyrin metabolism	
+R09513	methanesulfonate,NADH:oxygen oxidoreductase	1.14.13.111	B1812_07855	Sulfur metabolism	
+R09518	methane,quinol:oxygen oxidoreductase	1.14.18.3	B1812_00565 or B1812_13465 or B1812_14775 or B1812_18680 or B1812_00560 or B1812_13470 or B1812_14780 or B1812_18685 or B1812_00555 or B1812_06380 or B1812_12550 or B1812_13455 or B1812_14770 or B1812_18675	Methane metabolism	
+R09594	tetrahydromethanopterin:alpha-L-glutamate ligase (ADP-forming)	6.3.2.33	B1812_01095	Folate biosynthesis	
+R09597	L-lysine:[tRNA(Ile2)]-cytidine34 ligase (AMP-forming)	6.3.4.19	B1812_12560		
+R09640	ATP:1,6-anhydro-N-acetylmuramate 6-phosphotransferase	2.7.1.170	B1812_00070		
+R09675	ATP:3'-dephospho-CoA 5-triphospho-alpha-D-ribosyltransferase	2.4.2.52	B1812_01090		
+R09726	ATP:molybdopterin adenylyltransferase	2.7.7.75	B1812_08660	Folate biosynthesis	
+R09735	adenylyl-molybdopterin:molybdate molybdate transferase (AMP-forming)	2.10.1.1	B1812_05450	Folate biosynthesis	
+R09736	S-adenosyl-L-methione:demethylmenaquinol methyltransferase	2.1.1.163	B1812_01480	Ubiquinone and other terpenoid-quinone biosynthesis	
+R09763	CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)2-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [(2->8) glycosidic bond-forming]	2.4.99.14	B1812_13370		
+R09764		2.4.99.14	B1812_13370		
+R09766	CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)3-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [(2->4) glycosidic bond-forming]	2.4.99.15	B1812_13370		
+R09768	D-glycero-D-manno-heptose 7-phosphate aldose-ketose-isomerase	5.3.1.28	B1812_08920 or B1812_21425		
+R09769	D-glycero-alpha-D-manno-heptose 7-phosphate aldose-ketose-isomerase	5.3.1.28	B1812_08920 or B1812_21425	Lipopolysaccharide biosynthesis	
+R09771	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate 7-phosphohydrolase	3.1.3.83	B1812_17365	Lipopolysaccharide biosynthesis	
+R09845	CAAX protease	3.4.22.-;3.4.24.84	B1812_18645	Terpenoid backbone biosynthesis	
+R09959	7,8-dihydroneopterin 3'-triphosphate acetaldehyde-lyase (6-carboxy-5,6,7,8-tetrahydropterin and triphosphate-forming)	4.1.2.50	B1812_03820	Folate biosynthesis	
+R09978	7-carboxy-7-carbaguanine:ammonia ligase (ADP-forming)	6.3.4.20	B1812_09490	Folate biosynthesis	
+R09979	(2S)-ethylmalonyl-CoA epimerase	5.1.99.1	B1812_01100	Glyoxylate and dicarboxylate metabolism	
+R10002	6-carboxy-5,6,7,8-tetrahydropterin ammonia-lyase	4.3.99.3	B1812_03825	Folate biosynthesis	
+R10035	beta-D-glucoside glucohydrolase	3.2.1.21	B1812_15755	Cyanoamino acid metabolism	
+R10039	beta-D-glucoside glucohydrolase	3.2.1.21	B1812_15755	Cyanoamino acid metabolism	
+R10040	beta-D-glucoside glucohydrolase	3.2.1.21	B1812_15755	Cyanoamino acid metabolism	
+R10052	(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase	1.1.1.85	B1812_12315		
+R10092	carbonate hydro-lyase (carbon-dioxide-forming)	4.2.1.1	B1812_01215 or B1812_12700 or B1812_12795 or B1812_16115 or B1812_16265 or B1812_16325	Nitrogen metabolism	
+R10115	malonyl-[acyl-carrier protein]-methyl-ester:malonyl-[acyl-carrier protein] C-acyltransferase	2.3.1.41;2.3.1.179	B1812_12260 or B1812_14810	Biotin metabolism	
+R10116	3-hydroxyglutaryl-[acp]-methyl-ester:NADP+ oxidoreductase	1.1.1.100	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Biotin metabolism	
+R10117	3-hydroxyglutaryl-[acp]-methyl-ester hydro-lyase	4.2.1.59	B1812_20455	Biotin metabolism	
+R10118	glutaryl-[acp]-methyl-ester:NADP+ oxidoreductase	1.3.1.10	B1812_06235 or B1812_12265	Biotin metabolism	
+R10119	glutaryl-[acp]-methyl-ester:malonyl-[acyl-carrier protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.179	B1812_12260 or B1812_14810	Biotin metabolism	
+R10120	3-hydroxypimeloyl-[acp]-methyl-ester:NADP+ oxidoreductase	1.1.1.100	B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470	Biotin metabolism	
+R10121	3-hydroxypimeloyl-[acp]-methyl-ester hydro-lyase	4.2.1.59	B1812_20455	Biotin metabolism	
+R10122	pimelyl-[acyl-carrier protein]-methyl-ester:NADP+ oxidoreductase	1.3.1.10	B1812_06235 or B1812_12265	Biotin metabolism	
+R10124	pimeloyl-[acyl-carrier protein]:L-alanine C-pimeloyltransferase (decarboxylating)	2.3.1.47	B1812_10575 or B1812_14730	Biotin metabolism	
+R10125		1.1.1.-	B1812_12005	Geraniol degradation	
+R10126		1.1.1.-	B1812_12005	Geraniol degradation	
+R10147	L-aspartate-4-semialdehyde hydro-lyase [adding pyruvate and cyclizing; (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate-forming]	4.3.3.7	B1812_00340 or B1812_13785	Monobactam biosynthesis;Lysine biosynthesis	
+R10151			B1812_19020 or B1812_05540	Sulfur metabolism	
+R10170	(2R,3S)-3-isopropylmalate hydro-lyase (2-isopropylmaleate-forming)	4.2.1.33	B1812_10140 or B1812_12695		
+R10175	dTDP-6-deoxy-beta-L-mannose:N-acetyl-alpha-D-glucosaminyl-diphospho-trans,octacis-decaprenol 3-alpha-L-rhamnosyltransferase	2.4.1.289	B1812_10860		
+R10177	geranylgeranyl-diphosphate:geranylgeranyl-diphosphate geranylgeranyltransferase (15-cis-phytoene forming)	2.5.1.32	B1812_03615		
+R10203		1.14.14.35	B1812_04435	Sulfur metabolism	
+R10205	5-phospho-alpha-D-ribose 1,2-cyclic phosphate 2-phosphohydrolase (alpha-D-ribose 1,5-bisphosphate-forming)	3.1.4.55	B1812_21050	Phosphonate and phosphinate metabolism	
+R10206	methanesulfonate,FMNH2:oxygen oxidoreductase	1.14.14.5;1.14.14.34	B1812_04410 or B1812_04425	Sulfur metabolism	
+R10209	tRNA-guanosine34:7-aminomethyl-7-carbaguanine tRNA-D-ribosyltransferase	2.4.2.29	B1812_05320		
+R10220	S-adenosyl-L-methionine:7-aminomethyl-7-deazaguanosine ribosyltransferase (ribosyl isomerizing; L-methionine, adenine releasing)	2.4.99.17	B1812_05330		
+R10221	6-phospho-D-gluconate:NAD+ 2-oxidoreductase (decarboxylating)	1.1.1.343;1.1.1.351	B1812_07715	Pentose phosphate pathway	
+R10223	tRNA(adenine34) aminohydrolase	3.5.4.33	B1812_02795 or B1812_17735		
+R10247	1-deoxy-D-xylulose 5-phosphate:thiol sulfurtransferase	2.8.1.10	B1812_05260	Thiamine metabolism	
+R10337	5-phospho-alpha-D-ribose 1-diphosphate:4-aminobenzoate 5-phospho-beta-D-ribofuranosyltransferase (decarboxylating)	2.4.2.54	B1812_13625		
+R10463	ATP:L-threonyl,bicarbonate adenylyltransferase	2.7.7.87	B1812_15905		
+R10633		2.3.1.286	B1812_12390	Nicotinate and nicotinamide metabolism	
+R10634		2.3.1.286	B1812_12390	Nicotinate and nicotinamide metabolism	
+R10645	tRNA (N6-dimethylallyladenosine):sulfur-donor,S-adenosyl-L-methionine C2-methylthiotransferase	2.8.4.3	B1812_10180		
+R10646		2.8.4.3	B1812_10180		
+R10647		2.8.4.3	B1812_10180		
+R10649	tRNA (N6-L-threonylcarbamoyladenosine37):sulfur-donor,S-adenosyl-L-methionine C2-methylthiotransferase	2.8.4.5	B1812_00200		
+R10652	[ribosomal protein S12]-L-aspartate:sulfur-donor,S-adenosyl-L-methionine C3-methylthiotransferase	2.8.4.4	B1812_06175		
+R10707	acetyl-CoA:malonyl-[acyl-carrier protein] C-acetyltransferase (decarboxylating)	2.3.1.180	B1812_13945 or B1812_15715	Fatty acid biosynthesis	
+R10712	2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate 2-methyl-4-aminopyrimidine-5-methenyltransferase	2.5.1.3	B1812_05265 or B1812_13180	Thiamine metabolism	
+R10713	primary alcohol:cytochrome cL oxidoreductase	1.1.2.7	B1812_04775		
+R10802	5,6,7,8-tetrahydromethanopterin:acceptor 5,6-oxidoreductase	1.5.99.15	B1812_10070	Folate biosynthesis	
+R10806	S-adenosyl-L-methionine:[protein]-L-glutamine (N5-glutamine)-methyltransferase	2.1.1.297;2.1.1.298	B1812_10310		
+R10816	5'-triphospho-[mRNA] diphosphatase	3.6.1.-	B1812_06060		
+R10820	3-(methylthio)propanoate:CoA ligase (AMP-forming)	6.2.1.44	B1812_19345	Sulfur metabolism	
+R10831		3.2.1.52	B1812_06880	Glycosaminoglycan degradation	
+R10859	(E)-4-hydroxy-3-methylbut-2-en-1-yl-diphosphate:oxidized flavodoxin oxidoreductase	1.17.7.3	B1812_03895	Terpenoid backbone biosynthesis	
+R10880			B1812_21600	Monobactam biosynthesis	
+R10907	beta-D-glucose-6-phosphate:NAD+ 1-oxidoreductase	1.1.1.363;1.1.1.388	B1812_07710	Pentose phosphate pathway	
+R10935		4.2.3.153	B1812_11155	Methane metabolism	
+R10938	L-alanyl-D-glutamate epimerase	5.1.1.20	B1812_10390		
+R10948	ATP:HCO3- phosphotransferase	6.3.5.5	B1812_14820 or B1812_02375		
+R10949		6.3.5.5	B1812_14820 or B1812_02375		
+R10970	ATP:6-deoxy-6-sulfo-D-fructose 1-phosphotransferase	2.7.1.184	B1812_20590		
+R10991	2-aminobutanoate:2-oxoglutarate aminotransferase	2.6.1.42	B1812_09305 or B1812_19775	Cysteine and methionine metabolism	
+R10993	L-glutamate:2-aminobutanoate gamma-ligase (ADP-forming)	6.3.2.2	B1812_15120	Cysteine and methionine metabolism	
+R10994	gamma-L-glutamyl-L-2-aminobutyrate:glycine ligase (ADP-forming)	6.3.2.3	B1812_09560	Cysteine and methionine metabolism	
+R10996		1.2.4.4	B1812_16420 or B1812_16425	Propanoate metabolism	
+R10997		1.2.4.4	B1812_16420 or B1812_16425	Propanoate metabolism	
+R10998	propanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-propanoyltransferase	2.3.1.168	B1812_16430	Propanoate metabolism	
+R11024	ATP:N-acetyl-D-muramate 1-phosphotransferase	2.7.1.221	B1812_18535	Amino sugar and nucleotide sugar metabolism	
+R11025	UTP:N-acetyl-alpha-D-muramate-1-phosphate uridylyltransferase	2.7.7.99	B1812_18530	Amino sugar and nucleotide sugar metabolism	
+R11039	[5-(aminomethyl)furan-3-yl]methyl phosphate kinase	2.7.4.31	B1812_11160	Methane metabolism	
+R11040	(4-{4-[2-(gamma-L-glutamylamino)ethyl]phenoxymethyl}furan-2-yl)methanamine synthase	2.5.1.131	B1812_17880	Methane metabolism	
+R11102	5-phospho-alpha-D-ribose-1-diphosphate:4-hydroxybenzoate 5-phospho-beta-D-ribofuranosyltransferase (decarboxylating)	2.4.2.54	B1812_13625	Folate biosynthesis	
+R11130	3-(methylsulfanyl)propanoyl-CoA:acceptor 2-oxidoreductase	1.3.99.41	B1812_02715 or B1812_13215	Sulfur metabolism	
+R11174	adenosylcobinamide-GDP:alpha-ribazole adenosylcobinamide-phosphotransferase	2.7.8.26	B1812_14575		
+R11319	ADP:thiamin-diphosphate phosphotransferase	2.7.4.3	B1812_15630	Thiamine metabolism	
+R11323	dTTP diphosphohydrolase	3.6.1.9;3.6.1.-	B1812_21070 or B1812_09870 or B1812_16060	Pyrimidine metabolism	
+R11329	Fe-coproporphyrin-III ferro-lyase (coproporphyrin-III-forming)	4.99.1.9	B1812_13955	Porphyrin metabolism	
+R11372	(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate lyase (cyclic pyranopterin phosphate-forming)	4.6.1.17	B1812_05455	Folate biosynthesis	
+R11396	CTP:8-amino-3,8-dideoxy-D-manno-octulosonate cytidylyltransferase	2.7.7.90	B1812_03260		
+R11443	L-leucyl-tRNA(Leu):[protein] N-terminal L-lysine leucyltransferase	2.3.2.6	B1812_12715		
+R11444	L-leucyl-tRNA(Leu):[protein] N-terminal L-arginine leucyltransferase	2.3.2.6	B1812_12715		
+R11528	L-cysteine:sulfur-acceptor sulfurtransferase	2.8.1.7	B1812_05405 or B1812_08035 or B1812_05425 or B1812_07795 or B1812_18880		
+R11529	[enzyme]-S-sulfanylcysteine:sulfur-acceptor sulfurtransferase	2.8.1.7	B1812_05405 or B1812_08035		
+R11547	L-leucyl-tRNA(Leu):[protein] N-terminal L-glutamate leucyltransferase	2.3.2.29	B1812_02565		
+R11548	L-leucyl-tRNA(Leu):[protein] N-terminal L-aspartate leucyltransferase	2.3.2.29	B1812_02565		
+R11580	S-adenosyl-L-methionine:cobalt-factor III 17-methyltransferase (ring contracting)	2.1.1.272	B1812_19505	Porphyrin metabolism	
+R11581	GTP:molybdenum cofactor guanylyltransferase	2.7.7.77	B1812_18785	Folate biosynthesis	
+R11671			B1812_02995 or B1812_09290 or B1812_18780 or B1812_21470 or B1812_06235 or B1812_12265 or B1812_08685	Prodigiosin biosynthesis	
+R11743	formylmethanofuran:ferredoxin oxidoreductase	1.2.7.12	B1812_16150		
+R11765	tetrahydrobiopterin:NADP+ oxidoreductase (7,8-dihydrobiopterin-forming)	1.5.1.3;1.5.1.33	B1812_10365	Folate biosynthesis	
+R11783	ADP-alpha-D-glucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase (configuration-retaining)	2.4.1.347	B1812_00755 or B1812_04930 or B1812_14510		
+R11786	(ribonucleotide)n-2',3'-cyclic phosphate 3'-nucleotidohydrolase	3.1.4.58	B1812_07325		
+R11861	glutathione gamma-glutamyl cyclotransferase (5-oxoproline-forming)	4.3.2.7	B1812_03545	Glutathione metabolism	
+R11894	ATP:5-fluorouridine-diphosphate phosphotransferase	2.7.4.6	B1812_05375	Drug metabolism - other enzymes	
+R11895	ATP:5-fluorodeoxyuridine-diphosphate phosphotransferase	2.7.4.6	B1812_05375	Drug metabolism - other enzymes	
+R11896	5-fluorodeoxyuridine-triphosphate diphosphohydrolase	3.6.1.23	B1812_06150	Drug metabolism - other enzymes	
+R11906	isoniazid:hydrogen-peroxide oxidoreductase	1.11.1.21;1.11.2.2	B1812_08190	Drug metabolism - other enzymes	
+R12024	N-(4-oxoglutaryl)-L-cysteinylglycine amidohydrolase	3.5.1.128	B1812_18630		
+R12049		2.3.1.-	B1812_09695 or B1812_14815	Biosynthesis of various antibiotics	
+R12077	dTDP-6-deoxy-beta-L-mannose:N-acetyl-alpha-D-glucosaminyl-diphospho-trans,octacis-decaprenol 3-alpha-L-rhamnosyltransferase	2.4.1.289	B1812_10860	Arabinogalactan biosynthesis - Mycobacterium	
+R12078		2.4.1.287	B1812_01380	Arabinogalactan biosynthesis - Mycobacterium	
+R12079		2.4.1.287	B1812_01380	Arabinogalactan biosynthesis - Mycobacterium	
+R12084	ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing, vanadium-dependent)	1.18.6.2	B1812_06630 or B1812_06640 or B1812_06635	Nitrogen metabolism	
+R12096	[SoxY protein]-S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	B1812_19020		
+R12097	[SoxY protein]-S-(2-sulfodisulfanyl)-L-cysteine sulfohydrolase	3.1.6.20	B1812_19020		
+R12157	S-adenosyl-L-methionine:1,6-didemethyltoxoflavin N6-methyltransferase (reumycin-forming)	2.1.1.349	B1812_13435		
+R12158	S-adenosyl-L-methionine:reumycin N1-methyltransferase (toxoflavin-forming)	2.1.1.349	B1812_13435		
+R12184	ATP:Cob(II)yrinate diamide Cobeta-adenosyltransferase	2.5.1.17	B1812_04855 or B1812_05600 or B1812_03405	Porphyrin metabolism	
+R12188	L-cysteine-S-conjugate thiol-lyase (deaminating; 2-aminoprop-2-enoate-forming)	4.4.1.13	B1812_19800		
+R12240	acyl-[acyl-carrier protein]:phosphate acyltransferase	2.3.1.274	B1812_15710	Glycerolipid metabolism	
+R12241	acyl phosphoate:sn-glycerol 3-phosphate acyltransferase	2.3.1.275	B1812_00995	Glycerolipid metabolism;Glycerophospholipid metabolism	
+R12271	UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-L-glutamate L-glutamate-epimerase	5.1.1.23	B1812_02580	Peptidoglycan biosynthesis	
+R12272	UDP-N-acetylmuramoyl-L-alanine---L-glutamate ligase (ADP-forming)	6.3.2.53	B1812_02585	Peptidoglycan biosynthesis	
+R12390	O-acetyl-ADP-D-ribose carboxylesterase	3.1.1.106	B1812_11200		
+R12391	O-acetyl-ADP-D-ribose carboxylesterase	3.1.1.106	B1812_11200		
+R12423	[lipoyl-carrier protein E2]-N6-(octanoyl)-L-lysine:[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster sulfurtransferase	2.8.1.8	B1812_19880	Lipoic acid metabolism	
+R12424	[glycine cleavage system H]-N6-octanoyl-L-lysine:[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster sulfurtransferase	2.8.1.8	B1812_19880	Lipoic acid metabolism	
+R12427	octanoyl-[acp]:lipoyl-carrier-protein-E2 N-octanoyltransferase	2.3.1.181	B1812_18010	Lipoic acid metabolism	
+R12428	octanoyl-[acp]:Glycine-cleavage-system-H N-octanoyltransferase	2.3.1.181	B1812_18010	Lipoic acid metabolism	
+R12500	queuosine34 in tRNA:acceptor oxidoreductase	1.17.99.6	B1812_17930		
+R12578	glutathione:hydroperoxide oxidoreductase	1.11.1.27	B1812_09365	Glutathione metabolism	
+R12605		1.3.99.-	B1812_09860	Porphyrin metabolism	
+R12718	S-methyl-5-thio-D-ribulose 1-phosphate 1,3-isomerase	5.3.3.23	B1812_01625	Cysteine and methionine metabolism	
+R12753	S-adenosyl-L-methionine:1'-hydroxy-1',2'-dihydro-beta,psi-caroten-4'-one O-methyltransferase	2.1.1.210	B1812_02310	Carotenoid biosynthesis	
+R12755	ATP:1,6-anhydro-N-acetyl-beta-muramate 6-phosphotransferase	2.7.1.170	B1812_00070	Amino sugar and nucleotide sugar metabolism	
+R12808			B1812_05280	Teichoic acid biosynthesis	
+R12814			B1812_05280	Teichoic acid biosynthesis	
+R12851	adenylosuccinate lyase	4.3.2.2	B1812_17235	Purine metabolism	
+R12852	guanylate kinase	2.7.4.8	B1812_14795	Purine metabolism	
+R12853	nucleoside-diphosphate kinase	2.7.4.6	B1812_05375	Purine metabolism	
+R12885		1.1.1.25	B1812_12355	Biosynthesis of various plant secondary metabolites	
+R12933		6.3.3.3	B1812_14725		
+R12934		6.3.3.3	B1812_14725	Biotin metabolism	
+R12946	S-methyl-1-thio-D-xylulose 5-phosphate:glutathione methylthiotransferase	2.8.4.6	B1812_01620	Cysteine and methionine metabolism	
+R12958	dIMP phosphohydrolase	3.1.3.5;3.1.3.89	B1812_00085 or B1812_03815		
+R13011	2-oxoadipate dioxygenase/carboxy lyase	1.13.11.93	B1812_09125	Lysine degradation	
+R13051	daidzein 7-O-glucoside glucohydrolase	3.2.1.21	B1812_15755	Degradation of flavonoids	
+R13052	genistein 7-O-beta-D-glucoside glucohydrolase	3.2.1.21	B1812_15755	Degradation of flavonoids	
+R13065	quercetin 3-O-glucoside glucohydrolase	3.2.1.21	B1812_15755	Degradation of flavonoids	
+R13081	naringenin 7-O-beta-D-glucoside glucohydrolase	3.2.1.21	B1812_15755	Degradation of flavonoids	
+R13097		5.1.1.-	B1812_10390	D-Amino acid metabolism	
+R00647		1.1.3.8		Ascorbate and aldarate metabolism	
+R01652		1.1.1.85		Valine, leucine and isoleucine biosynthesis	
+R02317	(S)-2-amino-6-oxohexanoate hydro-lyase (spontaneous)	1.2.1.31;1.4.1.18		Lysine degradation;Tropane, piperidine and pyridine alkaloid biosynthesis	
+R02962				Tyrosine metabolism	
+R03166				Porphyrin metabolism	
+R03186		1.11.1.11		Ascorbate and aldarate metabolism	
+R03445		2.6.1.7;2.6.1.63		Tryptophan metabolism	
+R03672				Tyrosine metabolism	
+R03674				Tyrosine metabolism	
+R03758		1.1.1.381		Glycine, serine and threonine metabolism	
+R03954		2.6.1.7;2.6.1.63		Tryptophan metabolism	
+R04500				Chlorocyclohexane and chlorobenzene degradation	
+R04578				Monoterpenoid biosynthesis	
+R04639	2-amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate hydrolase	3.5.4.16	B1812_08340	Folate biosynthesis	
+R04701				Isoquinoline alkaloid biosynthesis	
+R04769	salutaridinol 7-O-acetate acetate-lyase (thebaine forming)	4.2.99.24		Isoquinoline alkaloid biosynthesis	
+R05041				Retinol metabolism	
+R05048	2,5-diaminopyrimidine nucleoside triphosphate mutase	3.5.4.16	B1812_08340	Folate biosynthesis	
+R05098				Caprolactam degradation	
+R05455				Ubiquinone and other terpenoid-quinone biosynthesis	
+R05483				Chlorocyclohexane and chlorobenzene degradation	
+R05484				Chlorocyclohexane and chlorobenzene degradation	
+R05824				Indole alkaloid biosynthesis	
+R05826				Indole alkaloid biosynthesis	
+R05844				Indole alkaloid biosynthesis	
+R05845				Indole alkaloid biosynthesis	
+R05846				Indole alkaloid biosynthesis	
+R05887				Isoquinoline alkaloid biosynthesis	
+R05889				Isoquinoline alkaloid biosynthesis	
+R06063					
+R06064					
+R06194				Retinol metabolism	
+R06650				Biosynthesis of type II polyketide products	
+R06830		1.1.1.276;1.1.1.387			
+R06982	S-(hydroxymethyl)glutathione formaldehyde-lyase (glutathione-forming);	4.4.1.22		Methane metabolism	
+R07009				Metabolism of xenobiotics by cytochrome P450	
+R07010				Metabolism of xenobiotics by cytochrome P450	
+R07011				Metabolism of xenobiotics by cytochrome P450	
+R07012				Metabolism of xenobiotics by cytochrome P450	
+R07198	liquiritigenin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (licodione-forming)	1.14.14.162			
+R07316		3.5.1.110;4.2.1.104		Nitrogen metabolism	
+R07406		1.1.1.262	B1812_02815	Vitamin B6 metabolism	
+R07679		1.3.2.3		Ascorbate and aldarate metabolism	
+R07947				Nicotinate and nicotinamide metabolism	
+R07948				Nicotinate and nicotinamide metabolism	
+R08020				Nitrotoluene degradation	
+R08279				Drug metabolism - cytochrome P450	
+R08289				Drug metabolism - cytochrome P450	
+R08358				Glutathione metabolism	
+R08361				Glutathione metabolism	
+R08372					
+R08637	2-Aminobut-2-enoate aminohydrolase (spontaneous)				
+R08698	2-aminoacrylate aminohydrolase				
+R08763	6-iminocyclohexa-2,4-dienone oxidoreductase (dimerizing)	1.10.3.4			
+R08818				Betalain biosynthesis	
+R08820				Betalain biosynthesis	
+R08821				Betalain biosynthesis	
+R08825				Betalain biosynthesis	
+R08827				Betalain biosynthesis	
+R08829				Betalain biosynthesis	
+R08831				Betalain biosynthesis	
+R08833				Betalain biosynthesis	
+R08834				Betalain biosynthesis	
+R08835				Betalain biosynthesis	
+R08837				Betalain biosynthesis	
+R08976		3.1.1.82			
+R09142				Chloroalkane and chloroalkene degradation	
+R09143				Chloroalkane and chloroalkene degradation	
+R09144				Chloroalkane and chloroalkene degradation	
+R09145				Chloroalkane and chloroalkene degradation	
+R09149		1.1.-.-		Chloroalkane and chloroalkene degradation	
+R09274				Aminobenzoate degradation	
+R09367				Selenocompound metabolism	
+R09368				Selenocompound metabolism	
+R09391		1.14.13.105		Limonene degradation	
+R09392		1.14.13.105		Limonene degradation	
+R09431				Metabolism of xenobiotics by cytochrome P450	
+R09432				Metabolism of xenobiotics by cytochrome P450	
+R09433				Metabolism of xenobiotics by cytochrome P450	
+R09434				Metabolism of xenobiotics by cytochrome P450	
+R09885				Steroid degradation	
+R09981				Pyrimidine metabolism	
+R10013				Lysine biosynthesis	
+R10018				Isoquinoline alkaloid biosynthesis	
+R10022					
+R10030		1.14.14.41		Cyanoamino acid metabolism	
+R10034		1.14.14.41		Cyanoamino acid metabolism	
+R10041		1.14.14.44		Cyanoamino acid metabolism	
+R10078		1.14.14.145			
+R10082		1.14.20.7			
+R10097					
+R10245		1.4.3.19			
+R10302					
+R10792	3alpha-hydroxy-3,5-dihydromonacolin L acid hydro-lyase	1.14.14.124		Biosynthesis of various other secondary metabolites	
+R10854		1.1.3.47			
+R10856		1.1.3.47			
+R10914		1.7.3.6			
+R11017		1.4.99.6			
+R11034		4.2.1.159			
+R11049		1.5.3.5;1.5.3.6		Nicotinate and nicotinamide metabolism	
+R11098	2-iminobutanoate aminohydrolase	3.5.99.10;4.3.1.19			
+R11099	2-iminopropanoate aminohydrolase	3.5.99.10;4.1.99.1;4.1.99.2;4.3.1.17			
+R11100		4.1.99.1;4.1.99.2;4.3.1.17;4.3.3.8			
+R11101		4.3.1.19			
+R11148		1.1.1.394			
+R11176				Nicotinate and nicotinamide metabolism	
+R11228		1.14.15.17			
+R11523		3.13.1.6			
+R11550				Biosynthesis of various plant secondary metabolites	
+R11570				Phenazine biosynthesis	
+R11571				Phenazine biosynthesis	
+R11572				Phenazine biosynthesis	
+R11573				Phenazine biosynthesis	
+R11574				Phenazine biosynthesis	
+R11575				Phenazine biosynthesis	
+R11576				Phenazine biosynthesis	
+R11577				Phenazine biosynthesis	
+R11691				Isoquinoline alkaloid biosynthesis	
+R11695				Isoquinoline alkaloid biosynthesis	
+R11709		1.17.98.2			
+R11736		1.14.14.45			
+R11739		1.14.14.45			
+R11865		4.4.1.36			
+R11947		1.13.11.18			
+R12091				Indole alkaloid biosynthesis	
+R12094				Indole alkaloid biosynthesis	
+R12132		1.14.14.150			
+R12140				alpha-Linolenic acid metabolism	
+R12185		2.7.2.2			
+R12268		1.14.14.169			
+R12274		1.14.14.170			
+R12310				Biosynthesis of various plant secondary metabolites	
+R12335				Atrazine degradation	
+R12421				Biosynthesis of various other secondary metabolites	
+R12539		1.14.14.22;1.14.99.46			
+R12683		1.17.99.9			
+R12686		1.4.3.26			
+R12829				Indole alkaloid biosynthesis	
+R12886				Biosynthesis of various plant secondary metabolites	
+R12910		1.14.13.248			
+R12974		1.1.3.29			
+R13023		1.4.1.21			
+R13091					
+R13113		4.4.1.43			
+R13114		4.4.1.43			
+R13140		1.4.3.27			
+R13144				Fructose and mannose metabolism	
+R00381	(deoxyribonucleotide)n:5'-phospho-(deoxyribonucleotide)m ligase (AMP-forming)	6.5.1.1;6.5.1.6;6.5.1.7	B1812_16500		
+R00382	(deoxyribonucleotide)n:5'-phospho-(deoxyribonucleotide)m ligase (AMP-forming, NMN-forming)	6.5.1.2;6.5.1.6	B1812_03590		
+R02887	1,4-beta-D-Glucan glucohydrolase	3.2.1.21;3.2.1.74	B1812_15755	Starch and sucrose metabolism	
+R04241	tetrahydropteroyl-gamma-polyglutamate:L-glutamate gamma-ligase (ADP-forming)	6.3.2.17	B1812_11150	Folate biosynthesis	
+R04254		2.3.1.304	B1812_13400 or B1812_13765 or B1812_20660	Butanoate metabolism	
+R06199		3.2.1.3;3.2.1.10	B1812_19435		
+R10152	sulfide:quinone oxidoreductase	1.8.5.4	B1812_04910	Sulfur metabolism	
+R00698	L-phenylalanine:oxygen oxidoreductase (decarboxylating)	1.11.1.21	B1812_08190	Phenylalanine metabolism	
+R06411	3-hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA hydro-lyase	4.2.1.17	B1812_05275 or B1812_16410 or B1812_13225	Limonene degradation	
+R06412	trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase	4.2.1.17	B1812_05275 or B1812_16410 or B1812_13225	Limonene degradation	
+R08700	[enzyme]-S-sulfanylcysteine:tRNA-uridine sulfurtransferase (ATP-hydrolysing)	2.8.1.13	B1812_06065		
+R08701	tRNA uridine 5-carboxymethylaminomethyl modification		B1812_09790 or B1812_09795		
+R09083		1.13.11.79	B1812_02980	Riboflavin metabolism	
+R11905		2.5.1.18	B1812_02590 or B1812_02670 or B1812_10095 or B1812_11165 or B1812_13670 or B1812_17325 or B1812_18900 or B1812_19690 or B1812_20895	Drug metabolism - other enzymes	
+R13034			B1812_04150	Lysine degradation	
+R13037			B1812_09120	Lysine degradation	

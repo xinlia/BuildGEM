@@ -1,0 +1,1199 @@
+R00005	urea-1-carboxylate amidohydrolase	3.5.1.54	MKLM6_3487	Arginine biosynthesis;Atrazine degradation	
+R00006	pyruvate:pyruvate acetaldehydetransferase (decarboxylating);	2.2.1.6	MKLM6_3333 or MKLM6_3334		
+R00014	pyruvate:thiamin diphosphate acetaldehydetransferase (decarboxylating)	1.2.4.1;2.2.1.6;4.1.1.1	MKLM6_3923 or MKLM6_3333 or MKLM6_3334	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism	
+R00022	chitobiose N-acetylglucosaminohydrolase	3.2.1.52	MKLM6_2453	Amino sugar and nucleotide sugar metabolism	
+R00026	cellobiose glucohydrolase	3.2.1.21	MKLM6_2249		
+R00036	5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming)	4.2.1.24	MKLM6_0529	Porphyrin metabolism	
+R00066	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase	2.5.1.9	MKLM6_2480	Riboflavin metabolism	
+R00078	Fe(II):oxygen oxidoreductase;	1.16.3.1	MKLM6_1114 or MKLM6_2984	Porphyrin metabolism	
+R00081	ferrocytochrome-c:oxygen oxidoreductase	1.7.2.1;7.1.1.9	MKLM6_1710 or MKLM6_2944 or MKLM6_1709 or MKLM6_2943 or MKLM6_1713		
+R00084	porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing);	2.5.1.61	MKLM6_0515	Porphyrin metabolism	
+R00087	ATP diphosphohydrolase (diphosphate-forming);	3.6.1.8;3.6.1.9	MKLM6_3802	Purine metabolism	
+R00089	ATP diphosphate-lyase (cyclizing; 3',5'-cyclic-AMP-forming)	4.6.1.1	MKLM6_0395 or MKLM6_2854 or MKLM6_2369	Purine metabolism	
+R00103	NAD+ phosphohydrolase	3.6.1.9;3.6.1.22	MKLM6_3802	Nicotinate and nicotinamide metabolism	
+R00104	ATP:NAD+ 2'-phosphotransferase	2.7.1.23	MKLM6_3151	Nicotinate and nicotinamide metabolism	
+R00112	NADPH:NAD+ oxidoreductase	1.6.1.1;1.6.1.2;1.6.1.3	MKLM6_2463 or MKLM6_2464	Nicotinate and nicotinamide metabolism	
+R00114	L-glutamate:NADP+ oxidoreductase (transaminating)	1.4.1.13	MKLM6_2611	Alanine, aspartate and glutamate metabolism;Nitrogen metabolism	
+R00125	P1,P4-bis(5'-adenosyl)-tetraphosphate nucleotidebisphosphohydrolase	3.6.1.41	MKLM6_1852 or MKLM6_3936	Purine metabolism	
+R00127	ATP:AMP phosphotransferase	2.7.4.3	MKLM6_0745	Purine metabolism	
+R00130	ATP:dephospho-CoA 3'-phosphotransferase	2.7.1.24	MKLM6_0194	Pantothenate and CoA biosynthesis	
+R00131	Urea amidohydrolase	3.5.1.5	MKLM6_1320 or MKLM6_1321 or MKLM6_1323	Arginine biosynthesis;Purine metabolism;Atrazine degradation	
+R00132	carbonate hydro-lyase (carbon-dioxide-forming);	4.2.1.1	MKLM6_0465 or MKLM6_1084 or MKLM6_2179		
+R00137	ATP:nicotinamide-nucleotide adenylyltransferase	2.7.7.1;2.7.7.18	MKLM6_2939	Nicotinate and nicotinamide metabolism	
+R00139	ATP:2'-deoxy-5-hydroxymethylcytidine-5'-diphosphate phosphotransferase	2.7.4.6	MKLM6_1394	Pyrimidine metabolism	
+R00143	ammonia:NAD+ oxidoreductase;	1.7.1.10;1.7.99.1	MKLM6_0749	Nitrogen metabolism	
+R00148	ammonia,ubiquinol:oxygen oxidoreductase;	1.14.99.39	MKLM6_3758 or MKLM6_3997 or MKLM6_3759 or MKLM6_3996 or MKLM6_3760 or MKLM6_3998	Nitrogen metabolism	
+R00156	ATP:UDP phosphotransferase	2.7.4.6	MKLM6_1394	Pyrimidine metabolism	
+R00158	ATP:UMP phosphotransferase	2.7.4.4;2.7.4.14;2.7.4.22	MKLM6_2605	Pyrimidine metabolism	
+R00161	ATP:FMN adenylyltransferase	2.7.7.2	MKLM6_3969	Riboflavin metabolism	
+R00177	ATP:L-methionine S-adenosyltransferase	2.5.1.6	MKLM6_0606	Cysteine and methionine metabolism;Biosynthesis of various plant secondary metabolites	
+R00178	S-adenosyl-L-methionine carboxy-lyase [S-adenosyl 3-(methylsulfanyl)propylamine-forming]	4.1.1.50	MKLM6_3934	Cysteine and methionine metabolism;Arginine and proline metabolism	
+R00183	adenosine 5'-monophosphate phosphohydrolase	3.1.3.5	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Purine metabolism	
+R00185	ATP:adenosine 5'-phosphotransferase	2.7.1.20	MKLM6_3803	Purine metabolism	
+R00188	adenosine-3',5'-bisphosphate 3'-phosphohydrolase	3.1.3.7;3.1.3.97	MKLM6_2640		
+R00190	AMP:diphosphate phospho-D-ribosyltransferase	2.4.2.7	MKLM6_1255	Purine metabolism	
+R00191	adenosine 3',5'-phosphate 5'-nucleotidohydrolase	3.1.4.17;3.1.4.53	MKLM6_2688	Purine metabolism	
+R00192	S-Adenosyl-L-homocysteine hydrolase	3.13.2.1	MKLM6_0607	Cysteine and methionine metabolism	
+R00194	S-Adenosyl-L-homocysteine homocysteinylribohydrolase	3.2.2.9	MKLM6_1249	Cysteine and methionine metabolism	
+R00199	ATP:pyruvate,water phosphotransferase	2.7.9.2	MKLM6_2697	Glycolysis / Gluconeogenesis;Pyruvate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00200	ATP:pyruvate 2-O-phosphotransferase	2.7.1.40	MKLM6_1362	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R00206	ATP:pyruvate,phosphate phosphotransferase	2.7.9.1	MKLM6_2522	Glycolysis / Gluconeogenesis;Pyruvate metabolism;Carbon fixation in photosynthetic organisms;Carbon fixation pathways in prokaryotes	
+R00209	pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating);	1.2.1.104	MKLM6_3923 or MKLM6_0165 or MKLM6_3922		
+R00214	(S)-malate:NAD+ oxidoreductase (decarboxylating)	1.1.1.38;1.1.1.39	MKLM6_2881	Pyruvate metabolism;Carbon fixation in photosynthetic organisms	
+R00220	L-serine ammonia-lyase	4.3.1.17;4.3.1.19	MKLM6_4277 or MKLM6_2044	Glycine, serine and threonine metabolism	
+R00226	pyruvate:pyruvate acetaldehydetransferase (decarboxylating);	2.2.1.6	MKLM6_3333 or MKLM6_3334	Valine, leucine and isoleucine biosynthesis;Butanoate metabolism;C5-Branched dibasic acid metabolism;Pantothenate and CoA biosynthesis	
+R00230	acetyl-CoA:phosphate acetyltransferase	2.3.1.8	MKLM6_1134	Taurine and hypotaurine metabolism;Pyruvate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00235	Acetate:CoA ligase (AMP-forming)	6.2.1.1	MKLM6_2189	Glycolysis / Gluconeogenesis;Glyoxylate and dicarboxylate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00236	acetyl adenylate:CoA acetyltransferase	6.2.1.1	MKLM6_2189	Pyruvate metabolism	
+R00237	(3S)-citramalyl-CoA pyruvate-lyase (acetyl-CoA-forming)	4.1.3.25	MKLM6_1752	C5-Branched dibasic acid metabolism;Carbon fixation pathways in prokaryotes	
+R00239	ATP:L-glutamate 5-phosphotransferase	2.7.2.11	MKLM6_0205	Arginine and proline metabolism;Carbapenem biosynthesis	
+R00243	L-glutamate:NAD+ oxidoreductase (deaminating)	1.4.1.2;1.4.1.3;1.4.1.14	MKLM6_3167	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Taurine and hypotaurine metabolism;Nitrogen metabolism	
+R00245	L-glutamate gamma-semialdehyde:NAD+ oxidoreductase	1.2.1.88	MKLM6_1766	Arginine and proline metabolism	
+R00248	L-glutamate:NADP+ oxidoreductase (deaminating)	1.4.1.3;1.4.1.4;1.4.1.13	MKLM6_2611	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Nitrogen metabolism	
+R00251	5-oxo-L-proline amidohydrolase (ATP-hydrolysing)	3.5.2.9	MKLM6_0315	Glutathione metabolism	
+R00253	L-Glutamate:ammonia ligase (ADP-forming)	6.3.1.2	MKLM6_2955	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Glyoxylate and dicarboxylate metabolism;Nitrogen metabolism	
+R00256	L-glutamine amidohydrolase	1.4.1.13;1.4.1.14;1.4.7.1;2.6.1.85	MKLM6_1019 or MKLM6_1018	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism	
+R00257	Deamido-NAD+:L-glutamine amido-ligase (AMP-forming)	6.3.5.1	MKLM6_3658 or MKLM6_4255	Nicotinate and nicotinamide metabolism	
+R00259	acetyl-CoA:L-glutamate N-acetyltransferase	2.3.1.1	MKLM6_0189 or MKLM6_2686	Arginine biosynthesis	
+R00260	glutamate racemase	5.1.1.3	MKLM6_0159	D-Amino acid metabolism	
+R00267	Isocitrate:NADP+ oxidoreductase (decarboxylating)	1.1.1.42	MKLM6_4066	Glutathione metabolism;Carbon fixation pathways in prokaryotes	
+R00268	oxalosuccinate carboxy-lyase (2-oxoglutarate-forming)	1.1.1.42	MKLM6_4066	Citrate cycle (TCA cycle)	
+R00271	acetyl-CoA:2-oxoglutarate C-acetyltransferase (thioester-hydrolysing, carboxymethyl forming)	2.3.3.14	MKLM6_0904	Lysine biosynthesis;Pyruvate metabolism	
+R00274	glutathione:hydrogen-peroxide oxidoreductase	1.11.1.9	MKLM6_0080 or MKLM6_2935	Glutathione metabolism	
+R00286	UDP-glucose:NAD+ 6-oxidoreductase	1.1.1.22	MKLM6_4046	Pentose and glucuronate interconversions;Ascorbate and aldarate metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00287	UDP-glucose glucophosphohydrolase	3.6.1.9;3.6.1.45	MKLM6_3802	Starch and sucrose metabolism	
+R00289	UTP:alpha-D-glucose-1-phosphate uridylyltransferase	2.7.7.9;2.7.7.64	MKLM6_2187	Pentose and glucuronate interconversions;Galactose metabolism;Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis;Glycerolipid metabolism	
+R00291	UDP-glucose 4-epimerase;	5.1.3.2	MKLM6_2646	Galactose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00294	nitrous-oxide:ferricytochrome-c oxidoreductase	1.7.2.5	MKLM6_2583 or MKLM6_2584 or MKLM6_2808	Nitrogen metabolism	
+R00299	ATP:D-glucose 6-phosphotransferase	2.7.1.1;2.7.1.2	MKLM6_3713	Starch and sucrose metabolism;Streptomycin biosynthesis;Neomycin, kanamycin and gentamicin biosynthesis	
+R00306	cellobiose glucohydrolase	3.2.1.21;3.2.1.74	MKLM6_2249	Starch and sucrose metabolism	
+R00310	protoheme ferro-lyase (protoporphyrin-forming)	4.98.1.1	MKLM6_1353	Porphyrin metabolism	
+R00315	ATP:acetate phosphotransferase	2.7.2.1;2.7.2.15	MKLM6_1132	Taurine and hypotaurine metabolism;Pyruvate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00316	ATP:acetate adenylyltransferase	6.2.1.1	MKLM6_2189	Pyruvate metabolism	
+R00317	Acetyl phosphate phosphohydrolase	3.6.1.7	MKLM6_3852	Pyruvate metabolism	
+R00330	ATP:GDP phosphotransferase	2.7.4.6	MKLM6_1394	Purine metabolism	
+R00332	ATP:GMP phosphotransferase	2.7.4.8	MKLM6_4319	Purine metabolism	
+R00336	guanosine-3',5'-bis(diphosphate) 3'-diphosphohydrolase	3.1.7.2	MKLM6_1728	Purine metabolism	
+R00342	(S)-malate:NAD+ oxidoreductase	1.1.1.37;1.1.1.299	MKLM6_1851	Citrate cycle (TCA cycle);Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Methane metabolism;Carbon fixation in photosynthetic organisms;Carbon fixation pathways in prokaryotes	
+R00344	Pyruvate:carbon-dioxide ligase (ADP-forming)	6.4.1.1	MKLM6_3890 or MKLM6_3889	Citrate cycle (TCA cycle);Pyruvate metabolism;Carbon fixation pathways in prokaryotes	
+R00345	phosphate:oxaloacetate carboxy-lyase (adding phosphate;phosphoenolpyruvate-forming);	4.1.1.31	MKLM6_2542	Pyruvate metabolism;Methane metabolism;Carbon fixation in photosynthetic organisms;Carbon fixation pathways in prokaryotes	
+R00351	acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing)	2.3.3.1;2.3.3.3;2.3.3.16	MKLM6_1981 or MKLM6_3854	Citrate cycle (TCA cycle);Glyoxylate and dicarboxylate metabolism	
+R00355	L-Aspartate:2-oxoglutarate aminotransferase	2.6.1.1	MKLM6_2284	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Carbon fixation in photosynthetic organisms	
+R00357	L-Aspartic acid:oxygen oxidoreductase (deaminating)	1.4.3.2;1.4.3.16	MKLM6_2096	Alanine, aspartate and glutamate metabolism	
+R00369	L-Alanine:glyoxylate aminotransferase	2.6.1.44	MKLM6_1746	Alanine, aspartate and glutamate metabolism	
+R00372	Glycine:2-oxoglutarate aminotransferase	2.6.1.4;2.6.1.44	MKLM6_1746	Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism	
+R00396	L-alanine:NAD+ oxidoreductase (deaminating)	1.4.1.1	MKLM6_1853	Alanine, aspartate and glutamate metabolism;Taurine and hypotaurine metabolism	
+R00401	alanine racemase	5.1.1.1	MKLM6_3768	D-Amino acid metabolism	
+R00405	Succinate:CoA ligase (ADP-forming)	6.2.1.5	MKLM6_3657 or MKLM6_3656	Citrate cycle (TCA cycle);Propanoate metabolism;Carbon fixation pathways in prokaryotes	
+R00411	N-succinyl-L-glutamate amidohydrolase	3.5.1.96	MKLM6_1312	Arginine and proline metabolism	
+R00416	UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase	2.7.7.23	MKLM6_0133	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00420	UDP-N-acetyl-D-glucosamine 2-epimerase	5.1.3.14	MKLM6_3041 or MKLM6_3114	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00421	UDP-N-acetyl-D-glucosamine:NAD+ 6-oxidoreductase	1.1.1.136	MKLM6_2664	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00424	GTP 7,8-8,9-dihydrolase	3.5.4.16	MKLM6_1354		
+R00425	GTP 7,8-8,9-dihydrolase (diphosphate-forming)	3.5.4.25	MKLM6_0118 or MKLM6_1600 or MKLM6_2479	Riboflavin metabolism;Folate biosynthesis	
+R00426	GTP diphosphohydrolase (diphosphate-forming);	3.6.1.9	MKLM6_3802	Purine metabolism	
+R00428	GTP 8,9-hydrolase	3.5.4.16	MKLM6_1354	Folate biosynthesis	
+R00429	ATP:GTP 3'-diphosphotransferase	2.7.6.5	MKLM6_2872 or MKLM6_1728	Purine metabolism	
+R00430	GTP:pyruvate 2-O-phosphotransferase	2.7.1.40	MKLM6_1362		
+R00434	GTP diphosphate-lyase (cyclizing; 3',5'-cyclic-GMP-forming)	4.6.1.1;4.6.1.2	MKLM6_0395 or MKLM6_2854 or MKLM6_2369	Purine metabolism	
+R00451	meso-2,6-diaminoheptanedioate carboxy-lyase (L-lysine-forming)	4.1.1.20	MKLM6_4002	Lysine biosynthesis;D-Amino acid metabolism	
+R00470	4-hydroxy-2-oxoglutarate glyoxylate-lyase (pyruvate-forming)	4.1.3.16;4.1.3.42	MKLM6_2898	Glyoxylate and dicarboxylate metabolism	
+R00473	L-malyl-CoA glyoxylate-lyase (acetyl-CoA-forming)	4.1.3.24	MKLM6_1752	Glyoxylate and dicarboxylate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R00475	glycolate:oxygen 2-oxidoreductase	1.1.3.15	MKLM6_2787 or MKLM6_2788 or MKLM6_0985 or MKLM6_2789	Glyoxylate and dicarboxylate metabolism	
+R00476	glycolate:acceptor 2-oxidoreductase	1.1.99.14	MKLM6_2787 or MKLM6_2788 or MKLM6_0985 or MKLM6_2789	Glyoxylate and dicarboxylate metabolism	
+R00480	ATP:L-aspartate 4-phosphotransferase	2.7.2.4	MKLM6_1445	Glycine, serine and threonine metabolism;Monobactam biosynthesis;Cysteine and methionine metabolism;Lysine biosynthesis	
+R00481	L-aspartate:oxygen oxidoreductase	1.4.3.16	MKLM6_2096	Nicotinate and nicotinamide metabolism	
+R00489	L-aspartate 1-carboxy-lyase (beta-alanine-forming)	4.1.1.11;4.1.1.15	MKLM6_4133	beta-Alanine metabolism;Pantothenate and CoA biosynthesis	
+R00497	gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming)	6.3.2.3	MKLM6_0418	Glutathione metabolism	
+R00509	ATP:adenylylsulfate 3'-phosphotransferase	2.7.1.25	MKLM6_3015 or MKLM6_3598	Purine metabolism;Sulfur metabolism	
+R00511	cytidine-5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.91;3.1.3.-	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Pyrimidine metabolism	
+R00512	ATP:CMP phosphotransferase	2.7.4.14;2.7.4.25	MKLM6_2134	Pyrimidine metabolism	
+R00515	CTP diphosphohydrolase (diphosphate-forming);	3.6.1.9;3.6.1.65;3.6.1.-	MKLM6_3802 or MKLM6_0451	Pyrimidine metabolism	
+R00519	formate:NAD+ oxidoreductase	1.17.1.9	MKLM6_1648 or MKLM6_3306 or MKLM6_3480 or MKLM6_3479 or MKLM6_3307 or MKLM6_3482 or MKLM6_3478	Glyoxylate and dicarboxylate metabolism;Methane metabolism	
+R00529	ATP:sulfate adenylyltransferase	2.7.7.4	MKLM6_3598 or MKLM6_3780 or MKLM6_3594	Purine metabolism;Monobactam biosynthesis;Sulfur metabolism	
+R00549	ATP:riboflavin 5'-phosphotransferase	2.7.1.26	MKLM6_3969	Riboflavin metabolism	
+R00566	L-arginine carboxy-lyase (agmatine-forming)	4.1.1.19	MKLM6_4048	Arginine and proline metabolism	
+R00570	ATP:CDP phosphotransferase	2.7.4.6	MKLM6_1394	Pyrimidine metabolism	
+R00571	UTP:ammonia ligase (ADP-forming)	6.3.4.2	MKLM6_0886	Pyrimidine metabolism	
+R00573	UTP:L-glutamine amido-ligase (ADP-forming)	6.3.4.2	MKLM6_0886	Pyrimidine metabolism	
+R00575	HCO3-:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)	6.3.5.5	MKLM6_1019 or MKLM6_1018	Pyrimidine metabolism;Alanine, aspartate and glutamate metabolism	
+R00578	L-aspartate:L-glutamine amido-ligase (AMP-forming)	6.3.5.4	MKLM6_2214 or MKLM6_3029 or MKLM6_3036 or MKLM6_3107	Alanine, aspartate and glutamate metabolism	
+R00582	O-phospho-L-serine phosphohydrolase	3.1.3.3	MKLM6_0765	Glycine, serine and threonine metabolism;Methane metabolism	
+R00585	L-Serine:pyruvate aminotransferase	2.6.1.51	MKLM6_1746	Glycine, serine and threonine metabolism	
+R00586	acetyl-CoA:L-serine O-acetyltransferase	2.3.1.30	MKLM6_0906 or MKLM6_2078 or MKLM6_3240	Cysteine and methionine metabolism;Sulfur metabolism;Biosynthesis of various antibiotics	
+R00588	L-Serine:glyoxylate aminotransferase	2.6.1.45	MKLM6_1746	Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism;Methane metabolism	
+R00597	S-adenosyl-L-methionine:tRNA guanine N1-methyltransferase;	2.1.1.228	MKLM6_0958		
+R00602	methanol:hydrogen-peroxide oxidoreductase	1.11.1.6;1.11.1.7;1.11.1.21	MKLM6_2586		
+R00615	Thiamin diphosphate phosphohydrolase	3.6.1.15;3.6.1.-	MKLM6_3831	Thiamine metabolism	
+R00617	ATP:thiamin-phosphate phosphotransferase	2.7.4.16	MKLM6_2476	Thiamine metabolism	
+R00621		1.2.4.2	MKLM6_2471	Citrate cycle (TCA cycle)	
+R00658	2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)	4.2.1.11	MKLM6_0889	Glycolysis / Gluconeogenesis;Methane metabolism	
+R00660	Phosphoenolpyruvate:UDP-N-acetyl-D-glucosamine 1-carboxyvinyl-transferase	2.5.1.7	MKLM6_3918	Amino sugar and nucleotide sugar metabolism;Peptidoglycan biosynthesis	
+R00662	uridine triphosphate pyrophosphohydrolase	3.6.1.9;3.6.1.-	MKLM6_3802 or MKLM6_0451 or MKLM6_1499	Pyrimidine metabolism	
+R00667	L-Ornithine:2-oxo-acid aminotransferase	2.6.1.13	MKLM6_1248	Arginine and proline metabolism	
+R00674	L-serine hydro-lyase (adding indole; L-tryptophan-forming)	4.2.1.20;4.2.1.122	MKLM6_2494 or MKLM6_2495	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R00691	L-arogenate hydro-lyase (decarboxylating; L-phenylalanine-forming)	4.2.1.51;4.2.1.91	MKLM6_2129	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R00694	L-Phenylalanine:2-oxoglutarate aminotransferase	2.6.1.1;2.6.1.5;2.6.1.9;2.6.1.57	MKLM6_2284 or MKLM6_0173 or MKLM6_2130	Phenylalanine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Tropane, piperidine and pyridine alkaloid biosynthesis	
+R00700	hydrogen:NAD+ oxidoreductase	1.12.1.2;1.12.1.5	MKLM6_3403		
+R00702	farnesyl-diphosphate:farnesyl-diphosphate farnesyltransferase	2.5.1.21;2.5.1.96;2.5.1.103	MKLM6_1251	Steroid biosynthesis;Carotenoid biosynthesis;Sesquiterpenoid and triterpenoid biosynthesis	
+R00707	(S)-1-pyrroline-5-carboxylate:NAD+ oxidoreductase	1.2.1.88	MKLM6_1766	Alanine, aspartate and glutamate metabolism;Arginine and proline metabolism	
+R00708	(S)-1-pyrroline-5-carboxylate:NADP+ oxidoreductase	1.2.1.88	MKLM6_1766	Alanine, aspartate and glutamate metabolism;Arginine and proline metabolism	
+R00709	isocitrate:NAD+ oxidoreductase (decarboxylating)	1.1.1.41;1.1.1.286	MKLM6_2356	Citrate cycle (TCA cycle)	
+R00713	succinate-semialdehyde:NAD+ oxidoreductase	1.2.1.16;1.2.1.24	MKLM6_3578	Alanine, aspartate and glutamate metabolism;Tyrosine metabolism;Butanoate metabolism;Nicotinate and nicotinamide metabolism	
+R00714	succinate-semialdehyde:NADP+ oxidoreductase	1.2.1.16;1.2.1.79	MKLM6_3578	Alanine, aspartate and glutamate metabolism;Tyrosine metabolism;Butanoate metabolism;Nicotinate and nicotinamide metabolism	
+R00720	Inosine 5'-triphosphate pyrophosphohydrolase	3.6.1.66	MKLM6_0468	Purine metabolism	
+R00722	ATP:IDP phosphotransferase	2.7.4.6	MKLM6_1394	Purine metabolism	
+R00734	L-tyrosine:2-oxoglutarate aminotransferase	2.6.1.1;2.6.1.5;2.6.1.9;2.6.1.57	MKLM6_2284 or MKLM6_0173 or MKLM6_2130	Ubiquinone and other terpenoid-quinone biosynthesis;Tyrosine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Novobiocin biosynthesis;Isoquinoline alkaloid biosynthesis	
+R00742	acetyl-CoA:carbon-dioxide ligase (ADP-forming)	6.4.1.2	MKLM6_1376 or MKLM6_0882 or MKLM6_2493 or MKLM6_1375	Fatty acid biosynthesis;Aflatoxin biosynthesis;Pyruvate metabolism;Propanoate metabolism;Carbon fixation pathways in prokaryotes	
+R00746	Ethanol:NADP+ oxidoreductase	1.1.1.2;1.1.1.71	MKLM6_0160	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R00749	ethanolamine ammonia-lyase (acetaldehyde-forming)	4.3.1.7	MKLM6_2801 or MKLM6_2800	Glycerophospholipid metabolism	
+R00751	L-threonine acetaldehyde-lyase (glycine-forming)	4.1.2.5;4.1.2.48	MKLM6_0459	Glycine, serine and threonine metabolism	
+R00754	ethanol:NAD+ oxidoreductase	1.1.1.1;1.1.1.71	MKLM6_0241	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R00760	ATP:D-fructose 6-phosphotransferase	2.7.1.1;2.7.1.4	MKLM6_3057	Starch and sucrose metabolism	
+R00761	D-fructose-6-phosphate D-erythrose-4-phosphate-lyase (adding phosphate; acetyl-phosphate-forming)	4.1.2.22	MKLM6_3799	Carbon fixation in photosynthetic organisms	
+R00762	D-Fructose-1,6-bisphosphate 1-phosphohydrolase	3.1.3.11	MKLM6_2204	Methane metabolism;Carbon fixation in photosynthetic organisms	
+R00764	diphosphate:D-fructose-6-phosphate 1-phosphotransferase	2.7.1.90	MKLM6_0716		
+R00768	L-glutamine:D-fructose-6-phosphate isomerase (deaminating);	2.6.1.16	MKLM6_0134	Alanine, aspartate and glutamate metabolism;Amino sugar and nucleotide sugar metabolism	
+R00771	D-glucose-6-phosphate aldose-ketose-isomerase	5.3.1.9	MKLM6_3868	Starch and sucrose metabolism	
+R00774	Urea:carbon-dioxide ligase (ADP-forming)	6.3.4.6	MKLM6_3488	Arginine biosynthesis;Atrazine degradation	
+R00783	nitric-oxide:ferricytochrome-c oxidoreductase	1.7.2.1	MKLM6_0749	Nitrogen metabolism	
+R00785	nitric-oxide:oxidized azurin oxidoreductase	1.7.2.1	MKLM6_0749	Nitrogen metabolism	
+R00787	ammonia:NAD+ oxidoreductase	1.7.1.4;1.7.1.15	MKLM6_2083 or MKLM6_2084 or MKLM6_2173	Nitrogen metabolism	
+R00789	ammonia:NADP+ oxidoreductase	1.7.1.4	MKLM6_2173	Nitrogen metabolism	
+R00798	nitrite:acceptor oxidoreductase	1.7.99.-	MKLM6_2172	Nitrogen metabolism	
+R00835	D-glucose-6-phosphate:NADP+ 1-oxidoreductase	1.1.1.49;1.1.1.363	MKLM6_2894 or MKLM6_3579		
+R00842	sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase	1.1.1.8;1.1.1.94	MKLM6_4019	Glycerophospholipid metabolism	
+R00844	sn-Glycerol-3-phosphate:NADP+ 2-oxidoreductase	1.1.1.94	MKLM6_4019	Glycerophospholipid metabolism	
+R00848	sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase	1.1.5.3	MKLM6_1673	Glycerophospholipid metabolism	
+R00858	hydrogen-sulfide:NADP+ oxidoreductase	1.8.1.2	MKLM6_2612 or MKLM6_4012	Sulfur metabolism	
+R00867	ATP:D-fructose 6-phosphotransferase	2.7.1.1;2.7.1.4	MKLM6_3057	Fructose and mannose metabolism	
+R00885	GTP:alpha-D-mannose-1-phosphate guanylyltransferase	2.7.7.13	MKLM6_2228	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00888	GDP-alpha-D-mannose 4,6-hydro-lyase (GDP-4-dehydro-alpha-D-rhamnose-forming);	4.2.1.47	MKLM6_1382	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00894	L-glutamate:L-cysteine gamma-ligase (ADP-forming)	6.3.2.2	MKLM6_3078	Glutathione metabolism	
+R00896	L-cysteine:2-oxoglutarate aminotransferase	2.6.1.1	MKLM6_2284	Cysteine and methionine metabolism	
+R00897	O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase;	2.5.1.47;2.5.1.65	MKLM6_2077 or MKLM6_2101	Cysteine and methionine metabolism;Sulfur metabolism	
+R00899	L-cysteinylglycine dipeptidase	3.4.11.1;3.4.11.2;3.4.11.23;3.4.13.-	MKLM6_4143 or MKLM6_0323	Glutathione metabolism	
+R00921	propanoyl-CoA:phosphate propanoyltransferase	2.3.1.8;2.3.1.222	MKLM6_1134	Propanoate metabolism	
+R00925	Propanoate:CoA ligase (AMP-forming)	6.2.1.1;6.2.1.17	MKLM6_2189		
+R00926	Propionyladenylate:CoA propionyltransferase	6.2.1.1;6.2.1.17	MKLM6_2189	Propanoate metabolism	
+R00934	L-erythro-3-methylmalyl-CoA glyoxylate-lyase (propanoyl-CoA-forming)	4.1.3.24	MKLM6_1752	Glyoxylate and dicarboxylate metabolism;C5-Branched dibasic acid metabolism;Carbon fixation pathways in prokaryotes	
+R00936	5,6,7,8-tetrahydrofolate:NAD+ oxidoreductase	1.5.1.3	MKLM6_4240	One carbon pool by folate;Folate biosynthesis	
+R00937	5,6,7,8-tetrahydrofolate:NAD+ oxidoreductase	1.5.1.3	MKLM6_4240	One carbon pool by folate;Folate biosynthesis	
+R00939	5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase	1.5.1.3	MKLM6_4240	One carbon pool by folate;Folate biosynthesis	
+R00940	5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase	1.5.1.3	MKLM6_4240	One carbon pool by folate;Folate biosynthesis	
+R00942	Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	6.3.2.17	MKLM6_2492	Folate biosynthesis	
+R00943	Formate:tetrahydrofolate ligase (ADP-forming)	6.3.4.3	MKLM6_0264 or MKLM6_2042	One carbon pool by folate;Carbon fixation pathways in prokaryotes	
+R00945	5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase	2.1.2.1	MKLM6_1848	Glycine, serine and threonine metabolism;Cyanoamino acid metabolism;Glyoxylate and dicarboxylate metabolism;One carbon pool by folate;Methane metabolism	
+R00946	5-methyltetrahydrofolate:L-homocysteine S-methyltransferase	2.1.1.13	MKLM6_0346	Cysteine and methionine metabolism;One carbon pool by folate	
+R00948	ATP:alpha-D-glucose-1-phosphate adenylyltransferase	2.7.7.27	MKLM6_0790 or MKLM6_2803	Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism	
+R00956	CTP:alpha-D-glucose-1-phosphate cytidylyltransferase	2.7.7.33	MKLM6_3121	Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R00959	alpha-D-Glucose 1-phosphate 1,6-phosphomutase	5.4.2.2;5.4.2.5	MKLM6_4213 or MKLM6_0637	Glycolysis / Gluconeogenesis;Galactose metabolism;Amino sugar and nucleotide sugar metabolism	
+R00963	uridine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.-	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Pyrimidine metabolism	
+R00965	orotidine-5'-phosphate carboxy-lyase (UMP-forming)	4.1.1.23	MKLM6_0224	Pyrimidine metabolism	
+R00966	UMP:diphosphate phospho-alpha-D-ribosyltransferase	2.4.2.9	MKLM6_0422	Pyrimidine metabolism	
+R00974	Cytosine aminohydrolase	3.5.4.1	MKLM6_0135	Pyrimidine metabolism	
+R00985	chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)	4.1.3.27	MKLM6_4156 or MKLM6_4157	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R00986	Chorismate pyruvate-lyase (amino-accepting)	4.1.3.27	MKLM6_4156 or MKLM6_4157	Phenylalanine, tyrosine and tryptophan biosynthesis;Phenazine biosynthesis	
+R00994	(2R,3S)-3-methylmalate:NAD+ oxidoreductase	1.1.1.85	MKLM6_0742 or MKLM6_1533	Valine, leucine and isoleucine biosynthesis;C5-Branched dibasic acid metabolism	
+R00996	L-threonine ammonia-lyase (2-oxobutanoate-forming)	4.3.1.19	MKLM6_2044	Glycine, serine and threonine metabolism;Valine, leucine and isoleucine biosynthesis	
+R00997	1-aminocyclopropane-1-carboxylate aminohydrolase (isomerizing);	3.5.99.7	MKLM6_2532	Cysteine and methionine metabolism	
+R01009	GDPmannose:dolichyl-phosphate O-beta-D-mannosyltransferase	2.4.1.83	MKLM6_1424	N-Glycan biosynthesis	
+R01012	phosphoenolpyruvate:glycerone phosphotransferase	2.7.1.121	MKLM6_2677 or MKLM6_2678	Glycerolipid metabolism	
+R01015	D-glyceraldehyde-3-phosphate aldose-ketose-isomerase	5.3.1.1	MKLM6_1025	Glycolysis / Gluconeogenesis;Fructose and mannose metabolism;Inositol phosphate metabolism;Carbon fixation in photosynthetic organisms	
+R01030	sn-Glycero-3-phosphocholine glycerophosphohydrolase	3.1.4.2;3.1.4.46	MKLM6_3586	Glycerophospholipid metabolism	
+R01041	glycerol:NADP+ oxidoreductase	1.1.1.2;1.1.1.21;1.1.1.72;1.1.1.372	MKLM6_0160	Glycerolipid metabolism	
+R01049	ATP:D-ribose-5-phosphate diphosphotransferase	2.7.6.1	MKLM6_3639	Pentose phosphate pathway;Purine metabolism	
+R01054	ADP-ribose ribophosphohydrolase	3.6.1.13;3.6.1.21;3.6.1.53;3.6.1.-	MKLM6_0995 or MKLM6_0436	Purine metabolism	
+R01056	D-ribose-5-phosphate aldose-ketose-isomerase	5.3.1.6	MKLM6_0944 or MKLM6_2043	Pentose phosphate pathway;Carbon fixation in photosynthetic organisms	
+R01057	D-Ribose 1,5-phosphomutase	5.4.2.2;5.4.2.7	MKLM6_4213 or MKLM6_0637	Pentose phosphate pathway;Purine metabolism	
+R01061	D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)	1.2.1.12;1.2.1.59	MKLM6_1361 or MKLM6_3600	Glycolysis / Gluconeogenesis;Carbon fixation in photosynthetic organisms	
+R01067	D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	2.2.1.1	MKLM6_0538 or MKLM6_0591	Carbon fixation in photosynthetic organisms	
+R01068	D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)	4.1.2.13	MKLM6_0541 or MKLM6_3555	Methane metabolism;Carbon fixation in photosynthetic organisms	
+R01070	beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)	4.1.2.13	MKLM6_0541 or MKLM6_3555	Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism	
+R01071	1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase	2.4.2.17	MKLM6_3919 or MKLM6_2718	Histidine metabolism	
+R01072	5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)	2.4.2.14	MKLM6_2489	Purine metabolism;Alanine, aspartate and glutamate metabolism	
+R01073	N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate phosphoribosyl-transferase	2.4.2.18	MKLM6_0306	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01074	biotin:CoA ligase (AMP-forming);	6.2.1.11;6.3.4.9;6.3.4.10;6.3.4.11	MKLM6_1734	Biotin metabolism	
+R01078	dethiobiotin:sulfur sulfurtransferase	2.8.1.6	MKLM6_1703	Biotin metabolism	
+R01082	(S)-malate hydro-lyase (fumarate-forming)	4.2.1.2	MKLM6_0402	Citrate cycle (TCA cycle);Pyruvate metabolism;Carbon fixation pathways in prokaryotes	
+R01083	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)	4.3.2.2	MKLM6_2880	Purine metabolism;Alanine, aspartate and glutamate metabolism	
+R01086	2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming)	4.3.2.1	MKLM6_2378	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism	
+R01090	L-Leucine:2-oxoglutarate aminotransferase	2.6.1.6;2.6.1.42;2.6.1.67	MKLM6_3339	Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis;Glucosinolate biosynthesis	
+R01106	nitrite:(acceptor) oxidoreductase	1.7.99.-	MKLM6_2172		
+R01122	delta2-isopentenyl-diphosphate:tRNA isopentenyltransferase	2.5.1.75	MKLM6_2731	Zeatin biosynthesis	
+R01126	inosine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.99;3.1.3.-	MKLM6_3445 or MKLM6_3468 or MKLM6_3569 or MKLM6_0438	Purine metabolism	
+R01127	IMP 1,2-hydrolase (decyclizing)	3.5.4.10	MKLM6_3018	Purine metabolism	
+R01130	IMP:NAD+ oxidoreductase	1.1.1.205	MKLM6_0064	Purine metabolism	
+R01132	IMP:diphosphate phospho-D-ribosyltransferase	2.4.2.8	MKLM6_2454	Purine metabolism	
+R01135	IMP:L-aspartate ligase (GDP-forming)	6.3.4.4	MKLM6_2717	Purine metabolism;Alanine, aspartate and glutamate metabolism	
+R01137	ATP:dADP phosphotransferase	2.7.4.6	MKLM6_1394	Purine metabolism	
+R01138	dATP:pyruvate 2-O-phosphotransferase	2.7.1.40	MKLM6_1362		
+R01146	methanol:ferricytochrome-c oxidoreductase;	1.1.2.7;1.1.2.10	MKLM6_3210 or MKLM6_3207 or MKLM6_0794	Methane metabolism	
+R01148	D-Alanine:2-oxoglutarate aminotransferase	2.6.1.21	MKLM6_3068	D-Amino acid metabolism	
+R01150	D-alanine:D-alanine ligase (ADP-forming)	6.3.2.4	MKLM6_4032	D-Amino acid metabolism;Peptidoglycan biosynthesis	
+R01152	N-Carbamoylputrescine amidohydrolase	3.5.1.53	MKLM6_3845	Arginine and proline metabolism	
+R01158	L-histidinol:NAD+ oxidoreductase	1.1.1.23	MKLM6_3920		
+R01163	L-histidinal:NAD+ oxidoreductase	1.1.1.23	MKLM6_3920	Histidine metabolism	
+R01168	L-histidine ammonia-lyase (urocanate-forming)	4.3.1.3	MKLM6_3415	Histidine metabolism	
+R01171	butanoyl-CoA:NAD+ trans-2-oxidoreductase	1.3.1.44	MKLM6_0304	Lysine degradation;Butanoate metabolism	
+R01185	1D-myo-inositol 1-phosphate phosphohydrolase	3.1.3.25	MKLM6_0311 or MKLM6_2949 or MKLM6_3242	Inositol phosphate metabolism	
+R01186	1D-myo-inositol 4-phosphate phosphohydrolase	3.1.3.25	MKLM6_0311 or MKLM6_2949 or MKLM6_3242	Inositol phosphate metabolism	
+R01187	1D-myo-inositol 3-phosphate phosphohydrolase	3.1.3.25	MKLM6_0311 or MKLM6_2949 or MKLM6_3242	Streptomycin biosynthesis;Inositol phosphate metabolism	
+R01196	pyruvate:ferredoxin 2-oxidoreductase (CoA-acetylating)	1.2.7.1;1.2.7.11	MKLM6_3175	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism;Butanoate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes	
+R01209	2,3-Dihydroxy-3-methylbutanoate hydro-lyase	4.2.1.9	MKLM6_2683		
+R01213	acetyl-CoA:3-methyl-2-oxobutanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming);	2.3.3.13	MKLM6_1149 or MKLM6_4159	Valine, leucine and isoleucine biosynthesis;Pyruvate metabolism	
+R01214	L-Valine:2-oxoglutarate aminotransferase	2.6.1.6;2.6.1.42	MKLM6_3339	Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis;Glucosinolate biosynthesis	
+R01220	5,10-methylenetetrahydrofolate:NADP+ oxidoreductase	1.5.1.5	MKLM6_1850	One carbon pool by folate;Carbon fixation pathways in prokaryotes	
+R01221	glycine:NAD+ 2-oxidoreductase (tetrahydrofolate-methylene-adding);	1.4.1.27	MKLM6_1053 or MKLM6_0165 or MKLM6_1054 or MKLM6_3805	Glyoxylate and dicarboxylate metabolism	
+R01226	5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	MKLM6_4135	Pantothenate and CoA biosynthesis	
+R01227	guanosine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.-	MKLM6_3445 or MKLM6_3468 or MKLM6_3569 or MKLM6_0438	Purine metabolism	
+R01229	GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase	2.4.2.8;2.4.2.22	MKLM6_2454	Purine metabolism	
+R01230	Xanthosine-5'-phosphate:ammonia ligase (AMP-forming)	6.3.5.2	MKLM6_0062	Purine metabolism	
+R01231	Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)	6.3.5.2	MKLM6_0062	Purine metabolism	
+R01238	4-hydroxybenzoate carboxy-lyase (phenol-forming)	4.1.1.61	MKLM6_0589	Aminobenzoate degradation	
+R01248	L-Proline:NAD+ 5-oxidoreductase	1.5.1.2	MKLM6_0641	Arginine and proline metabolism	
+R01251	L-Proline:NADP+ 5-oxidoreductase	1.5.1.2	MKLM6_0641	Arginine and proline metabolism	
+R01253	L-proline:quinone oxidoreductase	1.5.5.2	MKLM6_1766	Arginine and proline metabolism	
+R01256	(S)-malate:CoA ligase (ADP-forming)	6.2.1.9	MKLM6_1754 or MKLM6_1753	Glyoxylate and dicarboxylate metabolism;Methane metabolism	
+R01268	Nicotinamide amidohydrolase	3.5.1.19	MKLM6_4257	Nicotinate and nicotinamide metabolism	
+R01274	palmitoyl-CoA hydrolase	3.1.2.2;3.1.2.22;3.1.2.-	MKLM6_3894	Fatty acid elongation;Biosynthesis of unsaturated fatty acids	
+R01280	Palmitate:CoA ligase (AMP-forming)	6.2.1.3	MKLM6_1509	Fatty acid biosynthesis;Fatty acid degradation	
+R01288	O4-succinyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase;	2.5.1.48;2.5.1.-	MKLM6_2488	Cysteine and methionine metabolism;Sulfur metabolism	
+R01302	chorismate pyruvate-lyase (4-hydroxybenzoate-forming)	4.1.3.40	MKLM6_1725	Ubiquinone and other terpenoid-quinone biosynthesis	
+R01320	S-adenosyl-L-methionine:phosphatidyl-N-dimethylethanolamine N-methyltransferase	2.1.1.16;2.1.1.71	MKLM6_4231	Glycerophospholipid metabolism	
+R01324	citrate hydroxymutase	4.2.1.3	MKLM6_2354		
+R01325	citrate hydro-lyase (cis-aconitate-forming)	4.2.1.3	MKLM6_2354	Citrate cycle (TCA cycle);Glyoxylate and dicarboxylate metabolism;Carbon fixation pathways in prokaryotes	
+R01334	2-phosphoglycolate phosphohydrolase	3.1.3.18	MKLM6_3842	Glyoxylate and dicarboxylate metabolism	
+R01344	D-alanine:2-oxo acid aminotransferase	2.6.1.21	MKLM6_3068	D-Amino acid metabolism	
+R01351	1-acylglycerol acylhydrolase	3.1.1.23	MKLM6_2836	Glycerolipid metabolism	
+R01353	ATP:propanoate phosphotransferase	2.7.2.1;2.7.2.15	MKLM6_1132	Propanoate metabolism	
+R01354	ATP:propanoate adenylyltransferase	6.2.1.1;6.2.1.17	MKLM6_2189	Propanoate metabolism	
+R01373	prephenate hydro-lyase (decarboxylating; phenylpyruvate-forming)	4.2.1.51;4.2.1.91	MKLM6_2129	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01378	Phenylpyruvate keto-enol-isomerase	5.3.2.1	MKLM6_0534	Phenylalanine metabolism	
+R01385	UDP-glucuronate 4-epimerase	5.1.3.6	MKLM6_2663	Ascorbate and aldarate metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R01394	hydroxypyruvate aldose-ketose-isomerase	5.3.1.22	MKLM6_2972	Glyoxylate and dicarboxylate metabolism	
+R01395	ATP:carbamate phosphotransferase	2.7.2.2;6.3.5.5	MKLM6_1019 or MKLM6_1018	Nitrogen metabolism	
+R01397	carbamoyl-phosphate:L-aspartate carbamoyltransferase	2.1.3.2	MKLM6_0423	Pyrimidine metabolism;Alanine, aspartate and glutamate metabolism	
+R01398	Carbamoyl-phosphate:L-ornithine carbamoyltransferase	2.1.3.3	MKLM6_2681	Arginine biosynthesis	
+R01401	methylthioadenosine methylthioribohydrolase	3.2.2.9;3.2.2.16	MKLM6_1249	Cysteine and methionine metabolism	
+R01402	S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase	2.4.2.28	MKLM6_4198	Cysteine and methionine metabolism	
+R01403	acyl-[acyl-carrier-protein]:NAD+ oxidoreductase	1.3.1.9	MKLM6_0304	Fatty acid biosynthesis	
+R01406	long-chain-fatty-acid:[acyl-carrier-protein] ligase (AMP-forming)	6.2.1.20	MKLM6_2443	Fatty acid degradation	
+R01411	5-Methylcytosine aminohydrolase	3.5.4.1	MKLM6_0135	Pyrimidine metabolism	
+R01421	Benzoyl phosphate phosphohydrolase	3.6.1.7	MKLM6_3852	Aminobenzoate degradation	
+R01429	D-xylose:NAD+ 1-oxidoreductase	1.1.1.121;1.1.1.175	MKLM6_0644	Pentose and glucuronate interconversions	
+R01430	D-xylose:NADP+ 1-oxidoreductase	1.1.1.179	MKLM6_0644	Pentose and glucuronate interconversions	
+R01459	Cholesterol:oxygen oxidoreductase	1.1.3.6	MKLM6_4067 or MKLM6_4068	Steroid degradation	
+R01466	O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming)	4.2.3.1	MKLM6_2113	Glycine, serine and threonine metabolism	
+R01470	sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase	3.1.4.2;3.1.4.46	MKLM6_3586	Glycerophospholipid metabolism	
+R01492	ATP:cob(I)alamin Co-beta-adenosyltransferase	2.5.1.17;2.5.1.154	MKLM6_3280	Porphyrin metabolism	
+R01498	D-glucosyl-N-acylsphingosine glucohydrolase	3.2.1.45	MKLM6_2442	Sphingolipid metabolism	
+R01512	ATP:3-phospho-D-glycerate 1-phosphotransferase	2.7.2.3	MKLM6_0798	Glycolysis / Gluconeogenesis;Carbon fixation in photosynthetic organisms	
+R01513	3-Phospho-D-glycerate:NAD+ 2-oxidoreductase	1.1.1.95	MKLM6_0764	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Methane metabolism	
+R01515	3-Phospho-D-glyceroyl phosphate phosphohydrolase	3.6.1.7	MKLM6_3852		
+R01518	D-phosphoglycerate 2,3-phosphomutase	5.4.2.11;5.4.2.12	MKLM6_2771	Glycolysis / Gluconeogenesis;Glycine, serine and threonine metabolism;Methane metabolism	
+R01519	D-Glucono-1,5-lactone lactonohydrolase	3.1.1.17	MKLM6_1608 or MKLM6_1614	Pentose phosphate pathway	
+R01528	6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating)	1.1.1.44;1.1.1.351	MKLM6_2897	Pentose phosphate pathway;Glutathione metabolism	
+R01529	D-Ribulose-5-phosphate 3-epimerase	5.1.3.1	MKLM6_2908	Pentose phosphate pathway;Pentose and glucuronate interconversions;Carbon fixation in photosynthetic organisms	
+R01530	D-arabinose-5-phosphate aldose-ketose-isomerase	5.3.1.13	MKLM6_3913	Lipopolysaccharide biosynthesis	
+R01547	ATP:dAMP phosphotransferase	2.7.4.3;2.7.4.11	MKLM6_0745	Purine metabolism	
+R01560	Adenosine aminohydrolase	3.5.4.4	MKLM6_4198	Purine metabolism	
+R01561	adenosine:phosphate alpha-D-ribosyltransferase	2.4.2.1	MKLM6_4198 or MKLM6_2346	Purine metabolism	
+R01562	adenosine 3'-phosphate phosphohydrolase	3.1.3.6	MKLM6_3569	Purine metabolism	
+R01569	thymidylate 5'-phosphohydrolase	3.1.3.5;3.1.3.35;3.1.3.89;3.1.3.-	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Pyrimidine metabolism	
+R01570	thymidine:phosphate deoxy-alpha-D-ribosyltransferase	2.4.2.2;2.4.2.4	MKLM6_2346	Pyrimidine metabolism	
+R01582	D-Phenylalanine:2-oxoglutarate aminotransferase	2.6.1.21	MKLM6_3068	Phenylalanine metabolism;D-Amino acid metabolism	
+R01600	ATP:beta-D-glucose 6-phosphotransferase	2.7.1.1;2.7.1.2	MKLM6_3713	Glycolysis / Gluconeogenesis	
+R01621	D-xylulose 5-phosphate D-glyceraldehyde-3-phosphate-lyase (adding phosphate; acetyl-phosphate-forming)	4.1.2.9	MKLM6_3799	Pentose phosphate pathway;Carbon fixation in photosynthetic organisms	
+R01625	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase	2.7.8.7;2.7.8.-	MKLM6_2414 or MKLM6_3332	Pantothenate and CoA biosynthesis	
+R01626	Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase	2.3.1.39;2.3.1.85;2.3.1.86;2.3.1.-	MKLM6_1343	Fatty acid biosynthesis	
+R01641	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	2.2.1.1	MKLM6_0538 or MKLM6_0591	Pentose phosphate pathway;Carbon fixation in photosynthetic organisms	
+R01655	5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)	3.5.4.9	MKLM6_2999	One carbon pool by folate;Carbon fixation pathways in prokaryotes	
+R01658	Dimethylallyl-diphosphate:isopentenyl-diphosphate dimethylallyltranstransferase	2.5.1.1	MKLM6_1257	Terpenoid backbone biosynthesis	
+R01664	2'-deoxycytidine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.89;3.1.3.-	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Pyrimidine metabolism	
+R01665	ATP:dCMP phosphotransferase	2.7.4.14;2.7.4.25	MKLM6_2134	Pyrimidine metabolism	
+R01676	Guanine aminohydrolase	3.5.4.3	MKLM6_3671	Purine metabolism	
+R01698	Dihydrolipoamide:NAD+ oxidoreductase	1.8.1.4	MKLM6_0165		
+R01699	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-acetylating)	1.2.4.1	MKLM6_3923		
+R01700	2-oxoglutarate:[dihydrolipoyllysine-residue succinyltransferase]-lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-succinylating)	1.2.4.2	MKLM6_2471		
+R01701	3-methyl-2-oxobutanoate:[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-2-methylpropanoylating)	1.2.4.4	MKLM6_3832		
+R01702	4-methyl-2-oxopentanoate:[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-2-methylpropanoylating)	1.2.4.4	MKLM6_3832		
+R01714	5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase (chorismate-forming)	4.2.3.5	MKLM6_2510	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01715	Chorismate pyruvatemutase	5.4.99.5	MKLM6_2129	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01716	chorismate:L-glutamine aminotransferase	2.6.1.85	MKLM6_1785	Folate biosynthesis	
+R01724	5-phospho-alpha-D-ribose 1-diphosphate:nicotinate ligase (ADP, diphosphate-forming)	6.3.4.21	MKLM6_4256	Nicotinate and nicotinamide metabolism	
+R01728	prephenate:NAD+ oxidoreductase(decarboxylating)	1.3.1.12	MKLM6_2131	Phenylalanine, tyrosine and tryptophan biosynthesis;Novobiocin biosynthesis	
+R01736	(R)-S-Lactoylglutathione hydrolase	3.1.2.6	MKLM6_1244 or MKLM6_2473	Pyruvate metabolism	
+R01773	L-Homoserine:NAD+ oxidoreductase	1.1.1.3	MKLM6_2112	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Lysine biosynthesis	
+R01775	L-homoserine:NADP+ oxidoreductase	1.1.1.3	MKLM6_2112	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Lysine biosynthesis	
+R01776	Acetyl-CoA:L-homoserine O-acetyltransferase	2.3.1.31	MKLM6_3670	Cysteine and methionine metabolism	
+R01777	Succinyl-CoA:L-homoserine O-succinyltransferase	2.3.1.46	MKLM6_3670	Cysteine and methionine metabolism;Sulfur metabolism	
+R01786	ATP:alpha-D-glucose 6-phosphotransferase	2.7.1.1;2.7.1.2	MKLM6_3713	Glycolysis / Gluconeogenesis;Galactose metabolism;Amino sugar and nucleotide sugar metabolism	
+R01799	CTP:phosphatidate cytidyltransferase	2.7.7.41	MKLM6_1511 or MKLM6_2602	Glycerophospholipid metabolism	
+R01800	CDP-diacylglycerol:L-serine 3-phosphatidyltransferase	2.7.8.8	MKLM6_3337	Glycine, serine and threonine metabolism;Glycerophospholipid metabolism	
+R01801	CDP-diacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	MKLM6_1588 or MKLM6_2666	Glycerophospholipid metabolism	
+R01812	5,6,7,8-tetrahydrobiopterin:NADP+ oxidoreductase	1.5.1.33	MKLM6_0597	Folate biosynthesis	
+R01818	D-mannose 6-phosphate 1,6-phosphomutase	5.4.2.8	MKLM6_0935 or MKLM6_0637	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R01819	D-mannose-6-phosphate aldose-ketose-isomerase	5.3.1.8	MKLM6_2228	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R01826	Phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming)	2.5.1.54	MKLM6_0285	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R01827	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase	2.2.1.2	MKLM6_0540	Pentose phosphate pathway	
+R01829	sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase	4.1.2.13	MKLM6_0541 or MKLM6_3555	Carbon fixation in photosynthetic organisms	
+R01830	beta-D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	2.2.1.1	MKLM6_0538 or MKLM6_0591	Pentose phosphate pathway	
+R01851	Methanethiol:oxygen oxidoreductase	1.8.3.4	MKLM6_3707	Sulfur metabolism	
+R01857	ATP:dGDP phosphotransferase	2.7.4.6	MKLM6_1394	Purine metabolism	
+R01858	dGTP:pyruvate 2-O-phosphotransferase	2.7.1.40	MKLM6_1362		
+R01863	inosine:phosphate alpha-D-ribosyltransferase	2.4.2.1	MKLM6_4198 or MKLM6_2346	Purine metabolism	
+R01867	(S)-dihydroorotate:fumarate oxidoreductase	1.3.98.1	MKLM6_3174	Pyrimidine metabolism	
+R01868	(S)-dihydroorotate:quinone oxidoreductase	1.3.5.2	MKLM6_0585	Pyrimidine metabolism	
+R01870	Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase	2.4.2.10	MKLM6_4082	Pyrimidine metabolism	
+R01876	uridine:phosphate alpha-D-ribosyltransferase	2.4.2.2;2.4.2.3	MKLM6_2346	Pyrimidine metabolism	
+R01877	uridine 3'-monophosphate phosphohydrolase	3.1.3.6	MKLM6_3569	Pyrimidine metabolism	
+R01887	gamma-Amino-gamma-cyanobutanoate aminohydrolase	3.5.5.1	MKLM6_1281	Cyanoamino acid metabolism	
+R01899	Isocitrate:NADP+ oxidoreductase	1.1.1.42	MKLM6_4066	Citrate cycle (TCA cycle)	
+R01900	isocitrate hydro-lyase (cis-aconitate-forming)	4.2.1.3	MKLM6_2354	Citrate cycle (TCA cycle);Glyoxylate and dicarboxylate metabolism;Carbon fixation pathways in prokaryotes	
+R01920	S-adenosylmethioninamine:putrescine 3-aminopropyltransferase	2.5.1.16	MKLM6_1079 or MKLM6_1836 or MKLM6_4049	Cysteine and methionine metabolism;Arginine and proline metabolism;Glutathione metabolism	
+R01931	thiosulfate:cyanide sulfurtranserase	2.8.1.1	MKLM6_2716 or MKLM6_2930	Sulfur metabolism	
+R01933	2-oxoadipate dehydrogenase complex	1.2.4.2;1.8.1.4;2.3.1.61	MKLM6_0165 or MKLM6_2472	Lysine degradation;Tryptophan metabolism	
+R01954	L-Citrulline:L-aspartate ligase (AMP-forming)	6.3.4.5	MKLM6_2695	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism	
+R01968	2'-deoxyguanosine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.89	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Purine metabolism	
+R01993	(S)-dihydroorotate amidohydrolase	3.5.2.3	MKLM6_0424 or MKLM6_1422	Pyrimidine metabolism	
+R02003	Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase	2.5.1.10	MKLM6_1257	Terpenoid backbone biosynthesis	
+R02016	NADPH:oxidized-thioredoxin oxidoreductase	1.8.1.9	MKLM6_3284		
+R02017	2'-deoxyadenosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	1.17.4.1	MKLM6_0267 or MKLM6_1757 or MKLM6_0268	Purine metabolism	
+R02018	2'-deoxyuridine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	1.17.4.1	MKLM6_0267 or MKLM6_1757 or MKLM6_0268	Pyrimidine metabolism	
+R02019	2'-deoxyguanosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	1.17.4.1	MKLM6_0267 or MKLM6_1757 or MKLM6_0268	Purine metabolism	
+R02021	adenosine 3',5'-bisphosphate,sulfite:oxidized-thioredoxin oxidoreductase (3'-phosphoadenosine-5'-phosphosulfate -forming)	1.8.4.8	MKLM6_3079	Sulfur metabolism	
+R02024	2'-deoxycytidine diphosphate:oxidized-thioredoxin 2'-oxidoreductase	1.17.4.1	MKLM6_0267 or MKLM6_1757 or MKLM6_0268	Pyrimidine metabolism	
+R02029	Phosphatidylglycerophosphate phosphohydrolase	3.1.3.27	MKLM6_2475	Glycerophospholipid metabolism	
+R02035	6-Phospho-D-glucono-1,5-lactone lactonohydrolase	3.1.1.31	MKLM6_2895	Pentose phosphate pathway	
+R02036	6-Phospho-D-gluconate hydro-lyase(2-dehydro-3-deoxy-6-phospho-D-gluconate-forming)	4.2.1.12	MKLM6_2896	Pentose phosphate pathway	
+R02055	Phsophatidyl-L-serine carboxy-lyase	4.1.1.65	MKLM6_1397	Glycerophospholipid metabolism	
+R02056	S-adenosyl-L-methionine:phosphatidylethanolamine N-methyltransferase	2.1.1.17	MKLM6_4231	Glycerophospholipid metabolism	
+R02060	D-Glucosamine 1-phosphate 1,6-phosphomutase;	5.4.2.10	MKLM6_1024	Amino sugar and nucleotide sugar metabolism	
+R02073	diphosphate:beta-D-fructose-6-phosphate 1-phosphotransferase	2.7.1.90	MKLM6_0716	Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism	
+R02088	2'-deoxyadenosine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.89	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Purine metabolism	
+R02090	ATP:dGMP phosphotransferase	2.7.4.8;2.7.4.12	MKLM6_4319	Purine metabolism	
+R02093	ATP:dTDP phosphotransferase	2.7.4.6	MKLM6_1394	Pyrimidine metabolism	
+R02094	ATP:dTMP phosphotransferase	2.7.4.9;2.7.4.12	MKLM6_1238	Pyrimidine metabolism	
+R02098	ATP:dUMP phosphotransferase	2.7.4.4;2.7.4.9	MKLM6_1238	Pyrimidine metabolism	
+R02100	dUTP nucleotidohydrolase	3.6.1.23	MKLM6_0636	Pyrimidine metabolism	
+R02101	5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase	2.1.1.45	MKLM6_4101	Pyrimidine metabolism;One carbon pool by folate	
+R02102	2'-deoxyuridine 5'-monophosphate phosphohydrolase	3.1.3.5;3.1.3.89;3.1.3.-	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Pyrimidine metabolism	
+R02110	1,4-alpha-D-Glucan:1,4-alpha-D-glucan 6-alpha-D-(1,4-alpha-D-glucano)-transferase	2.4.1.18	MKLM6_0789 or MKLM6_0804	Starch and sucrose metabolism	
+R02111	1,4-alpha-D-Glucan:orthophosphate alpha-D-glucosyltransferase	2.4.1.1	MKLM6_2966 or MKLM6_0792 or MKLM6_0726	Starch and sucrose metabolism	
+R02124	retinol:NAD+ oxidoreductase	1.1.1.1;1.1.1.105	MKLM6_0241	Retinol metabolism	
+R02135	thiamin monophosphate phosphohydrolase	3.1.3.1;3.1.3.2;3.1.3.100	MKLM6_3454 or MKLM6_3831	Thiamine metabolism	
+R02142	XMP:pyrophosphate phosphoribosyltransferase	2.4.2.8;2.4.2.22	MKLM6_2454	Purine metabolism	
+R02147	guanosine:phosphate alpha-D-ribosyltransferase	2.4.2.1;2.4.2.15	MKLM6_4198 or MKLM6_2346	Purine metabolism	
+R02148	guanosine 3'-phosphate phosphohydrolase	3.1.3.6	MKLM6_3569	Purine metabolism	
+R02164	succinate:quinone oxidoreductase	1.3.5.1	MKLM6_1985 or MKLM6_1986 or MKLM6_1983 or MKLM6_1984	Citrate cycle (TCA cycle);Pyruvate metabolism;Butanoate metabolism;Carbon fixation pathways in prokaryotes	
+R02173	Tryptamine:oxygen oxidoreductase(deaminating)	1.4.3.4;1.4.3.22	MKLM6_3449	Tryptophan metabolism	
+R02199	L-Isoleucine:2-oxoglutarate aminotransferase	2.6.1.42	MKLM6_3339	Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis;Glucosinolate biosynthesis	
+R02235	dihydrofolate:NAD+ oxidoreductase	1.5.1.3	MKLM6_4240	One carbon pool by folate;Folate biosynthesis	
+R02236	dihydrofolate:NADP+ oxidoreductase	1.5.1.3	MKLM6_4240	One carbon pool by folate;Folate biosynthesis	
+R02237	7,8-dihydropteroate:L-glutamate ligase (ADP-forming)	6.3.2.12;6.3.2.17	MKLM6_2492	Folate biosynthesis	
+R02240	ATP:1,2-diacylglycerol 3-phosphotransferase	2.7.1.107	MKLM6_3804	Glycerolipid metabolism;Glycerophospholipid metabolism	
+R02241	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-O-acyltransferase	2.3.1.51	MKLM6_0339	Glycerolipid metabolism;Glycerophospholipid metabolism	
+R02250	triacylglycerol acylhydrolase	3.1.1.3	MKLM6_4286	Glycerolipid metabolism	
+R02272	(S)-4-Amino-5-oxopentanoate 4,5-aminomutase	5.4.3.8	MKLM6_3130 or MKLM6_4317	Porphyrin metabolism	
+R02282	N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase	2.3.1.35	MKLM6_0189	Arginine biosynthesis	
+R02283	N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase	2.6.1.11	MKLM6_2680	Arginine biosynthesis	
+R02291	L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)	1.2.1.11	MKLM6_0741	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Lysine biosynthesis	
+R02296	cytidine:orthophosphate alpha-D-ribosyltransferase	2.4.2.2	MKLM6_2346	Pyrimidine metabolism	
+R02297	xanthosine:orthophosphate ribosyltransferase	2.4.2.1	MKLM6_2346	Purine metabolism	
+R02300	S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming)	2.1.2.10	MKLM6_1054	One carbon pool by folate	
+R02301	5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)	6.3.3.2	MKLM6_2730	One carbon pool by folate	
+R02320	NTP:pyruvate O2-phosphotransferase	2.7.1.40	MKLM6_1362	Pyruvate metabolism	
+R02322	nicotinamide-D-ribonucleotide amidohydrolase	3.5.1.42	MKLM6_2247 or MKLM6_0621	Nicotinate and nicotinamide metabolism	
+R02323	nicotinamide ribonucleotide phosphohydrolase	3.1.3.5;3.1.3.-	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Nicotinate and nicotinamide metabolism	
+R02325	dCTP aminohydrolase	3.5.4.13	MKLM6_3711	Pyrimidine metabolism	
+R02326	ATP:dCDP phosphotransferase	2.7.4.6	MKLM6_1394	Pyrimidine metabolism	
+R02328	dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase	2.7.7.24	MKLM6_3138	Streptomycin biosynthesis;Polyketide sugar unit biosynthesis;Acarbose and validamycin biosynthesis;O-Antigen nucleotide sugar biosynthesis	
+R02331	ATP:dUDP phosphotransferase	2.7.4.6	MKLM6_1394	Pyrimidine metabolism	
+R02340	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase	4.1.2.8;4.2.1.20	MKLM6_2494 or MKLM6_2495	Phenylalanine, tyrosine and tryptophan biosynthesis;Benzoxazinoid biosynthesis;Biosynthesis of various plant secondary metabolites	
+R02370	cytidine 3'-phosphate phosphohydrolase	3.1.3.6	MKLM6_3569	Pyrimidine metabolism	
+R02382	tyramine:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4;1.4.3.21;1.4.3.-;1.4.9.2	MKLM6_3449	Tyrosine metabolism	
+R02401	glutarate-semialdehyde:NAD+ oxidoreductase	1.2.1.20	MKLM6_3578	Lysine degradation	
+R02404	Itaconate:CoA ligase (ADP-forming)	6.2.1.5	MKLM6_3657 or MKLM6_3656	C5-Branched dibasic acid metabolism	
+R02412	ATP:shikimate 3-phosphotransferase	2.7.1.71	MKLM6_0225	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R02413	Shikimate:NADP+ 3-oxidoreductase	1.1.1.25;1.1.1.282	MKLM6_0528	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R02426	CDPglucose 4,6-hydro-lyase	4.2.1.45	MKLM6_3120	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R02433	L-cysteate:2-oxoglutarate aminotransferase	2.6.1.1	MKLM6_2284	Cysteine and methionine metabolism	
+R02459	D-Ornithine:2-oxoglutarate aminotransferase	2.6.1.21	MKLM6_3068	D-Amino acid metabolism	
+R02472	(R)-pantoate:NADP+ 2-oxidoreductase	1.1.1.169	MKLM6_4220	Pantothenate and CoA biosynthesis	
+R02473	(R)-Pantoate:beta-alanine ligase (AMP-forming)	6.3.2.1	MKLM6_4134	beta-Alanine metabolism;Pantothenate and CoA biosynthesis	
+R02529	aminoacetone:oxygen oxidoreductase(deaminating)	1.4.3.4;1.4.3.21	MKLM6_3449	Glycine, serine and threonine metabolism	
+R02530	(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)	4.4.1.5	MKLM6_4084	Pyruvate metabolism	
+R02532	4-[(1R)-2-Amino-1-hydroxyethyl]-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	MKLM6_3449	Tyrosine metabolism	
+R02558	(R)-Prunasin beta-D-glucohydrolase	3.2.1.21;3.2.1.118	MKLM6_2249	Cyanoamino acid metabolism	
+R02568	D-fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase	4.1.2.13	MKLM6_0541 or MKLM6_3555	Fructose and mannose metabolism	
+R02569	acetyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-acetyltransferase	2.3.1.12	MKLM6_3922	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism	
+R02570	succinyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-succinyltransferase	2.3.1.61	MKLM6_2472	Citrate cycle (TCA cycle)	
+R02571	Glutaryl-CoA:dihydrolipoamide S-succinyltransferase	2.3.1.61	MKLM6_2472		
+R02596	Donor:hydrogen-peroxide oxidoreductase	1.11.1.7;1.11.1.21	MKLM6_2586	Phenylpropanoid biosynthesis	
+R02613	Phenethylamine:oxygen oxidoreductase (deaminating)	1.4.3.4;1.4.3.21	MKLM6_3449	Phenylalanine metabolism	
+R02619	3-sulfino-L-alanine:2-oxoglutarate aminotransferase	2.6.1.1	MKLM6_2284	Cysteine and methionine metabolism	
+R02649	ATP:N-acetyl-L-glutamate 5-phosphotransferase	2.7.2.8	MKLM6_0638	Arginine biosynthesis	
+R02670		1.11.1.6;1.11.1.21	MKLM6_2586	Tryptophan metabolism	
+R02687	1,2-diacyl-sn-glycerol acylhydrolase	3.1.1.3	MKLM6_4286	Glycerolipid metabolism	
+R02689	UDP-alpha-D-glucose:1,2-diacyl-sn-glycerol 3-beta-D-glucosyltransferase	2.4.1.315;2.4.1.336	MKLM6_1824	Glycerolipid metabolism	
+R02718	D-Alanine:poly(ribitol phosphate) ligase (AMP-forming)	6.1.1.13	MKLM6_3834	D-Amino acid metabolism	
+R02719	xanthosine 5'-phosphate phosphohydrolase	3.1.3.5	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Purine metabolism	
+R02720	XTP pyrophosphohydrolase;	3.6.1.66	MKLM6_0468	Purine metabolism	
+R02722	L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate; L-tryptophan and glyceraldehyde-3-phosphate-forming]	4.2.1.20	MKLM6_2494 or MKLM6_2495	Glycine, serine and threonine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis	
+R02734	N-Succinyl-LL-2,6-diaminoheptanedioate amidohydrolase	3.5.1.18	MKLM6_0631	Lysine biosynthesis	
+R02735	LL-2,6-Diaminoheptanedioate 2-epimerase	5.1.1.7	MKLM6_4001	Lysine biosynthesis;D-Amino acid metabolism	
+R02736	beta-D-glucose-6-phosphate:NADP+ 1-oxoreductase	1.1.1.49;1.1.1.363	MKLM6_2894 or MKLM6_3579	Pentose phosphate pathway;Glutathione metabolism	
+R02739	alpha-D-Glucose 6-phosphate ketol-isomerase	5.1.3.15;5.3.1.9	MKLM6_3868	Glycolysis / Gluconeogenesis;Pentose phosphate pathway	
+R02740	alpha-D-Glucose 6-phosphate ketol-isomerase	5.3.1.9	MKLM6_3868	Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Amino sugar and nucleotide sugar metabolism	
+R02777	dTDP-beta-L-rhamnose:NADP+ 4-oxidoreductase;	1.1.1.133	MKLM6_3139	Streptomycin biosynthesis;Polyketide sugar unit biosynthesis;O-Antigen nucleotide sugar biosynthesis	
+R02783	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)	6.3.2.9	MKLM6_4027	D-Amino acid metabolism;Peptidoglycan biosynthesis	
+R02788	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming);	6.3.2.13	MKLM6_4024	Lysine biosynthesis;Peptidoglycan biosynthesis	
+R02851	D-Lysine:2-oxocarboxylate aminotransferase	2.6.1.21	MKLM6_3068	Lysine degradation;D-Amino acid metabolism	
+R02864	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	4.99.1.4	MKLM6_2692	Porphyrin metabolism	
+R02908	5-Hydroxytryptamine:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	MKLM6_3449	Tryptophan metabolism	
+R02918	L-Tyrosine:tRNA(Tyr) ligase (AMP-forming)	6.1.1.1	MKLM6_0762	Aminoacyl-tRNA biosynthesis	
+R02919	4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	MKLM6_3449	Tyrosine metabolism	
+R02922	Creatinine iminohydrolase	3.5.4.21	MKLM6_0135	Arginine and proline metabolism	
+R02924	D-Arginine:2-oxoglutarate aminotransferase	2.6.1.21	MKLM6_3068	D-Amino acid metabolism	
+R02933	L-Gulono-1,4-lactone lactonohydrolase	3.1.1.17;3.1.1.25	MKLM6_1608 or MKLM6_1614	Ascorbate and aldarate metabolism	
+R02952	phenylacrylic acid decarboxylase	4.1.1.102	MKLM6_0589	Phenylpropanoid biosynthesis	
+R02964	NADH:menaquinone oxidoreductase	1.6.5.2	MKLM6_0097	Ubiquinone and other terpenoid-quinone biosynthesis	
+R02971	ATP:pantothenate 4'-phosphotransferase	2.7.1.33;2.7.1.34	MKLM6_1735	Pantothenate and CoA biosynthesis	
+R02984	dTDPglucose 4-epimerase	5.1.3.2	MKLM6_2646		
+R02985	amygdalin beta-glucosidase	3.2.1.21;3.2.1.117	MKLM6_2249	Cyanoamino acid metabolism	
+R03004	Deamino-NAD+ nucleotidohydrolase	3.6.1.9;3.6.1.22	MKLM6_3802	Nicotinate and nicotinamide metabolism	
+R03005	ATP:nicotinamide-nucleotide adenylyltransferase	2.7.7.1;2.7.7.18	MKLM6_2939	Nicotinate and nicotinamide metabolism	
+R03012	L-Histidinol:NAD+ oxidoreductase	1.1.1.23	MKLM6_3920	Histidine metabolism	
+R03015	formylmethanofuran:ferredoxin oxidoreductase	1.2.7.12	MKLM6_0658 or MKLM6_0659 or MKLM6_0652	Methane metabolism	
+R03018	ATP:pantothenate 4'-phosphotransferase	2.7.1.33	MKLM6_1735	Pantothenate and CoA biosynthesis	
+R03028	glutaconyl-1-CoA carboxy-lyase;	1.3.8.6;7.2.4.5	MKLM6_1812	Benzoate degradation;Butanoate metabolism	
+R03035	ATP:pantetheine-4'-phosphate adenylyltransferase	2.7.7.3	MKLM6_0294	Pantothenate and CoA biosynthesis	
+R03036	Dephospho-CoA nucleotidohydrolase	3.6.1.9	MKLM6_3802	Pantothenate and CoA biosynthesis	
+R03038	L-Alanine:tRNA(Ala) ligase (AMP-forming)	6.1.1.7	MKLM6_1444	Aminoacyl-tRNA biosynthesis	
+R03050	2-Acetolactate pyruvate-lyase (carboxylating)	2.2.1.6	MKLM6_3333 or MKLM6_3334		
+R03051	2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86	MKLM6_3335		
+R03062	Cephalosporin-C acetylhdrolase	3.1.1.41	MKLM6_2137	Penicillin and cephalosporin biosynthesis	
+R03066	6-(hydroxymethyl)-7,8-dihydropterin:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase	2.5.1.15	MKLM6_2533	Folate biosynthesis	
+R03067	(7,8-dihydropterin-6-yl)methyl diphosphate:4-aminobenzoate 2-amino-4-hydroxy-7,8-dihydropteridine-6-methenyltransferase	2.5.1.15	MKLM6_2533	Folate biosynthesis	
+R03083	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase (cyclyzing)	4.2.3.4	MKLM6_0226	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03084	3-Dehydroquinate hydro-lyase	4.2.1.10	MKLM6_1374	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03093	3-Indoleacetonitrile aminohydrolase	3.5.5.1	MKLM6_1281	Tryptophan metabolism	
+R03105	3-mercaptopyruvate:sulfide sulfurtransferase	2.8.1.2	MKLM6_2716	Cysteine and methionine metabolism	
+R03132	O-acetyl-L-serine:thiosulfate 2-amino-2-carboxyethyltransferase	2.5.1.144	MKLM6_2578	Cysteine and methionine metabolism	
+R03165	Hydroxymethylbilane hydro-lyase(cyclizing)	4.2.1.75	MKLM6_0516	Porphyrin metabolism	
+R03182	7,8-Diaminononanoate:carbon-dioxide cyclo-ligase	6.3.3.3	MKLM6_1707	Biotin metabolism	
+R03191	UDP-N-acetylmuramate:NADP+ oxidoreductase	1.3.1.98	MKLM6_4031	Amino sugar and nucleotide sugar metabolism;Peptidoglycan biosynthesis	
+R03192	UDP-N-acetylmuramate:NADP+ oxidoreductase	1.3.1.98	MKLM6_4031	Amino sugar and nucleotide sugar metabolism;Peptidoglycan biosynthesis	
+R03193	UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)	6.3.2.8	MKLM6_4030	Peptidoglycan biosynthesis	
+R03194	S-adenosyl-L-methionine:uroporphyrinogen-III C-methyltransferase	2.1.1.107	MKLM6_2692 or MKLM6_0517	Porphyrin metabolism	
+R03197	Uroporphyrinogen-III carboxy-lyase	4.1.1.37	MKLM6_0228	Porphyrin metabolism	
+R03210	pimeloyl-CoA:L-alanine C-carboxyhexanoyltransferase (decarboxylating)	2.3.1.47	MKLM6_1704	Biotin metabolism	
+R03220	Coproporphyrinogen:oxygen oxidoreductase(decarboxylating)	1.3.3.3	MKLM6_0503	Porphyrin metabolism	
+R03223	2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-(2-phosphoethyl)-thiazole 2-methyl-4-aminopyridine-5-methenyltransferase	2.5.1.3	MKLM6_2527	Thiamine metabolism	
+R03231	S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase	2.6.1.62	MKLM6_0608	Biotin metabolism	
+R03243	5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase	2.6.1.9	MKLM6_0173 or MKLM6_2130	Histidine metabolism	
+R03254	phosphoenolpyruvate:D-arabinose-5-phosphate C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming);	2.5.1.55	MKLM6_0887	Lipopolysaccharide biosynthesis	
+R03269	N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase	4.1.1.36	MKLM6_0635	Pantothenate and CoA biosynthesis	
+R03270		1.2.4.1	MKLM6_3923	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism	
+R03291	trans-4-Hydroxy-L-proline:NAD+ 5-oxidoreductase	1.5.1.2	MKLM6_0641	Arginine and proline metabolism	
+R03293	trans-4-Hydroxy-L-proline:NADP+ 5-oxidoreductase	1.5.1.2	MKLM6_0641	Arginine and proline metabolism	
+R03313	L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating)	1.2.1.41	MKLM6_2441 or MKLM6_2940	Arginine and proline metabolism;Carbapenem biosynthesis	
+R03316		1.2.4.2	MKLM6_2471	Citrate cycle (TCA cycle)	
+R03321	beta-D-Glucose 6-phosphate ketol-isomerase	5.3.1.9	MKLM6_3868	Glycolysis / Gluconeogenesis	
+R03332	1-Phosphatidyl-D-myo-inositol inositolphosphohydrolase	3.1.4.3;3.1.4.11;4.6.1.13	MKLM6_0167 or MKLM6_0502	Inositol phosphate metabolism	
+R03342	3-(4-Hydroxyphenyl)pyruvate keto-enol-isomerase	5.3.2.1	MKLM6_0534	Tyrosine metabolism	
+R03346	nicotinate D-ribonucleotide phosphohydrolase	3.1.3.5;3.1.3.-	MKLM6_3445 or MKLM6_3468 or MKLM6_3569	Nicotinate and nicotinamide metabolism	
+R03348	Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating)	2.4.2.19	MKLM6_4079	Nicotinate and nicotinamide metabolism	
+R03350	3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase	3.1.3.45	MKLM6_3912	Lipopolysaccharide biosynthesis	
+R03351	CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase	2.7.7.38	MKLM6_2504	Lipopolysaccharide biosynthesis	
+R03367		4.1.1.102	MKLM6_0589	Phenylpropanoid biosynthesis	
+R03390	Formylmethanofuran:5,6,7,8-tetrahydromethanopterin 5-formyltransferase	2.3.1.101	MKLM6_0653	Methane metabolism	
+R03409	guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase	3.6.1.11;3.6.1.40	MKLM6_2200	Purine metabolism	
+R03424	S-adenosyl-L-methionine:phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.16;2.1.1.71	MKLM6_4231	Glycerophospholipid metabolism	
+R03425	glycine:lipoylprotein oxidoreductase (decarboxylating and acceptor-aminomethylating)	1.4.4.2	MKLM6_1053	Glycine, serine and threonine metabolism	
+R03443	N-acetyl-L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphrylating)	1.2.1.38	MKLM6_2714	Arginine biosynthesis	
+R03457	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase	4.2.1.19	MKLM6_0322	Histidine metabolism	
+R03458	5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase	1.1.1.193	MKLM6_2482	Riboflavin metabolism	
+R03459	2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine 2-aminohydrolase	3.5.4.26	MKLM6_2482	Riboflavin metabolism	
+R03460	phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase	2.5.1.19	MKLM6_2132	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03464	5,10-Methenyltetrahydromethanopterin 10-hydrolase (decyclizing)	3.5.4.27	MKLM6_1778	Methane metabolism	
+R03471	ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase	2.7.1.49	MKLM6_2526	Thiamine metabolism	
+R03472	5-amino-1-(5-phospho-D-ribosyl)imidazole formate-lyase (decarboxylating, 4-amino-2-methyl-5-phosphomethylpyrimidine-forming)	4.1.99.17	MKLM6_0198	Thiamine metabolism	
+R03503	ATP:6-hydroxymethyl-7,8-dihydropterin 6'-diphosphotransferase	2.7.6.3	MKLM6_0598 or MKLM6_4136	Folate biosynthesis	
+R03504	7,8-dihydroneopterin glycolaldehyde-lyase [6-(hydroxymethyl)-7,8-dihydropterin-forming]	4.1.2.25	MKLM6_0599	Folate biosynthesis	
+R03508	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing)	4.1.1.48	MKLM6_0309	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03509	N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase	5.3.1.24	MKLM6_2496	Phenylalanine, tyrosine and tryptophan biosynthesis	
+R03522	RX:glutathione R-transferase	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Glutathione metabolism	
+R03527	D-Glucoside glucohydrolase	3.2.1.21	MKLM6_2249	Starch and sucrose metabolism	
+R03530	ATP:dIDP phosphotransferase	2.7.4.6	MKLM6_1394	Purine metabolism	
+R03531	2'-deoxyinosine-5'-triphosphate pyrophosphohydrolase;	3.6.1.66	MKLM6_0468	Purine metabolism	
+R03542	alpha-Aminopropiononitrile aminohydrolase	3.5.5.1	MKLM6_1281	Cyanoamino acid metabolism	
+R03546	carbamate hydro-lyase;	4.2.1.104	MKLM6_1666	Nitrogen metabolism	
+R03596	hydrogen selenide:NADP+ oxidoreductase	1.8.1.9	MKLM6_3284	Selenocompound metabolism	
+R03599	L-selenocysteine selenide-lyase (L-alanine-forming)	4.4.1.16	MKLM6_2080 or MKLM6_2550 or MKLM6_3199	Selenocompound metabolism	
+R03601	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)	2.5.1.47	MKLM6_2077 or MKLM6_2101		
+R03643	NADH:(quinone-acceptor) oxidoreductase	1.6.5.2	MKLM6_0097		
+R03646	L-Arginine:tRNA(Arg) ligase (AMP-forming)	6.1.1.19	MKLM6_4244	Aminoacyl-tRNA biosynthesis	
+R03650	L-Cysteine:tRNA(Cys) ligase (AMP-forming)	6.1.1.16	MKLM6_3000	Aminoacyl-tRNA biosynthesis	
+R03652	L-Glutamine:tRNA(Gln) ligase (AMP-forming)	6.1.1.18	MKLM6_2573	Aminoacyl-tRNA biosynthesis	
+R03654	glycine:tRNA(Gly) ligase (AMP-forming)	6.1.1.14	MKLM6_0336 or MKLM6_0337	Aminoacyl-tRNA biosynthesis	
+R03655	L-Histidine:tRNA(His) ligase (AMP-forming)	6.1.1.21	MKLM6_1391	Aminoacyl-tRNA biosynthesis	
+R03656	L-Isoleucine:tRNA(Ile) ligase (AMP-forming)	6.1.1.5	MKLM6_0397	Aminoacyl-tRNA biosynthesis	
+R03657	L-Leucine:tRNA(Leu) ligase (AMP-forming)	6.1.1.4	MKLM6_3251	Aminoacyl-tRNA biosynthesis	
+R03658	L-lysine:tRNALys ligase (AMP-forming)	6.1.1.6	MKLM6_2536	Aminoacyl-tRNA biosynthesis	
+R03659	L-Methionine:tRNAMet ligase (AMP-forming)	6.1.1.10	MKLM6_4293	Aminoacyl-tRNA biosynthesis	
+R03660	L-Phenylalanine:tRNA(Ala) ligase (AMP-forming)	6.1.1.20	MKLM6_1865 or MKLM6_1866	Aminoacyl-tRNA biosynthesis	
+R03661	L-proline:tRNA(Pro) ligase (AMP-forming)	6.1.1.15	MKLM6_3246	Aminoacyl-tRNA biosynthesis	
+R03662	L-Serine:tRNA(Ser) ligase (AMP-forming)	6.1.1.11	MKLM6_3827	Aminoacyl-tRNA biosynthesis	
+R03663	L-Threonine:tRNA(Thr) ligase (AMP-forming)	6.1.1.3	MKLM6_1861	Aminoacyl-tRNA biosynthesis	
+R03664	L-Tryptophan -tRNA(Trp) ligase (AMP-forming)	6.1.1.2	MKLM6_0986	Aminoacyl-tRNA biosynthesis	
+R03665	L-Valine:tRNAVal ligase (AMP-forming)	6.1.1.9	MKLM6_3860	Aminoacyl-tRNA biosynthesis	
+R03751	epsilon-Caprolactone lactonohydrolase	3.1.1.17;3.1.1.83	MKLM6_1608 or MKLM6_1614	Caprolactam degradation	
+R03813	L-leucyl-tRNA(Leu):protein leucyltransferase	2.3.2.6	MKLM6_1153		
+R03815	dihydrolipoylprotein:NAD+ oxidoreductase	1.8.1.4	MKLM6_0165	Glycine, serine and threonine metabolism	
+R03816	NADH:phylloquinone oxidoreductase	1.6.5.2	MKLM6_0097	Ubiquinone and other terpenoid-quinone biosynthesis	
+R03893	4-Carboxymethylenebut-2-en-4-olide lactonohydrolase	3.1.1.45	MKLM6_1653	Chlorocyclohexane and chlorobenzene degradation	
+R03896	(R)-2-Methylmalate hydro-lyase (2-methylmaleate-forming)	4.2.1.35	MKLM6_0744 or MKLM6_0743	Valine, leucine and isoleucine biosynthesis;C5-Branched dibasic acid metabolism	
+R03898	2-methylmaleate hydratase;	4.2.1.35	MKLM6_0744 or MKLM6_0743	Valine, leucine and isoleucine biosynthesis;C5-Branched dibasic acid metabolism	
+R03905	Glu-tRNA(Gln):L-glutamine amido-ligase(ADP-forming)	6.3.5.7	MKLM6_3704 or MKLM6_3706 or MKLM6_3703	Aminoacyl-tRNA biosynthesis	
+R03919	Donor:hydrogen-peroxide oxidoreductase	1.11.1.7;1.11.1.21	MKLM6_2586	Phenylpropanoid biosynthesis	
+R03920	ATP:D-fructose 6-phosphotransferase	2.7.1.1;2.7.1.4	MKLM6_3057	Amino sugar and nucleotide sugar metabolism	
+R03940	10-Formyltetrahydrofolate:L-methionyl-tRNA N-formyltransferase	2.1.2.9	MKLM6_3325	One carbon pool by folate;Aminoacyl-tRNA biosynthesis	
+R03947	S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	1.3.1.76	MKLM6_2692	Porphyrin metabolism	
+R03968	2-Isopropylmalate hydro-lyase	4.2.1.33	MKLM6_0744 or MKLM6_0743	Valine, leucine and isoleucine biosynthesis	
+R04001	3-Isopropylmalate hydro-lyase	4.2.1.33	MKLM6_0744 or MKLM6_0743	Valine, leucine and isoleucine biosynthesis	
+R04007	Donor:hydrogen-peroxide oxidoreductase	1.11.1.7;1.11.1.21	MKLM6_2586	Phenylpropanoid biosynthesis	
+R04025	N-Acetylputrescine:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	MKLM6_3449	Arginine and proline metabolism	
+R04035	Phosphoribosyl-ATP pyrophosphohydrolase	3.6.1.31	MKLM6_4249	Histidine metabolism	
+R04037	1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase	3.5.4.19	MKLM6_0318	Histidine metabolism	
+R04109	L-glutamate-semialdehyde: NADP+ oxidoreductase(L-glutamyl-tRNA(Glu)-forming)	1.2.1.70	MKLM6_3643	Porphyrin metabolism	
+R04112	N-Acetylmuramoyl-Ala amidohydrolase	3.5.1.28	MKLM6_2733		
+R04125	[protein]-S8-aminomethyldihydrolipoyllysine:tetrahydrofolate aminomethyltransferase (ammonia-forming)	2.1.2.10	MKLM6_1054	Glycine, serine and threonine metabolism;One carbon pool by folate	
+R04144	5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)	6.3.4.13	MKLM6_3019	Purine metabolism	
+R04148	Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase	2.4.2.21	MKLM6_0388	Porphyrin metabolism	
+R04173	3-Phosphoserine:2-oxoglutarate aminotransferase	2.6.1.52	MKLM6_2128	Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Methane metabolism	
+R04198	2,3,4,5-tetrahydrodipicolinate:NAD+ 4-oxidoreductase	1.17.1.8	MKLM6_2918	Monobactam biosynthesis;Lysine biosynthesis	
+R04199	2,3,4,5-tetrahydrodipicolinate:NADP+ 4-oxidoreductase	1.17.1.8	MKLM6_2918	Monobactam biosynthesis;Lysine biosynthesis	
+R04208	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)	6.3.3.1	MKLM6_2962	Purine metabolism	
+R04212	Asp-tRNA(Asn):L-glutamine amido-ligase (ADP-forming)	6.3.5.6	MKLM6_3704 or MKLM6_3706 or MKLM6_3703	Aminoacyl-tRNA biosynthesis	
+R04225	(S)-3-Methyl-2-oxopentanoate:[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-2-methylpropanoylating)	1.2.4.4	MKLM6_3832		
+R04231	(R)-4'-phosphopantothenate:L-cysteine ligase	6.3.2.5	MKLM6_0635	Pantothenate and CoA biosynthesis	
+R04286	2-amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate lyase	4.2.3.12	MKLM6_1597 or MKLM6_3073	Folate biosynthesis	
+R04292	glycerone phosphate:iminosuccinate alkyltransferase (cyclizing)	2.5.1.72	MKLM6_1440	Nicotinate and nicotinamide metabolism	
+R04300	4-(2-aminoethyl)-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4;1.4.3.21;1.4.3.-;1.4.9.2	MKLM6_3449	Tyrosine metabolism;Isoquinoline alkaloid biosynthesis	
+R04355	Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Fatty acid biosynthesis	
+R04365	Succinyl-CoA:2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	2.3.1.117	MKLM6_0624	Lysine biosynthesis	
+R04377	UDP-alpha-D-glucose:1,2-diacyl-3-O-(beta-D-glucopyranosyl)-sn-glycerol 6-glucosyltransferase	2.4.1.315	MKLM6_1824	Glycerolipid metabolism	
+R04378	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide:pyrophosphate phosphoribosyltransferase	2.4.2.7	MKLM6_1255	Purine metabolism	
+R04385	biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming)	6.3.4.14	MKLM6_1376		
+R04386	carboxybiotin-carboxyl-carrier-protein:acetyl-CoA carboxytransferase	2.1.3.15	MKLM6_0882 or MKLM6_2493		
+R04391	ATP:pantothenate 4'-phosphotransferase	2.7.1.33	MKLM6_1735	Pantothenate and CoA biosynthesis	
+R04405	5-Methyltetrahydropteroyltri-L-glutamate:L-homocysteine S-methyltransferase	2.1.1.14	MKLM6_0265	Cysteine and methionine metabolism	
+R04420	5-methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase	5.3.1.23	MKLM6_2752	Cysteine and methionine metabolism	
+R04425	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate hydro-lyase	4.2.1.99	MKLM6_2354	Propanoate metabolism	
+R04426	(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase	1.1.1.85	MKLM6_0742 or MKLM6_1533	Valine, leucine and isoleucine biosynthesis	
+R04428	(3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	MKLM6_2643 or MKLM6_3089	Fatty acid biosynthesis	
+R04429	butyryl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	MKLM6_0304	Fatty acid biosynthesis	
+R04439	(R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86;1.1.1.383	MKLM6_3335	Pantothenate and CoA biosynthesis	
+R04440	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86	MKLM6_3335	Valine, leucine and isoleucine biosynthesis	
+R04441	(R)-2,3-Dihydroxy-3-methylbutanoate hydro-lyase	4.2.1.9	MKLM6_2683	Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis	
+R04444	L-1-pyrroline-3-hydroxy-5-carboxylate:NAD+ oxidoreductase	1.2.1.88	MKLM6_1766	Arginine and proline metabolism	
+R04445	L-1-pyrroline-3-hydroxy-5-carboxylate:NADP+ oxidoreductase	1.2.1.88	MKLM6_1766	Arginine and proline metabolism	
+R04457	5-amino-6-(D-ribitylamino)uracil butanedionetransferase	2.5.1.78	MKLM6_2478	Riboflavin metabolism	
+R04463	5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)	6.3.5.3	MKLM6_2119	Purine metabolism	
+R04475	N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase	2.6.1.17	MKLM6_2680 or MKLM6_0623	Lysine biosynthesis	
+R04509	ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase	2.7.4.7	MKLM6_2526	Thiamine metabolism	
+R04533	(3R)-3-hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	MKLM6_1061 or MKLM6_1342	Fatty acid biosynthesis	
+R04534	(3R)-3-hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	MKLM6_1061 or MKLM6_1342	Fatty acid biosynthesis	
+R04535	(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	MKLM6_2643 or MKLM6_3089	Fatty acid biosynthesis	
+R04536	(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	MKLM6_1061 or MKLM6_1342	Fatty acid biosynthesis	
+R04537	(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	MKLM6_2643 or MKLM6_3089	Fatty acid biosynthesis	
+R04543	(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	MKLM6_1061 or MKLM6_1342	Fatty acid biosynthesis	
+R04544	(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	MKLM6_2643 or MKLM6_3089	Fatty acid biosynthesis	
+R04549	UDP-2,3-bis[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine 2,3-bis[(3R)-3-hydroxymyristoyl]-beta-D-glucosaminyl 1-phosphate phosphohydrolase	3.6.1.54	MKLM6_3002	Lipopolysaccharide biosynthesis	
+R04550	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]:UDP-3-O-[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine N-acetyltransferase	2.3.1.191	MKLM6_0945	Lipopolysaccharide biosynthesis	
+R04558	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate-lyase (L-glutamine-hydrolysing; 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide-forming)	4.3.2.10	MKLM6_0319 or MKLM6_0321	Histidine metabolism	
+R04559	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase	4.3.2.2	MKLM6_2880	Purine metabolism	
+R04560	10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-imidazolecarboxamide formyltransferase	2.1.2.3	MKLM6_3018	Purine metabolism;One carbon pool by folate	
+R04566	(3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	MKLM6_1061 or MKLM6_1342	Fatty acid biosynthesis	
+R04567	(R)-3-Hydroxytetradecanoly-[acyl-carrier-protein]:UDP-N-acetyl-glucosamine 3-O-(3-hydroxytetradecanoyl)transferase	2.3.1.129	MKLM6_0962 or MKLM6_3088	Lipopolysaccharide biosynthesis	
+R04568	(3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	MKLM6_2643 or MKLM6_3089	Fatty acid biosynthesis	
+R04573	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine:alanyl-D-alanine ligase (ADP-forming)	6.3.2.10	MKLM6_4025	Peptidoglycan biosynthesis	
+R04587	UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetylglucosamine amidohydrolase	3.5.1.108	MKLM6_4036	Lipopolysaccharide biosynthesis	
+R04591	1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming)	6.3.2.6	MKLM6_0487	Purine metabolism	
+R04594		3.1.3.73	MKLM6_2370	Porphyrin metabolism	
+R04606	UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine:2,3-bis-(3-hydroxytetradecanoyl)-alpha-D-glucosaminyl-1-phosphate 2,3-bis(3-hydroxytetradecanoyl)-glucosaminyltransferase	2.4.1.182	MKLM6_1109	Lipopolysaccharide biosynthesis	
+R04617	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming)	6.3.2.10	MKLM6_4025	Lysine biosynthesis;Peptidoglycan biosynthesis	
+R04620	7,8-dihydroneopterin-3'-triphosphate phosphohydrolase (alkaline optimum)	3.1.3.1	MKLM6_3454 or MKLM6_2363 or MKLM6_3585	Folate biosynthesis	
+R04640	N-(5'-phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase;	5.3.1.16	MKLM6_0320 or MKLM6_1782	Histidine metabolism	
+R04657	ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-alpha-phosphate 4-O'-phosphotransferase	2.7.1.130	MKLM6_2506	Lipopolysaccharide biosynthesis	
+R04658	CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase	2.4.99.12	MKLM6_2696	Lipopolysaccharide biosynthesis	
+R04672	(S)-2-Acetolactate pyruvate-lyase (carboxylating)	2.2.1.6	MKLM6_3333 or MKLM6_3334		
+R04673	(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)	2.2.1.6	MKLM6_3333 or MKLM6_3334		
+R04674	N-methylhistamine:oxygen oxidoreductase (deaminating)	1.4.3.4;1.4.3.22	MKLM6_3449	Histidine metabolism	
+R04710	Protein-glycine,dihydroflavodoxin:S-adenosyl-L-methionine oxidoreductase (S-adenosyl-L-methionine cleaving)	1.97.1.4	MKLM6_2891 or MKLM6_4288		
+R04724	dodecanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	MKLM6_0304	Fatty acid biosynthesis	
+R04726	dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Fatty acid biosynthesis	
+R04734	4a-hydroxytetrahydrobiopterin hydro-lyase	4.2.1.96	MKLM6_0660	Folate biosynthesis	
+R04771	ATP:L-selenomethione S-adenosyltransferase	2.5.1.6	MKLM6_0606		
+R04773	Selenomethionine:tRNAMet ligase (AMP-forming)	6.1.1.10	MKLM6_4293	Selenocompound metabolism	
+R04780	beta-D-Fructose 1,6-bisphosphate 1-phosphohydrolase	3.1.3.11	MKLM6_2204	Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism	
+R04859	O3-acetyl-L-serine:thiosulfate 2-amino-2-carboxyethyltransferase (reducing, L-cysteine-forming);	2.5.1.47;2.5.1.49	MKLM6_2077 or MKLM6_2101		
+R04864	2-Acyl-sn-glycero-3-phosphoethanolamine O-acyltransferase	2.3.1.40	MKLM6_2443	Glycerophospholipid metabolism	
+R04880	3,4-dihydroxyphenylethyleneglycol:NAD+ oxidoreductase	1.1.1.1	MKLM6_0241	Tyrosine metabolism	
+R04890	3-Methoxytyramine:oxygen oxidoreductase (deaminating) (copper-containing)	1.4.3.4	MKLM6_3449	Tyrosine metabolism	
+R04893	L-Normetanephrine:oxygen oxidoreductase (deaminating) (copper-containing)	1.4.3.4	MKLM6_3449	Tyrosine metabolism	
+R04894	L-Metanephrine:oxygen oxidoreductase (deaminating) (flavin-containing)	1.4.3.4	MKLM6_3449	Tyrosine metabolism	
+R04907	3-Hydroxykynurenamine:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	MKLM6_3449	Tryptophan metabolism	
+R04928	ATP:adenylylsulfate 3'-phosphotransferase	2.7.1.25	MKLM6_3015 or MKLM6_3598		
+R04929	ATP:selenate adenylyltransferase	2.7.7.4	MKLM6_3598 or MKLM6_3780 or MKLM6_3594	Selenocompound metabolism	
+R04949	Cyanoglycoside glucohydrolase	3.2.1.21	MKLM6_2249		
+R04951		3.4.11.1;3.4.11.2;3.4.11.23;3.4.13.-	MKLM6_4143 or MKLM6_0323	Glutathione metabolism	
+R04952	butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Fatty acid biosynthesis	
+R04953	(3R)-3-hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	MKLM6_1061 or MKLM6_1342	Fatty acid biosynthesis	
+R04954	(3R)-3-hydroxyhexanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	MKLM6_2643 or MKLM6_3089	Fatty acid biosynthesis	
+R04955	hexanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	MKLM6_0304	Fatty acid biosynthesis	
+R04957	hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Fatty acid biosynthesis	
+R04958	octanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	MKLM6_0304	Fatty acid biosynthesis	
+R04960	Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Fatty acid biosynthesis	
+R04961	decanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	MKLM6_0304	Fatty acid biosynthesis	
+R04963	Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Fatty acid biosynthesis	
+R04964	(3R)-3-hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	1.1.1.100;1.1.1.-;2.3.1.85;2.3.1.86	MKLM6_1061 or MKLM6_1342	Fatty acid biosynthesis	
+R04965	(3R)-3-hydroxydodecanoyl-[acyl-carrier-protein] hydro-lyase	2.3.1.85;2.3.1.86;2.3.1.-;4.2.1.59	MKLM6_2643 or MKLM6_3089	Fatty acid biosynthesis	
+R04966	tetradecanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	MKLM6_0304	Fatty acid biosynthesis	
+R04968	Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.85;2.3.1.86;2.3.1.179	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Fatty acid biosynthesis	
+R04969	hexadecanoyl-[acp]:NAD+ trans-2-oxidoreductase	1.3.1.9;2.3.1.-	MKLM6_0304	Fatty acid biosynthesis	
+R04972	Uroporphyrinogen I carboxy-lyase	4.1.1.37	MKLM6_0228	Porphyrin metabolism	
+R04986	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	4.1.1.98	MKLM6_0521 or MKLM6_0589		
+R04988	S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase	2.1.1.222	MKLM6_2747		
+R04998	beta-D-Glucosyl-2-coumarinate glucohydrolase	3.2.1.21	MKLM6_2249	Biosynthesis of various plant secondary metabolites	
+R05032	UDP-N-acetyl-D-glucosamine:undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine 4-beta-N-acetylglucosaminlytransferase	2.4.1.227	MKLM6_4029	Peptidoglycan biosynthesis	
+R05046	formamidopyrimidine nucleoside triphosphate amidohydrolase	3.5.4.16	MKLM6_1354	Folate biosynthesis	
+R05051	L-erythro-4-Hydroxyglutamate:NAD+ oxidoreductase	1.2.1.88	MKLM6_1766	Arginine and proline metabolism	
+R05052	L-erythro-4-hydroxyglutamate:2-oxoglutarate aminotransferase	2.6.1.1;2.6.1.23	MKLM6_2284	Arginine and proline metabolism	
+R05053	D-aspartate:2-oxoglutarate aminotransferase	2.6.1.21	MKLM6_3068	Arginine and proline metabolism	
+R05066	3-hydroxy-2-methylpropanoate:NAD+ oxidoreductase	1.1.1.31	MKLM6_2973	Valine, leucine and isoleucine degradation	
+R05068	(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86	MKLM6_3335	Valine, leucine and isoleucine biosynthesis	
+R05069	(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing)	1.1.1.86;5.4.99.3	MKLM6_3335	Valine, leucine and isoleucine biosynthesis	
+R05070	(R)-2,3-Dihydroxy-3-methylpentanoate hydro-lyase	4.2.1.9	MKLM6_2683	Valine, leucine and isoleucine biosynthesis	
+R05071	(S)-2-Acetolactate methylmutase	1.1.1.86;5.4.99.3	MKLM6_3335	Valine, leucine and isoleucine biosynthesis	
+R05074	CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase	2.4.99.13	MKLM6_2696	Lipopolysaccharide biosynthesis	
+R05085	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase	2.6.1.52	MKLM6_2128	Vitamin B6 metabolism	
+R05086	O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water)	4.2.3.1	MKLM6_2113	Vitamin B6 metabolism	
+R05176	ADP-D-glycero-D-manno-heptose 6-epimerase	5.1.3.20	MKLM6_2698	Lipopolysaccharide biosynthesis	
+R05185	reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)	1.18.6.1	MKLM6_3425 or MKLM6_3424 or MKLM6_3426	Nitrogen metabolism	
+R05220	ATP:cob(I)yrinic acid-a,c-diamide Cobeta-adenosyltransferase	2.5.1.17	MKLM6_3280	Porphyrin metabolism	
+R05221		2.7.1.156	MKLM6_0387	Porphyrin metabolism	
+R05222	GTP:adenosylcobinamide-phosphate guanylyltransferase	2.7.7.62	MKLM6_0387	Porphyrin metabolism	
+R05223		2.7.8.26	MKLM6_0390	Porphyrin metabolism	
+R05224		6.3.5.9	MKLM6_1441	Porphyrin metabolism	
+R05225		6.3.5.10	MKLM6_0392	Porphyrin metabolism	
+R05227	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	6.6.1.2	MKLM6_0244 or MKLM6_4335 or MKLM6_4332	Porphyrin metabolism	
+R05233	trans-3-Chloro-2-propene-1-ol:NAD+ oxidoreductase	1.1.1.1	MKLM6_0241	Chloroalkane and chloroalkene degradation	
+R05234	cis-3-chloro-2-propene-1-ol:NAD+ oxidoreductase	1.1.1.1	MKLM6_0241	Chloroalkane and chloroalkene degradation	
+R05332	Acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase	2.3.1.157	MKLM6_0133	Amino sugar and nucleotide sugar metabolism	
+R05338	D-arabino-hex-3-ulose-6-phosphate formaldehyde-lyase (D-ribulose-5-phosphate-forming)	4.1.2.43	MKLM6_0536 or MKLM6_0590	Pentose phosphate pathway;Methane metabolism	
+R05339	D-arabino-hex-3-ulose-6-phosphate isomerase	5.3.1.27	MKLM6_0537	Methane metabolism	
+R05496	reduced ferredoxin:acetylene oxidoreductase (ATP-hydrolysing)	1.18.6.1	MKLM6_3425 or MKLM6_3424 or MKLM6_3426	Chloroalkane and chloroalkene degradation	
+R05510	Protoanemonin lactonohydrolase	3.1.1.45	MKLM6_1653	Chlorocyclohexane and chlorobenzene degradation	
+R05511		3.1.1.45	MKLM6_1653	Chlorocyclohexane and chlorobenzene degradation	
+R05553	4-amino-4-deoxychorismate pyruvate-lyase	4.1.3.38	MKLM6_1236	Folate biosynthesis	
+R05577	L-Aspartate:tRNA(Asp) ligase (AMP-forming)	6.1.1.12;6.1.1.23	MKLM6_1420	Aminoacyl-tRNA biosynthesis	
+R05578	L-glutamate:tRNA(Glu) ligase (AMP-forming)	6.1.1.17;6.1.1.24	MKLM6_3081	Porphyrin metabolism;Aminoacyl-tRNA biosynthesis	
+R05591	Nitrile aminohydrolase	3.5.5.1	MKLM6_1281	Aminobenzoate degradation	
+R05605	2-dehydro-3-deoxy-6-phospho-D-gluconate D-glyceraldehyde-3-phosphate-lyase (pyruvate-forming)	4.1.2.14;4.1.2.55	MKLM6_2898	Pentose phosphate pathway	
+R05615	all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase	2.5.1.39	MKLM6_0335		
+R05627	undecaprenyl-diphosphate phosphohydrolase	3.6.1.27	MKLM6_0239 or MKLM6_3808	Peptidoglycan biosynthesis;Teichoic acid biosynthesis	
+R05629	UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase	2.7.8.13	MKLM6_4026	Peptidoglycan biosynthesis	
+R05630	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine:undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase	2.7.8.13	MKLM6_4026	Peptidoglycan biosynthesis	
+R05633	CTP: 2-C-Methyl-D-erythritol 4-phosphate cytidylyltransferase	2.7.7.60	MKLM6_0891	Terpenoid backbone biosynthesis	
+R05634	ATP:4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol 2-phosphotransferase	2.7.1.148	MKLM6_3640	Terpenoid backbone biosynthesis	
+R05636	1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)	2.2.1.7	MKLM6_1245 or MKLM6_1256	Thiamine metabolism;Terpenoid backbone biosynthesis	
+R05637	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol CMP-lyase (cyclizing)	4.6.1.12	MKLM6_0892	Terpenoid backbone biosynthesis	
+R05644	ATP:D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase	2.7.7.70	MKLM6_0095	Lipopolysaccharide biosynthesis	
+R05645	D-glycero-beta-D-manno-heptose-7-phosphate aldose-ketose-isomerase	5.3.1.28	MKLM6_4189	Lipopolysaccharide biosynthesis	
+R05646	ATP:D-glycero-beta-D-manno-heptose 7-phosphate 1-phosphotransferase	2.7.1.167	MKLM6_0095	Lipopolysaccharide biosynthesis	
+R05647	D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphohydrolase	3.1.3.82	MKLM6_0338	Lipopolysaccharide biosynthesis	
+R05662	UDP-N-acetyl-D-glucosamine:N-acetyl-alpha-D-muramyl(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase	2.4.1.227	MKLM6_4029	Peptidoglycan biosynthesis	
+R05681	NAD-dependent threonine 4-phosphate dehydrogenase	1.1.1.262	MKLM6_0747	Vitamin B6 metabolism	
+R05688	1-Deoxy-D-xylulose-5-phosphate isomeroreductase	1.1.1.267	MKLM6_2601	Terpenoid backbone biosynthesis	
+R05692	GDP-L-fucose:NADP+ 4-oxidoreductase (3,5-epimerizing)	1.1.1.271	MKLM6_1383	Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R05815	cobyrinate:L-glutamine amido-ligase (ADP-forming)	6.3.5.11	MKLM6_1441	Porphyrin metabolism	
+R05837	4-(phosphonooxy)threonine:NAD oxidoreductase	1.1.1.262	MKLM6_0747		
+R05838	pyridoxine 5'-phosphate synthase	2.6.99.2	MKLM6_1410	Vitamin B6 metabolism	
+R05884	isopentenyl-diphosphate:ferredoxin oxidoreductase	1.17.7.4	MKLM6_3103	Terpenoid backbone biosynthesis	
+R06171	L-allo-threonine acetaldehyde-lyase (glycine-forming)	4.1.2.48;4.1.2.49	MKLM6_0459	Glycine, serine and threonine metabolism	
+R06173		2.4.1.227	MKLM6_4029		
+R06174		2.4.1.227	MKLM6_4029		
+R06285		2.4.99.13	MKLM6_2696	Lipopolysaccharide biosynthesis	
+R06447	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate cistransferase (adding 8 isopentenyl units)	2.5.1.31	MKLM6_2603	Peptidoglycan biosynthesis;Terpenoid backbone biosynthesis	
+R06513	dTDPglucose 4,6-hydro-lyase	4.2.1.46	MKLM6_3140	Streptomycin biosynthesis;Polyketide sugar unit biosynthesis;Acarbose and validamycin biosynthesis;O-Antigen nucleotide sugar biosynthesis;Biosynthesis of vancomycin group antibiotics	
+R06514	dTDP-4-dehydro-6-deoxy-alpha-D-glucose 3,5-epimerase;	5.1.3.13	MKLM6_3119 or MKLM6_3135	Streptomycin biosynthesis;Polyketide sugar unit biosynthesis;O-Antigen nucleotide sugar biosynthesis	
+R06529	adenosylcobyric acid:(R)-1-aminopropan-2-yl phosphate ligase	6.3.1.10	MKLM6_0288 or MKLM6_0289	Porphyrin metabolism	
+R06558		2.7.1.156	MKLM6_0387	Porphyrin metabolism	
+R06590	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehydetransferase;	2.2.1.1	MKLM6_0538 or MKLM6_0591	Biosynthesis of ansamycins	
+R06782	3-phenylpropanoate,NADH:oxygen oxidoreductase (2,3-hydroxylating)	1.14.12.19	MKLM6_2547	Phenylalanine metabolism	
+R06783	trans-cinnamate,NADH:oxygen oxidoreductase (2,3-hydroxylating)	1.14.12.19	MKLM6_2547	Phenylalanine metabolism	
+R06835	4-carboxymethylenebut-2-en-4-olide lactonohydrolase	3.1.1.45	MKLM6_1653	Chlorocyclohexane and chlorobenzene degradation	
+R06838	4-carboxymethylenebut-2-en-4-olide lactonohydrolase	3.1.1.45	MKLM6_1653	Chlorocyclohexane and chlorobenzene degradation	
+R06894		1.1.1.-	MKLM6_2664	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R06895	coproporphyrinogen-III:S-adenosyl-L-methionine oxidoreductase(decarboxylating)	1.3.98.3	MKLM6_2153	Porphyrin metabolism	
+R06917	1-hydroxymethylnaphthalene:NAD+ oxidoreductase	1.1.1.1	MKLM6_0241	Naphthalene degradation	
+R06927	(2-naphthyl)methanol:NAD+ oxidoreductase	1.1.1.1	MKLM6_0241	Naphthalene degradation	
+R06974	formate:N1-(5-phospho-beta-D-ribosyl)glycinamide ligase (ADP-forming)	6.3.1.21	MKLM6_1351	Purine metabolism	
+R07002	(1R)-hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07003	(1R)-glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07004	(1S)-hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07023	1-nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07024	1-nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07025	1-nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07026	1-nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07069	3,4-dihydro-3-hydroxy-4-S-glutathionyl bromobenzene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07070	2,3-dihydro-2-S-glutathionyl-3-hydroxy bromobenzene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07083	4,5-dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene glutathione-lyase (epoxide-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07084	7,8-dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene hydrolase	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07091	S-(2,2-dichloro-1-hydroxy)ethyl-glutathione 2,2-dichloroacetaldehyde-lyase (glutathione-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07092	1,1-dichloroethylene-epoxide:glutathione S-(chloroepoxyethyl)transferase [2-(S-glutathionyl)acetyl-chloride-forming]	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07093	chloroacetyl-chloride:glutathione S-chloroacetyltransferase	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07094	2-(S-glutathionyl)acetyl-chloride:glutathione 2-(S-glutathionyl)acetyltransferase	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07100	trichloroethene:glutathione S-(1,2-dichlorovinyl)transferase	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07105	trichloroethanol:NAD+ oxidoreductase	1.1.1.1	MKLM6_0241	Metabolism of xenobiotics by cytochrome P450	
+R07113	1,2-dibromoethane:glutathione ethylenetransferase (episulfonium-forming)	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07116	2-bromoacetaldehyde:glutathione S-(formylmethyl)transferase	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R07136	(2R)-3-sulfolactate:NAD+ oxidoreductase	1.1.1.37;1.1.1.337	MKLM6_1851	Cysteine and methionine metabolism;Methane metabolism	
+R07236	S-adenosyl-L-methionine:gamma-tocopherol 5-O-methyltransferase	2.1.1.95	MKLM6_2727	Ubiquinone and other terpenoid-quinone biosynthesis	
+R07268	ATP:cobinamide Cobeta-adenosyltransferase	2.5.1.17	MKLM6_3280	Porphyrin metabolism	
+R07274	O-phospho-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase	2.5.1.47;2.5.1.65	MKLM6_2077 or MKLM6_2101	Cysteine and methionine metabolism	
+R07281	D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming)	4.1.99.12	MKLM6_1600 or MKLM6_2479	Riboflavin metabolism	
+R07302	adenosylcobyric acid:(R)-1-aminopropan-2-ol ligase (ADP-forming)	6.3.1.10	MKLM6_0288 or MKLM6_0289	Porphyrin metabolism	
+R07322	squalene mutase (cyclizing)	5.4.99.17	MKLM6_1250 or MKLM6_1920	Sesquiterpenoid and triterpenoid biosynthesis	
+R07323	squalene mutase (cyclizing);	4.2.1.129	MKLM6_1250 or MKLM6_1920	Sesquiterpenoid and triterpenoid biosynthesis	
+R07363	1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase (formate- and CO-forming)	1.13.11.53	MKLM6_4147	Cysteine and methionine metabolism	
+R07364	1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase (formate-forming)	1.13.11.54	MKLM6_4147	Cysteine and methionine metabolism	
+R07392	S-methyl-5-thio-D-ribulose-1-phosphate hydro-lyase	4.2.1.109	MKLM6_4146	Cysteine and methionine metabolism	
+R07395	5-(methylthio)-2,3-dioxopentyl-phosphate phosphohydrolase (isomerizing)	3.1.3.77	MKLM6_4148	Cysteine and methionine metabolism	
+R07399		2.3.3.21	MKLM6_1526	Valine, leucine and isoleucine biosynthesis;C5-Branched dibasic acid metabolism	
+R07404	5-amino-1-(5-phospho-D-ribosyl)imidazole:carbon-dioxide ligase (ADP-forming)	6.3.4.18	MKLM6_2142	Purine metabolism	
+R07405	5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole carboxymutase	5.4.99.18	MKLM6_2143	Purine metabolism	
+R07411	(2E,6E)-farnesyl-diphosphate:protoheme IX farnesyltranstransferase	2.5.1.141	MKLM6_0298	Porphyrin metabolism	
+R07412	ferroheme o:acceptor C-81-oxidoreductase (heme a-forming)	1.17.99.9	MKLM6_2087	Porphyrin metabolism	
+R07443	donor:hydrogen-peroxide oxidoreductase	1.11.1.7;1.11.1.21	MKLM6_2586	Phenylpropanoid biosynthesis	
+R07459	ATP:[sulfur-carrier protein] adenylyltransferase	2.7.7.73;2.7.7.80	MKLM6_0736	Thiamine metabolism	
+R07460	L-cysteine:[enzyme]-cysteine sulfurtransferase	2.8.1.7	MKLM6_3238 or MKLM6_3507	Thiamine metabolism	
+R07463	glycine:oxygen oxidoreductase	1.4.3.19	MKLM6_0586	Thiamine metabolism	
+R07504	S-adenosyl-L-methionine:delta-tocopherol 5-O-methyltransferase	2.1.1.95	MKLM6_2727	Ubiquinone and other terpenoid-quinone biosynthesis	
+R07599		1.2.4.4	MKLM6_3832	Valine, leucine and isoleucine degradation	
+R07600		1.2.4.4	MKLM6_3832	Valine, leucine and isoleucine degradation	
+R07601		1.2.4.4	MKLM6_3832	Valine, leucine and isoleucine degradation	
+R07602		1.2.4.4	MKLM6_3832	Valine, leucine and isoleucine degradation	
+R07603		1.2.4.4	MKLM6_3832	Valine, leucine and isoleucine degradation	
+R07604		1.2.4.4	MKLM6_3832	Valine, leucine and isoleucine degradation	
+R07605	7-aminomethyl-7-carbaguanine:NADP+ oxidoreductase	1.7.1.13	MKLM6_1399	Folate biosynthesis	
+R07618	enzyme N6-(dihydrolipoyl)lysine:NAD+ oxidoreductase	1.8.1.4	MKLM6_0165	Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Valine, leucine and isoleucine degradation;Pyruvate metabolism;Propanoate metabolism	
+R07639	decenoyl-[acyl-carrier-protein] Delta2-trans-Delta3-cis-isomerase	5.3.3.14	MKLM6_2643	Fatty acid biosynthesis	
+R07652	farnesyl-diphosphate:farnesyl-diphosphate farnesyltransferase (4,4'-diapophytoene forming)	2.5.1.96	MKLM6_1251		
+R07653	4,4'-diapophytoene:FAD oxidoreductase	1.3.8.2	MKLM6_3292	Carotenoid biosynthesis	
+R07654	4,4'-diaponeurosporene,AH2:oxygen 4-oxidoreductase	1.14.99.44	MKLM6_3290	Carotenoid biosynthesis	
+R07762		2.3.1.41;2.3.1.179;2.3.1.199;2.3.1.-	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Fatty acid biosynthesis	
+R07763		1.1.1.100;2.3.1.-	MKLM6_1061 or MKLM6_1342	Fatty acid biosynthesis	
+R07764		2.3.1.-;4.2.1.-	MKLM6_3089	Fatty acid biosynthesis	
+R07766	octanoyl-[acp]:protein N6-octanoyltransferase	2.3.1.181	MKLM6_3070		
+R07767	[protein]-N6-(octanoyl)-L-lysine:an [Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster sulfurtransferase	2.8.1.8	MKLM6_3071		
+R07769	lipoyl-[acp]:protein N6-lipoyltransferase	2.3.1.181	MKLM6_3070		
+R07855	phenylacetonitrile aminohydrolase	3.5.5.1	MKLM6_1281	Styrene degradation	
+R08034		1.2.7.1;1.2.7.4;1.12.99.6	MKLM6_3967 or MKLM6_3966	Nitrotoluene degradation	
+R08058	5,6,7,8-tetrahydromethanopterin hydro-lyase (formaldehyde-adding, 5,10-methylenetetrahydromethanopterin-forming)	4.2.1.147	MKLM6_1265 or MKLM6_1781 or MKLM6_3742	Methane metabolism	
+R08059		1.5.1.-	MKLM6_1850 or MKLM6_3243 or MKLM6_3244	Methane metabolism	
+R08060		1.2.7.12	MKLM6_0658 or MKLM6_0659 or MKLM6_0652	Methane metabolism	
+R08120	5-fluoromuconolactone lactonohydrolase	3.1.1.45	MKLM6_1653	Fluorobenzoate degradation	
+R08121	4-fluoromuconolactone lactonohydrolase	3.1.1.45	MKLM6_1653	Fluorobenzoate degradation	
+R08210	dimethylallyl diphosphate:ferredoxin oxidoreductase	1.17.7.4	MKLM6_3103	Terpenoid backbone biosynthesis	
+R08218	L-serine:tRNASec ligase (AMP-forming)	6.1.1.11	MKLM6_3827	Aminoacyl-tRNA biosynthesis	
+R08236	S-adenosyl-L-methionine:6-mercaptopurin S-methyltransferase	2.1.1.67	MKLM6_0082	Drug metabolism - other enzymes	
+R08237	6-thioinosine 5'-monophosphate:diphosphate phospho-D-ribosyltransferase	2.4.2.8	MKLM6_2454	Drug metabolism - other enzymes	
+R08238	6-methylthiopurine 5'-monophosphate ribonucleotide:diphosphate phospho-D-ribosyltransferase	2.4.2.8	MKLM6_2454	Drug metabolism - other enzymes	
+R08239	S-adenosyl-L-methionine:6-thioinosine 5'-monophosphate S-methyltransferase	2.1.1.67	MKLM6_0082	Drug metabolism - other enzymes	
+R08240	6-thioinosine 5'-monophosphate:NAD+ oxidoreductase	1.1.1.205	MKLM6_0064	Drug metabolism - other enzymes	
+R08243	inosine triphosphate pyrophosphatase	3.6.1.66	MKLM6_0468	Drug metabolism - other enzymes	
+R08244	6-thioxanthine 5'-monophosphate:L-glutamine amido-ligase (AMP-forming)	6.3.5.2	MKLM6_0062	Drug metabolism - other enzymes	
+R08245	6-thioguanosine monophosphate:diphosphate phospho-D-ribosyltransferase	2.4.2.8	MKLM6_2454	Drug metabolism - other enzymes	
+R08246	S-adenosyl-L-methionine:6-thioguanosine monophosphate S-methyltransferase	2.1.1.67	MKLM6_0082	Drug metabolism - other enzymes	
+R08280	4-glutathionyl cyclophosphamide hydrolase	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Drug metabolism - cytochrome P450	
+R08281	alcophosphamide:NAD+ oxidoreductase	1.1.1.1	MKLM6_0241	Drug metabolism - cytochrome P450	
+R08306	2-phenyl-1,3-propanediol monocarbamate:NAD+ oxidoreductase	1.1.1.1	MKLM6_0241	Drug metabolism - cytochrome P450	
+R08310	4-hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one:NAD+ oxidoreductase	1.1.1.1	MKLM6_0241	Drug metabolism - cytochrome P450	
+R08346	Citalopram:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	MKLM6_3449	Drug metabolism - cytochrome P450	
+R08347	Demethylcitalopram:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	MKLM6_3449	Drug metabolism - cytochrome P450	
+R08348	didemethylcitalopram:oxygen oxidoreductase(deaminating)(flavin-containing)	1.4.3.4	MKLM6_3449	Drug metabolism - cytochrome P450	
+R08359	S-adenosylmethioninamine:cadaverine 3-aminopropyltransferase	2.5.1.16	MKLM6_1079 or MKLM6_1836 or MKLM6_4049	Glutathione metabolism	
+R08549	2-oxoglutarate:NAD+ 2-oxidoreductase (CoA-succinylating);	1.2.1.105	MKLM6_2471 or MKLM6_0165 or MKLM6_2472		
+R08572	ATP:(R)-glycerate 2-phosphotransferase	2.7.1.165	MKLM6_1849	Pentose phosphate pathway;Glycine, serine and threonine metabolism;Glycerolipid metabolism;Glyoxylate and dicarboxylate metabolism;Methane metabolism	
+R08620	2-(2'-methylthio)ethylmalate hydroxymutase	4.2.1.170	MKLM6_0744	Glucosinolate biosynthesis	
+R08622	homomethionine:2-oxo-acid aminotransferase	2.6.1.-	MKLM6_3339	Glucosinolate biosynthesis	
+R08624	2-(3'-methylthio)propylmalate hydroxymutase	4.2.1.170	MKLM6_0744	Glucosinolate biosynthesis	
+R08626	dihomomethionine:2-oxo-acid aminotransferase	2.6.1.-	MKLM6_3339	Glucosinolate biosynthesis	
+R08628	2-(3'-methylthio)butylmalate hydroxymutase	4.2.1.170	MKLM6_0744	Glucosinolate biosynthesis	
+R08634	2-(3'-methylthio)pentylmalate hydroxymutase	4.2.1.170	MKLM6_0744	Glucosinolate biosynthesis	
+R08639	alpha-D-glucose 1,6-phosphomutase	5.4.2.2;5.4.2.5	MKLM6_4213 or MKLM6_0637	Starch and sucrose metabolism;Streptomycin biosynthesis	
+R08641	2-(3'-methylthio)hexylmalate hydroxymutase	4.2.1.170	MKLM6_0744	Glucosinolate biosynthesis	
+R08645	2-(3'-methylthio)heptylmalate hydroxymutase	4.2.1.170	MKLM6_0744	Glucosinolate biosynthesis	
+R08648	pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)	2.2.1.6	MKLM6_3333 or MKLM6_3334	Valine, leucine and isoleucine biosynthesis	
+R08678	S-sulfanylglutathione:oxygen oxidoreductase	1.13.11.18	MKLM6_3751	Sulfur metabolism	
+R08689	(E)-4-hydroxy-3-methylbut-2-en-1-yl-diphosphate:oxidized ferredoxin oxidoreductase (hydrating)	1.17.7.1	MKLM6_2623	Terpenoid backbone biosynthesis	
+R08968	ATP:N-acetyl-D-glucosamine 1-phosphotransferase	2.7.1.162;2.7.1.-	MKLM6_1429	Amino sugar and nucleotide sugar metabolism	
+R09081	carboxyspermidine carboxy-lyase (spermidine-forming)	4.1.1.96	MKLM6_2729	Arginine and proline metabolism	
+R09082	carboxynorspermidine carboxy-lyase (norspermidine-forming)	4.1.1.96	MKLM6_2729	Arginine and proline metabolism	
+R09099	5,10-methylenetetrahydromethanopterin:glycine hydroxymethyltransferase	2.1.2.1	MKLM6_1848	Methane metabolism	
+R09124	trimethylamine:coenzyme M methyltransferase	2.1.1.247;2.1.1.250	MKLM6_3727	Methane metabolism	
+R09127	ethanol:cytochrome c oxidoreductase	1.1.2.7	MKLM6_3210 or MKLM6_3207	Glycolysis / Gluconeogenesis;Pyruvate metabolism	
+R09128	2-chloroethanol:cytochrome c oxidoreductase	1.1.2.7	MKLM6_3210 or MKLM6_3207	Chloroalkane and chloroalkene degradation	
+R09136	2,3,5-trichlorodienelactone lactonohydrolase	3.1.1.45	MKLM6_1653	Chlorocyclohexane and chlorobenzene degradation	
+R09220	dienelactone hydrolase	3.1.1.45	MKLM6_1653	Toluene degradation	
+R09222	dienelactone hydrolase	3.1.1.45	MKLM6_1653	Toluene degradation	
+R09248	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 5 isopentenyl units)	2.5.1.90	MKLM6_0201	Terpenoid backbone biosynthesis	
+R09304		2.4.1.255	MKLM6_3566 or MKLM6_3567	Other types of O-glycan biosynthesis	
+R09365	5-methyltetrahydropteroyltri-L-glutamate:L-selenohomocysteine Se-methyltransferase	2.1.1.13;2.1.1.14	MKLM6_0346 or MKLM6_0265	Selenocompound metabolism	
+R09372	methaneselenol:NADP+ oxidoreductase	1.8.1.9	MKLM6_3284	Selenocompound metabolism	
+R09381	acyl-ACP:1-acyl-sn-glycerol-3-phosphate 2-O-acyltransferase	2.3.1.51	MKLM6_0339		
+R09382	CTP,CTP,ATP:tRNA cytidylyl,cytidylyl,adenylyltransferase	2.7.7.72	MKLM6_0578		
+R09383	CTP:tRNA cytidylyltransferase	2.7.7.72	MKLM6_0578		
+R09384	CTP:tRNA cytidylyltransferase	2.7.7.72	MKLM6_0578		
+R09386	ATP:tRNA adenylyltransferase	2.7.7.72	MKLM6_0578		
+R09394	GTP 3',8-cyclase [(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate-forming]	4.1.99.22	MKLM6_0498	Folate biosynthesis	
+R09395	thiocarboxylated molybdopterin synthase:cyclic pyranopterin phosphate sulfurtransferase	2.8.1.12	MKLM6_0444	Folate biosynthesis	
+R09409	glutathione-S-transferase	2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Metabolism of xenobiotics by cytochrome P450	
+R09499	hydrogen-sulfide:flavocytochrome c oxidoreductase	1.8.2.3	MKLM6_3092 or MKLM6_3093	Sulfur metabolism	
+R09509	carboxybiotinyl-[protein] carboxy-lyase	7.2.4.1	MKLM6_1812		
+R09518	methane,quinol:oxygen oxidoreductase	1.14.18.3	MKLM6_3758 or MKLM6_3997 or MKLM6_3759 or MKLM6_3996 or MKLM6_3760 or MKLM6_3998	Methane metabolism	
+R09543	S-adenosyl-L-methionine:malonyl-[acyl-carrier protein] O-methyltransferase	2.1.1.197	MKLM6_1706	Biotin metabolism	
+R09594	tetrahydromethanopterin:alpha-L-glutamate ligase (ADP-forming)	6.3.2.33	MKLM6_1779	Folate biosynthesis	
+R09597	L-lysine:[tRNA(Ile2)]-cytidine34 ligase (AMP-forming)	6.3.4.19	MKLM6_0883		
+R09640	ATP:1,6-anhydro-N-acetylmuramate 6-phosphotransferase	2.7.1.170	MKLM6_0760		
+R09660	S-methyl-5'-thioadenosine amidohydrolase	3.5.4.31	MKLM6_2748	Cysteine and methionine metabolism	
+R09668	S-methyl-5'-thioinosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase	2.4.2.44	MKLM6_2455	Cysteine and methionine metabolism	
+R09671	4,4'-diapolycopene,AH2:oxygen oxidoreductase (4,4'-hydroxylating)	1.14.99.44	MKLM6_3290	Carotenoid biosynthesis	
+R09675	ATP:3'-dephospho-CoA 5-triphospho-alpha-D-ribosyltransferase	2.4.2.52	MKLM6_1780		
+R09676	UDP-N-acetyl-D-glucosamine:protein-O-beta-N-acetyl-D-glucosaminyl transferase	2.4.1.255	MKLM6_3566 or MKLM6_3567		
+R09690	4,4'-diapophytoene:FAD oxidoreductase	1.3.8.2	MKLM6_3292		
+R09697	UDP-N-acetylglucosamine hydro-lyase (inverting; UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-hexos-4-ulose-forming)	4.2.1.115	MKLM6_3134	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R09707	(5S,6S)-6-amino-5-hydroxycyclohexa-1,3-diene-1-carboxyate isomerase	5.3.3.17	MKLM6_2085	Phenazine biosynthesis	
+R09719	4,4'-diapophytoene:FAD oxidoreductase	1.3.8.2	MKLM6_3292		
+R09725	pimeloyl-[acyl-carrier protein]-methyl-ester hydrolase	3.1.1.85	MKLM6_1705	Biotin metabolism	
+R09726	ATP:molybdopterin adenylyltransferase	2.7.7.75	MKLM6_0326	Folate biosynthesis	
+R09727	4,4'-diaponeurosporene,AH2:oxygen 4-oxidoreductase	1.14.99.44	MKLM6_3290		
+R09728	4,4'-diaponeurosporen-4-al,AH2:oxygen 4-oxidoreductase	1.14.99.44	MKLM6_3290		
+R09735	adenylyl-molybdopterin:molybdate molybdate transferase (AMP-forming)	2.10.1.1	MKLM6_2195	Folate biosynthesis	
+R09736	S-adenosyl-L-methione:demethylmenaquinol methyltransferase	2.1.1.163	MKLM6_0704	Ubiquinone and other terpenoid-quinone biosynthesis	
+R09744	4,4'-diapophytoene:FAD oxidoreductase	1.3.8.2	MKLM6_3292		
+R09745	4,4'-diapophytoene:FAD oxidoreductase	1.3.8.2	MKLM6_3292		
+R09746	4,4'-diapophytoene:FAD oxidoreductase	1.3.8.2	MKLM6_3292	Carotenoid biosynthesis	
+R09763	CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)2-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [(2->8) glycosidic bond-forming]	2.4.99.14	MKLM6_2696		
+R09764		2.4.99.14	MKLM6_2696		
+R09766	CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)3-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [(2->4) glycosidic bond-forming]	2.4.99.15	MKLM6_2696		
+R09768	D-glycero-D-manno-heptose 7-phosphate aldose-ketose-isomerase	5.3.1.28	MKLM6_4189		
+R09769	D-glycero-alpha-D-manno-heptose 7-phosphate aldose-ketose-isomerase	5.3.1.28	MKLM6_4189	Lipopolysaccharide biosynthesis	
+R09771	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate 7-phosphohydrolase	3.1.3.83	MKLM6_0338	Lipopolysaccharide biosynthesis	
+R09780	D-arabino-hex-3-ulose-6-phosphate isomerase	5.3.1.27	MKLM6_0537	Pentose phosphate pathway	
+R09793	presqualene-diphosphate diphosphate-lyase (15-cis-4,4'-diapophytoene-forming)	2.5.1.96	MKLM6_1251	Carotenoid biosynthesis	
+R09845	CAAX protease	3.4.22.-;3.4.24.84	MKLM6_3830	Terpenoid backbone biosynthesis	
+R09959	7,8-dihydroneopterin 3'-triphosphate acetaldehyde-lyase (6-carboxy-5,6,7,8-tetrahydropterin and triphosphate-forming)	4.1.2.50	MKLM6_1597 or MKLM6_3073	Folate biosynthesis	
+R09978	7-carboxy-7-carbaguanine:ammonia ligase (ADP-forming)	6.3.4.20	MKLM6_0778	Folate biosynthesis	
+R10002	6-carboxy-5,6,7,8-tetrahydropterin ammonia-lyase	4.3.99.3	MKLM6_0777	Folate biosynthesis	
+R10035	beta-D-glucoside glucohydrolase	3.2.1.21	MKLM6_2249	Cyanoamino acid metabolism	
+R10039	beta-D-glucoside glucohydrolase	3.2.1.21	MKLM6_2249	Cyanoamino acid metabolism	
+R10040	beta-D-glucoside glucohydrolase	3.2.1.21	MKLM6_2249	Cyanoamino acid metabolism	
+R10052	(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase	1.1.1.85	MKLM6_0742 or MKLM6_1533		
+R10079	carbamate hydro-lyase;	4.2.1.104	MKLM6_1666		
+R10092	carbonate hydro-lyase (carbon-dioxide-forming)	4.2.1.1	MKLM6_0465 or MKLM6_1084 or MKLM6_2179	Nitrogen metabolism	
+R10115	malonyl-[acyl-carrier protein]-methyl-ester:malonyl-[acyl-carrier protein] C-acyltransferase	2.3.1.41;2.3.1.179	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Biotin metabolism	
+R10116	3-hydroxyglutaryl-[acp]-methyl-ester:NADP+ oxidoreductase	1.1.1.100	MKLM6_1061 or MKLM6_1342	Biotin metabolism	
+R10117	3-hydroxyglutaryl-[acp]-methyl-ester hydro-lyase	4.2.1.59	MKLM6_3089	Biotin metabolism	
+R10119	glutaryl-[acp]-methyl-ester:malonyl-[acyl-carrier protein] C-acyltransferase (decarboxylating)	2.3.1.41;2.3.1.179	MKLM6_1059 or MKLM6_2644 or MKLM6_1062 or MKLM6_1235	Biotin metabolism	
+R10120	3-hydroxypimeloyl-[acp]-methyl-ester:NADP+ oxidoreductase	1.1.1.100	MKLM6_1061 or MKLM6_1342	Biotin metabolism	
+R10121	3-hydroxypimeloyl-[acp]-methyl-ester hydro-lyase	4.2.1.59	MKLM6_3089	Biotin metabolism	
+R10124	pimeloyl-[acyl-carrier protein]:L-alanine C-pimeloyltransferase (decarboxylating)	2.3.1.47	MKLM6_1704	Biotin metabolism	
+R10147	L-aspartate-4-semialdehyde hydro-lyase [adding pyruvate and cyclizing; (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate-forming]	4.3.3.7	MKLM6_2117	Monobactam biosynthesis;Lysine biosynthesis	
+R10151			MKLM6_2457 or MKLM6_3233 or MKLM6_2458	Sulfur metabolism	
+R10170	(2R,3S)-3-isopropylmalate hydro-lyase (2-isopropylmaleate-forming)	4.2.1.33	MKLM6_0744 or MKLM6_0743		
+R10182	CTP:N,N'-diacetyllegionaminate cytidylyltransferase	2.7.7.82	MKLM6_3560	Amino sugar and nucleotide sugar metabolism	
+R10187	UDP-N,N'-diacetylbacillosamine hydrolase (2-epimerising)	3.2.1.184	MKLM6_3557	Amino sugar and nucleotide sugar metabolism	
+R10209	tRNA-guanosine34:7-aminomethyl-7-carbaguanine tRNA-D-ribosyltransferase	2.4.2.29	MKLM6_1110		
+R10220	S-adenosyl-L-methionine:7-aminomethyl-7-deazaguanosine ribosyltransferase (ribosyl isomerizing; L-methionine, adenine releasing)	2.4.99.17	MKLM6_1988		
+R10221	6-phospho-D-gluconate:NAD+ 2-oxidoreductase (decarboxylating)	1.1.1.343;1.1.1.351	MKLM6_2897	Pentose phosphate pathway	
+R10223	tRNA(adenine34) aminohydrolase	3.5.4.33	MKLM6_3887		
+R10247	1-deoxy-D-xylulose 5-phosphate:thiol sulfurtransferase	2.8.1.10	MKLM6_0284	Thiamine metabolism	
+R10337	5-phospho-alpha-D-ribose 1-diphosphate:4-aminobenzoate 5-phospho-beta-D-ribofuranosyltransferase (decarboxylating)	2.4.2.54	MKLM6_2459		
+R10460	GDP-4-amino-4,6-dideoxy-alpha-D-mannose:2-oxoglutarate aminotransferase	2.6.1.102	MKLM6_3558	Amino sugar and nucleotide sugar metabolism;O-Antigen nucleotide sugar biosynthesis	
+R10463	ATP:L-threonyl,bicarbonate adenylyltransferase	2.7.7.87	MKLM6_3888		
+R10486	maltose 6'-phosphate phosphohydrolase	3.1.3.90	MKLM6_0805 or MKLM6_2811	Starch and sucrose metabolism	
+R10491	S-adenosyl-L-methionine:gamma-tocotrienol 5-O-methyltransferase	2.1.1.95	MKLM6_2727	Ubiquinone and other terpenoid-quinone biosynthesis	
+R10492	S-adenosyl-L-methionine:delta-tocotrienol 5-O-methyltransferase	2.1.1.95	MKLM6_2727	Ubiquinone and other terpenoid-quinone biosynthesis	
+R10507	L-proline:(acceptor) oxidoreductase	1.5.-.-	MKLM6_3258	Arginine and proline metabolism;Carbapenem biosynthesis	
+R10645	tRNA (N6-dimethylallyladenosine):sulfur-donor,S-adenosyl-L-methionine C2-methylthiotransferase	2.8.4.3	MKLM6_0781		
+R10646		2.8.4.3	MKLM6_0781		
+R10647		2.8.4.3	MKLM6_0781		
+R10649	tRNA (N6-L-threonylcarbamoyladenosine37):sulfur-donor,S-adenosyl-L-methionine C2-methylthiotransferase	2.8.4.5	MKLM6_2883		
+R10652	[ribosomal protein S12]-L-aspartate:sulfur-donor,S-adenosyl-L-methionine C3-methylthiotransferase	2.8.4.4	MKLM6_3814		
+R10707	acetyl-CoA:malonyl-[acyl-carrier protein] C-acetyltransferase (decarboxylating)	2.3.1.180	MKLM6_1344	Fatty acid biosynthesis	
+R10712	2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate 2-methyl-4-aminopyrimidine-5-methenyltransferase	2.5.1.3	MKLM6_2527	Thiamine metabolism	
+R10713	primary alcohol:cytochrome cL oxidoreductase	1.1.2.7	MKLM6_3210 or MKLM6_3207		
+R10802	5,6,7,8-tetrahydromethanopterin:acceptor 5,6-oxidoreductase	1.5.99.15	MKLM6_1700	Folate biosynthesis	
+R10806	S-adenosyl-L-methionine:[protein]-L-glutamine (N5-glutamine)-methyltransferase	2.1.1.297;2.1.1.298	MKLM6_0654 or MKLM6_3645 or MKLM6_2511		
+R10816	5'-triphospho-[mRNA] diphosphatase	3.6.1.-	MKLM6_2689		
+R10817	D-psicose 3-epimerase	5.1.3.30;5.1.3.31	MKLM6_1146		
+R10818	D-tagatose 3-epimerase	5.1.3.31	MKLM6_1146		
+R10831		3.2.1.52	MKLM6_2453	Glycosaminoglycan degradation	
+R10859	(E)-4-hydroxy-3-methylbut-2-en-1-yl-diphosphate:oxidized flavodoxin oxidoreductase	1.17.7.3	MKLM6_2623	Terpenoid backbone biosynthesis	
+R10866	pyruvate:flavodoxin 2-oxidoreductase (CoA-acetylating)	1.2.7.-	MKLM6_3175	Pyruvate metabolism;Carbon fixation pathways in prokaryotes	
+R10880			MKLM6_2421	Monobactam biosynthesis	
+R10902	tyramine:L-glutamate gamma-ligase (ADP-forming)	6.3.4.24	MKLM6_1783	Methane metabolism	
+R10907	beta-D-glucose-6-phosphate:NAD+ 1-oxidoreductase	1.1.1.363;1.1.1.388	MKLM6_2894 or MKLM6_3579	Pentose phosphate pathway	
+R10935		4.2.3.153	MKLM6_2030	Methane metabolism	
+R10939	(4S)-4-hydroxy-5-phosphooxypentane-2,3-dione aldose-ketose-isomerase	5.3.1.32	MKLM6_2861		
+R10948	ATP:HCO3- phosphotransferase	6.3.5.5	MKLM6_1019 or MKLM6_1018		
+R10949		6.3.5.5	MKLM6_1019 or MKLM6_1018		
+R10970	ATP:6-deoxy-6-sulfo-D-fructose 1-phosphotransferase	2.7.1.184	MKLM6_2106		
+R10991	2-aminobutanoate:2-oxoglutarate aminotransferase	2.6.1.42	MKLM6_3339	Cysteine and methionine metabolism	
+R10993	L-glutamate:2-aminobutanoate gamma-ligase (ADP-forming)	6.3.2.2	MKLM6_3078	Cysteine and methionine metabolism	
+R10994	gamma-L-glutamyl-L-2-aminobutyrate:glycine ligase (ADP-forming)	6.3.2.3	MKLM6_0418	Cysteine and methionine metabolism	
+R10996		1.2.4.4	MKLM6_3832	Propanoate metabolism	
+R10997		1.2.4.4	MKLM6_3832	Propanoate metabolism	
+R11024	ATP:N-acetyl-D-muramate 1-phosphotransferase	2.7.1.221	MKLM6_1429	Amino sugar and nucleotide sugar metabolism	
+R11025	UTP:N-acetyl-alpha-D-muramate-1-phosphate uridylyltransferase	2.7.7.99	MKLM6_1428	Amino sugar and nucleotide sugar metabolism	
+R11037	7,8-dihydroneopterin:oxygen oxidoreductase	1.13.11.81	MKLM6_0599	Folate biosynthesis	
+R11039	[5-(aminomethyl)furan-3-yl]methyl phosphate kinase	2.7.4.31	MKLM6_1786	Methane metabolism	
+R11040	(4-{4-[2-(gamma-L-glutamylamino)ethyl]phenoxymethyl}furan-2-yl)methanamine synthase	2.5.1.131	MKLM6_1784	Methane metabolism	
+R11073	7,8-dihydroneopterin 2'-epimerase	5.1.99.8	MKLM6_0599	Folate biosynthesis	
+R11102	5-phospho-alpha-D-ribose-1-diphosphate:4-hydroxybenzoate 5-phospho-beta-D-ribofuranosyltransferase (decarboxylating)	2.4.2.54	MKLM6_2459	Folate biosynthesis	
+R11173	adenosylcobalamin-5'-phosphate phosphohydrolase	3.1.3.73	MKLM6_2370		
+R11174	adenosylcobinamide-GDP:alpha-ribazole adenosylcobinamide-phosphotransferase	2.7.8.26	MKLM6_0390		
+R11188	nucleoside-3',5'-bisphosphate 3'-phosphohydrolase	3.1.3.97	MKLM6_2640		
+R11225	dimethylallyl-phosphate:FMNH2 prenyltransferase	2.5.1.129	MKLM6_0589	Riboflavin metabolism	
+R11319	ADP:thiamin-diphosphate phosphotransferase	2.7.4.3	MKLM6_0745	Thiamine metabolism	
+R11323	dTTP diphosphohydrolase	3.6.1.9;3.6.1.-	MKLM6_3802 or MKLM6_0451	Pyrimidine metabolism	
+R11329	Fe-coproporphyrin-III ferro-lyase (coproporphyrin-III-forming)	4.99.1.9	MKLM6_1353	Porphyrin metabolism	
+R11372	(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate lyase (cyclic pyranopterin phosphate-forming)	4.6.1.17	MKLM6_0446	Folate biosynthesis	
+R11396	CTP:8-amino-3,8-dideoxy-D-manno-octulosonate cytidylyltransferase	2.7.7.90	MKLM6_2504		
+R11443	L-leucyl-tRNA(Leu):[protein] N-terminal L-lysine leucyltransferase	2.3.2.6	MKLM6_1153		
+R11444	L-leucyl-tRNA(Leu):[protein] N-terminal L-arginine leucyltransferase	2.3.2.6	MKLM6_1153		
+R11524	[CysO sulfur-carrier protein]-L-cysteine carboxypeptidase	3.13.1.6	MKLM6_3646		
+R11528	L-cysteine:sulfur-acceptor sulfurtransferase	2.8.1.7	MKLM6_3238 or MKLM6_3507 or MKLM6_2080 or MKLM6_2550 or MKLM6_3199		
+R11529	[enzyme]-S-sulfanylcysteine:sulfur-acceptor sulfurtransferase	2.8.1.7	MKLM6_3238 or MKLM6_3507		
+R11547	L-leucyl-tRNA(Leu):[protein] N-terminal L-glutamate leucyltransferase	2.3.2.29	MKLM6_1152		
+R11548	L-leucyl-tRNA(Leu):[protein] N-terminal L-aspartate leucyltransferase	2.3.2.29	MKLM6_1152		
+R11581	GTP:molybdenum cofactor guanylyltransferase	2.7.7.77	MKLM6_1005	Folate biosynthesis	
+R11582	CTP:molybdenum cofactor cytidylyltransferase	2.7.7.76	MKLM6_4076	Folate biosynthesis	
+R11671			MKLM6_1061 or MKLM6_1342 or MKLM6_1343	Prodigiosin biosynthesis	
+R11743	formylmethanofuran:ferredoxin oxidoreductase	1.2.7.12	MKLM6_0652		
+R11765	tetrahydrobiopterin:NADP+ oxidoreductase (7,8-dihydrobiopterin-forming)	1.5.1.3;1.5.1.33	MKLM6_4240 or MKLM6_0597	Folate biosynthesis	
+R11785	N-acetyl-D-muramate 6-phosphate phosphohydrolase	3.1.3.105	MKLM6_2746	Amino sugar and nucleotide sugar metabolism	
+R11786	(ribonucleotide)n-2',3'-cyclic phosphate 3'-nucleotidohydrolase	3.1.4.58	MKLM6_0535		
+R11816	protoheme,donor:oxygen oxidoreductase (biliverdin-IX-delta-forming)	1.14.99.58	MKLM6_0495 or MKLM6_0678	Porphyrin metabolism	
+R11817	protoheme,donor:oxygen oxidoreductase (biliverdin-IX-beta-forming)	1.14.99.58	MKLM6_0495 or MKLM6_0678	Porphyrin metabolism	
+R11894	ATP:5-fluorouridine-diphosphate phosphotransferase	2.7.4.6	MKLM6_1394	Drug metabolism - other enzymes	
+R11895	ATP:5-fluorodeoxyuridine-diphosphate phosphotransferase	2.7.4.6	MKLM6_1394	Drug metabolism - other enzymes	
+R11896	5-fluorodeoxyuridine-triphosphate diphosphohydrolase	3.6.1.23	MKLM6_0636	Drug metabolism - other enzymes	
+R11906	isoniazid:hydrogen-peroxide oxidoreductase	1.11.1.21;1.11.2.2	MKLM6_2586	Drug metabolism - other enzymes	
+R11914	4,4'-diapolycopene-4,4'-dial,donor:oxygen oxidoreductase (4,4'-diapolycopene-4,4'-dioate-forming)	1.2.99.10	MKLM6_3291	Carotenoid biosynthesis	
+R12000	siroheme carboxy-lyase	4.1.1.111	MKLM6_0753 or MKLM6_0754 or MKLM6_0755 or MKLM6_0756	Porphyrin metabolism	
+R12024	N-(4-oxoglutaryl)-L-cysteinylglycine amidohydrolase	3.5.1.128	MKLM6_0448		
+R12049		2.3.1.-	MKLM6_1234 or MKLM6_3294 or MKLM6_3408 or MKLM6_3409	Biosynthesis of various antibiotics	
+R12184	ATP:Cob(II)yrinate diamide Cobeta-adenosyltransferase	2.5.1.17	MKLM6_3280	Porphyrin metabolism	
+R12240	acyl-[acyl-carrier protein]:phosphate acyltransferase	2.3.1.274	MKLM6_1345	Glycerolipid metabolism	
+R12241	acyl phosphoate:sn-glycerol 3-phosphate acyltransferase	2.3.1.275	MKLM6_0600	Glycerolipid metabolism;Glycerophospholipid metabolism	
+R12390	O-acetyl-ADP-D-ribose carboxylesterase	3.1.1.106	MKLM6_3180		
+R12391	O-acetyl-ADP-D-ribose carboxylesterase	3.1.1.106	MKLM6_3180		
+R12423	[lipoyl-carrier protein E2]-N6-(octanoyl)-L-lysine:[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster sulfurtransferase	2.8.1.8	MKLM6_3071	Lipoic acid metabolism	
+R12424	[glycine cleavage system H]-N6-octanoyl-L-lysine:[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster sulfurtransferase	2.8.1.8	MKLM6_3071	Lipoic acid metabolism	
+R12427	octanoyl-[acp]:lipoyl-carrier-protein-E2 N-octanoyltransferase	2.3.1.181	MKLM6_3070	Lipoic acid metabolism	
+R12428	octanoyl-[acp]:Glycine-cleavage-system-H N-octanoyltransferase	2.3.1.181	MKLM6_3070	Lipoic acid metabolism	
+R12500	queuosine34 in tRNA:acceptor oxidoreductase	1.17.99.6	MKLM6_2736		
+R12554		5.1.3.-	MKLM6_3134	O-Antigen nucleotide sugar biosynthesis	
+R12605		1.3.99.-	MKLM6_1427	Porphyrin metabolism	
+R12644	7,8-dihydrobiopterin:NADP+ oxidoreductase	1.5.1.33	MKLM6_0597	Folate biosynthesis	
+R12755	ATP:1,6-anhydro-N-acetyl-beta-muramate 6-phosphotransferase	2.7.1.170	MKLM6_0760	Amino sugar and nucleotide sugar metabolism	
+R12808			MKLM6_4039	Teichoic acid biosynthesis	
+R12812		6.1.1.13	MKLM6_3834	Teichoic acid biosynthesis	
+R12814			MKLM6_4039	Teichoic acid biosynthesis	
+R12851	adenylosuccinate lyase	4.3.2.2	MKLM6_2880	Purine metabolism	
+R12852	guanylate kinase	2.7.4.8	MKLM6_4319	Purine metabolism	
+R12853	nucleoside-diphosphate kinase	2.7.4.6	MKLM6_1394	Purine metabolism	
+R12863		6.1.1.13	MKLM6_3834	Teichoic acid biosynthesis	
+R12867		6.1.1.13	MKLM6_3834	Teichoic acid biosynthesis	
+R12871		6.1.1.13	MKLM6_3834	Teichoic acid biosynthesis	
+R12873		6.1.1.13	MKLM6_3834	Teichoic acid biosynthesis	
+R12875		6.1.1.13	MKLM6_3834	Teichoic acid biosynthesis	
+R12885		1.1.1.25	MKLM6_0528	Biosynthesis of various plant secondary metabolites	
+R12895		4.1.1.-	MKLM6_0589	Terpenoid backbone biosynthesis	
+R12896	prenyl diphosphate diphosphate phosphohydrolase	3.6.1.76;3.6.1.-	MKLM6_0995	Riboflavin metabolism	
+R12898		2.4.1.315	MKLM6_1824	Teichoic acid biosynthesis	
+R12899		2.4.1.315	MKLM6_1824	Teichoic acid biosynthesis	
+R12904		6.1.1.13	MKLM6_3834	Teichoic acid biosynthesis	
+R12933		6.3.3.3	MKLM6_1707		
+R12934		6.3.3.3	MKLM6_1707	Biotin metabolism	
+R12958	dIMP phosphohydrolase	3.1.3.5;3.1.3.89	MKLM6_3445 or MKLM6_3468 or MKLM6_3569		
+R13051	daidzein 7-O-glucoside glucohydrolase	3.2.1.21	MKLM6_2249	Degradation of flavonoids	
+R13052	genistein 7-O-beta-D-glucoside glucohydrolase	3.2.1.21	MKLM6_2249	Degradation of flavonoids	
+R13065	quercetin 3-O-glucoside glucohydrolase	3.2.1.21	MKLM6_2249	Degradation of flavonoids	
+R13081	naringenin 7-O-beta-D-glucoside glucohydrolase	3.2.1.21	MKLM6_2249	Degradation of flavonoids	
+R00647		1.1.3.8		Ascorbate and aldarate metabolism	
+R01652		1.1.1.85		Valine, leucine and isoleucine biosynthesis	
+R02317	(S)-2-amino-6-oxohexanoate hydro-lyase (spontaneous)	1.2.1.31;1.4.1.18		Lysine degradation;Tropane, piperidine and pyridine alkaloid biosynthesis	
+R02962				Tyrosine metabolism	
+R03166				Porphyrin metabolism	
+R03186		1.11.1.11		Ascorbate and aldarate metabolism	
+R03445		2.6.1.7;2.6.1.63		Tryptophan metabolism	
+R03672				Tyrosine metabolism	
+R03674				Tyrosine metabolism	
+R03758		1.1.1.381		Glycine, serine and threonine metabolism	
+R03954		2.6.1.7;2.6.1.63		Tryptophan metabolism	
+R04500				Chlorocyclohexane and chlorobenzene degradation	
+R04578				Monoterpenoid biosynthesis	
+R04639	2-amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate hydrolase	3.5.4.16	MKLM6_1354	Folate biosynthesis	
+R04701				Isoquinoline alkaloid biosynthesis	
+R04769	salutaridinol 7-O-acetate acetate-lyase (thebaine forming)	4.2.99.24		Isoquinoline alkaloid biosynthesis	
+R05041				Retinol metabolism	
+R05048	2,5-diaminopyrimidine nucleoside triphosphate mutase	3.5.4.16	MKLM6_1354	Folate biosynthesis	
+R05098				Caprolactam degradation	
+R05455				Ubiquinone and other terpenoid-quinone biosynthesis	
+R05483				Chlorocyclohexane and chlorobenzene degradation	
+R05484				Chlorocyclohexane and chlorobenzene degradation	
+R05824				Indole alkaloid biosynthesis	
+R05826				Indole alkaloid biosynthesis	
+R05844				Indole alkaloid biosynthesis	
+R05845				Indole alkaloid biosynthesis	
+R05846				Indole alkaloid biosynthesis	
+R05887				Isoquinoline alkaloid biosynthesis	
+R05889				Isoquinoline alkaloid biosynthesis	
+R06063					
+R06064					
+R06194				Retinol metabolism	
+R06650				Biosynthesis of type II polyketide products	
+R06830		1.1.1.276;1.1.1.387			
+R06982	S-(hydroxymethyl)glutathione formaldehyde-lyase (glutathione-forming);	4.4.1.22		Methane metabolism	
+R07009				Metabolism of xenobiotics by cytochrome P450	
+R07010				Metabolism of xenobiotics by cytochrome P450	
+R07011				Metabolism of xenobiotics by cytochrome P450	
+R07012				Metabolism of xenobiotics by cytochrome P450	
+R07198	liquiritigenin,[reduced NADPH---hemoprotein reductase]:oxygen oxidoreductase (licodione-forming)	1.14.14.162			
+R07316		3.5.1.110;4.2.1.104		Nitrogen metabolism	
+R07406		1.1.1.262	MKLM6_0747	Vitamin B6 metabolism	
+R07679		1.3.2.3		Ascorbate and aldarate metabolism	
+R07947				Nicotinate and nicotinamide metabolism	
+R07948				Nicotinate and nicotinamide metabolism	
+R08020				Nitrotoluene degradation	
+R08279				Drug metabolism - cytochrome P450	
+R08289				Drug metabolism - cytochrome P450	
+R08358				Glutathione metabolism	
+R08361				Glutathione metabolism	
+R08372					
+R08637	2-Aminobut-2-enoate aminohydrolase (spontaneous)				
+R08698	2-aminoacrylate aminohydrolase				
+R08763	6-iminocyclohexa-2,4-dienone oxidoreductase (dimerizing)	1.10.3.4			
+R08818				Betalain biosynthesis	
+R08820				Betalain biosynthesis	
+R08821				Betalain biosynthesis	
+R08825				Betalain biosynthesis	
+R08827				Betalain biosynthesis	
+R08829				Betalain biosynthesis	
+R08831				Betalain biosynthesis	
+R08833				Betalain biosynthesis	
+R08834				Betalain biosynthesis	
+R08835				Betalain biosynthesis	
+R08837				Betalain biosynthesis	
+R08976		3.1.1.82			
+R09142				Chloroalkane and chloroalkene degradation	
+R09143				Chloroalkane and chloroalkene degradation	
+R09144				Chloroalkane and chloroalkene degradation	
+R09145				Chloroalkane and chloroalkene degradation	
+R09149		1.1.-.-		Chloroalkane and chloroalkene degradation	
+R09274				Aminobenzoate degradation	
+R09367				Selenocompound metabolism	
+R09368				Selenocompound metabolism	
+R09391		1.14.13.105		Limonene degradation	
+R09392		1.14.13.105		Limonene degradation	
+R09431				Metabolism of xenobiotics by cytochrome P450	
+R09432				Metabolism of xenobiotics by cytochrome P450	
+R09433				Metabolism of xenobiotics by cytochrome P450	
+R09434				Metabolism of xenobiotics by cytochrome P450	
+R09885				Steroid degradation	
+R09981				Pyrimidine metabolism	
+R10013				Lysine biosynthesis	
+R10018				Isoquinoline alkaloid biosynthesis	
+R10022					
+R10030		1.14.14.41		Cyanoamino acid metabolism	
+R10034		1.14.14.41		Cyanoamino acid metabolism	
+R10041		1.14.14.44		Cyanoamino acid metabolism	
+R10078		1.14.14.145			
+R10082		1.14.20.7			
+R10097					
+R10245		1.4.3.19			
+R10302					
+R10792	3alpha-hydroxy-3,5-dihydromonacolin L acid hydro-lyase	1.14.14.124		Biosynthesis of various other secondary metabolites	
+R10854		1.1.3.47			
+R10856		1.1.3.47			
+R10914		1.7.3.6			
+R11017		1.4.99.6			
+R11034		4.2.1.159			
+R11049		1.5.3.5;1.5.3.6		Nicotinate and nicotinamide metabolism	
+R11098	2-iminobutanoate aminohydrolase	3.5.99.10;4.3.1.19			
+R11099	2-iminopropanoate aminohydrolase	3.5.99.10;4.1.99.1;4.1.99.2;4.3.1.17			
+R11100		4.1.99.1;4.1.99.2;4.3.1.17;4.3.3.8			
+R11101		4.3.1.19			
+R11148		1.1.1.394			
+R11176				Nicotinate and nicotinamide metabolism	
+R11228		1.14.15.17			
+R11523		3.13.1.6			
+R11550				Biosynthesis of various plant secondary metabolites	
+R11570				Phenazine biosynthesis	
+R11571				Phenazine biosynthesis	
+R11572				Phenazine biosynthesis	
+R11573				Phenazine biosynthesis	
+R11574				Phenazine biosynthesis	
+R11575				Phenazine biosynthesis	
+R11576				Phenazine biosynthesis	
+R11577				Phenazine biosynthesis	
+R11691				Isoquinoline alkaloid biosynthesis	
+R11695				Isoquinoline alkaloid biosynthesis	
+R11709		1.17.98.2			
+R11736		1.14.14.45			
+R11739		1.14.14.45			
+R11865		4.4.1.36			
+R11947		1.13.11.18			
+R12091				Indole alkaloid biosynthesis	
+R12094				Indole alkaloid biosynthesis	
+R12132		1.14.14.150			
+R12140				alpha-Linolenic acid metabolism	
+R12185		2.7.2.2			
+R12268		1.14.14.169			
+R12274		1.14.14.170			
+R12310				Biosynthesis of various plant secondary metabolites	
+R12335				Atrazine degradation	
+R12421				Biosynthesis of various other secondary metabolites	
+R12539		1.14.14.22;1.14.99.46			
+R12683		1.17.99.9			
+R12686		1.4.3.26			
+R12829				Indole alkaloid biosynthesis	
+R12886				Biosynthesis of various plant secondary metabolites	
+R12910		1.14.13.248			
+R12974		1.1.3.29			
+R13023		1.4.1.21			
+R13091					
+R13113		4.4.1.43			
+R13114		4.4.1.43			
+R13140		1.4.3.27			
+R13144				Fructose and mannose metabolism	
+R00382	(deoxyribonucleotide)n:5'-phospho-(deoxyribonucleotide)m ligase (AMP-forming, NMN-forming)	6.5.1.2;6.5.1.6	MKLM6_2525		
+R02887	1,4-beta-D-Glucan glucohydrolase	3.2.1.21;3.2.1.74	MKLM6_2249	Starch and sucrose metabolism	
+R04241	tetrahydropteroyl-gamma-polyglutamate:L-glutamate gamma-ligase (ADP-forming)	6.3.2.17	MKLM6_2492	Folate biosynthesis	
+R05196	1,4-alpha-D-Glucan:1,4-alpha-D-glucan 4-alpha-D-glycosyltransferase	2.4.1.25	MKLM6_0792	Starch and sucrose metabolism	
+R06177		2.4.1.129	MKLM6_2740		
+R10152	sulfide:quinone oxidoreductase	1.8.5.4	MKLM6_0969	Sulfur metabolism	
+R11261		3.2.1.68	MKLM6_0802	Starch and sucrose metabolism	
+R00590	L-serine hydro-lyase	4.3.1.17	MKLM6_4277	Cysteine and methionine metabolism	
+R00698	L-phenylalanine:oxygen oxidoreductase (decarboxylating)	1.11.1.21	MKLM6_2586	Phenylalanine metabolism	
+R08700	[enzyme]-S-sulfanylcysteine:tRNA-uridine sulfurtransferase (ATP-hydrolysing)	2.8.1.13	MKLM6_0184 or MKLM6_2877		
+R08701	tRNA uridine 5-carboxymethylaminomethyl modification		MKLM6_0120 or MKLM6_3538		
+R09083		1.13.11.79	MKLM6_0391	Riboflavin metabolism	
+R11905		2.5.1.18	MKLM6_1066 or MKLM6_2781 or MKLM6_3581 or MKLM6_3974	Drug metabolism - other enzymes	
