@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Methylomonas koyamae		strain: Fw12E-Y	702114	ASM1966990v1	GCA_019669905.1	GenBank	Annotation submitted by Soil Biology and Chemistry, Department of Applied Biosciences, Graduate School of Bioagricultural Sciences, Nagoya University	Complete Genome	4860954	5102400	2021-06-02	4636	PRJDB8300	SAMD00171893
+Methylomonas koyamae		strain: Fw12E-Y	702114	ASM1966990v1	GCF_019669905.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4860954	5102400	2021-06-02	4585	PRJDB8300	SAMD00171893
