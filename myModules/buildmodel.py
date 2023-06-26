@@ -6,16 +6,21 @@ import cobra
 biggunimodel = cobra.io.load_json_model('BIGG\\universal_model_modified.json')
 
 def get_metabolite_from_unibigg(metabolite_id,biggunimodel=biggunimodel):
-    metabolite = biggunimodel.metabolites.get_by_id(metabolite_id)
-    cobra_metabolite = cobra.Metabolite(metabolite_id)
-    cobra_metabolite.name = metabolite.name
-    compartmentid = metabolite.id.split('_')[-1]
-    if compartmentid in ['c','e','p']:
-        cobra_metabolite.compartment = compartmentid
-    else:
-        raise ValueError(metabolite.id+' is not in c,e,p')
-    cobra_metabolite.annotation = metabolite.annotation
-    return cobra_metabolite
+    compartmentid = metabolite_id.split('_')[-1]
+    metaid = metabolite_id[:-1]
+
+    compartmentlist = ['c','e','p','m','t','h']
+    for compartment in compartmentlist:
+        try:
+            metabolite = biggunimodel.metabolites.get_by_id(metaid+compartment)
+            cobra_metabolite = cobra.Metabolite(metabolite_id)
+            cobra_metabolite.name = metabolite.name
+            cobra_metabolite.compartment = compartmentid
+            cobra_metabolite.annotation = metabolite.annotation
+            return cobra_metabolite
+        except:
+            continue
+    raise ValueError(metabolite_id+' cannot be found in biggunimodel')
 
 def add_rxn_from_unibigg(new_model,rxn_id_list,biggunimodel=biggunimodel):
     if not type(rxn_id_list) is list:
