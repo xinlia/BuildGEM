@@ -3,7 +3,27 @@
 
 
 import cobra
+import requests
 biggunimodel = cobra.io.load_json_model('BIGG\\universal_model_modified.json')
+
+
+def add_to_dir(my_dir, key, value):
+    if key in my_dir:
+        if isinstance(my_dir[key], list):
+            my_dir[key].append(value)
+        else:
+            my_dir[key] = [my_dir[key], value]
+    else:
+        my_dir[key] = value
+
+def annolink_to_dict(annolink):
+    annodict = {}
+    for key, item in annolink.items():
+        for idict in item:
+            dict_key = idict.get('link').split('/')[-2]
+            dict_value = idict.get('link').split('/')[-1]
+            add_to_dir(annodict, dict_key, dict_value)
+    return annodict 
 
 def get_metabolite_from_unibigg(metabolite_id,biggunimodel=biggunimodel):
     compartmentid = metabolite_id.split('_')[-1]
@@ -21,6 +41,20 @@ def get_metabolite_from_unibigg(metabolite_id,biggunimodel=biggunimodel):
         except:
             continue
     raise ValueError(metabolite_id+' cannot be found in biggunimodel')
+
+def get_metabolite_from_BIGGurl(metabolite_id):
+    compartmentid = metabolite_id[-1]
+    metaid = metabolite_id[:-2]
+    url = "http://bigg.ucsd.edu/api/v2/universal/metabolites/"+metaid
+    data = requests.get(url).json()
+    cobra_metabolite = cobra.Metabolite(metabolite_id)
+    cobra_metabolite.name = data['name']
+    cobra_metabolite.compartment = compartmentid
+    cobra_metabolite.formula = data['formulae'][0] if not data['formulae']==[] else ''
+    cobra_metabolite.charge = data['charges'][0] if not data['charges']==[] else 0
+    cobra_metabolite.annotation = annolink_to_dict(data['database_links'])
+    return cobra_metabolite
+
 
 def add_rxn_from_unibigg(new_model,rxn_id_list,biggunimodel=biggunimodel):
     if not type(rxn_id_list) is list:
@@ -120,13 +154,13 @@ def add_rxn_by_string(model,rxn_id,rxn_name,rxn_string,biggunimodel=biggunimodel
                 rxn.add_metabolites({meta:coefficient})
         except:
             try:
-                meta = get_metabolite_from_unibigg(compound_id,biggunimodel=biggunimodel)
+                meta = get_metabolite_from_BIGGurl(compound_id)
                 if meta:
                     rxn.add_metabolites({meta:coefficient})
             except:
                 compound = cobra.Metabolite(compound_id)
                 compound.name = compound_id
-                print(compound_id + ' is not in model and unibiggmodel,it need to add name and annotation manually')
+                print('Not in biggunimodel:\t'+compound_id)
                 compound.compartment = compound_id.split('_')[-1]
                 rxn.add_metabolites({compound:coefficient})
     model.add_reactions([rxn])
@@ -134,6 +168,24 @@ def add_rxn_by_string(model,rxn_id,rxn_name,rxn_string,biggunimodel=biggunimodel
 def set_rxn_direction(model,rxn_id,lb,ub):
     model.reactions.get_by_id(rxn_id).lower_bound = lb
     model.reactions.get_by_id(rxn_id).upper_bound = ub
+
+def add_annotation_from_BIGG(reaction,biggunimodel=biggunimodel):
+    id = reaction.id
+    try:
+        reaction.annotation = biggunimodel.reactions.get_by_id(id).annotation
+    except:
+        print('Not in biggunimodel:\t'+id)
+        pass
+
+def add_annotation_from_BIGGurl(reaction):
+    id = reaction.id
+    try:
+        url = "http://bigg.ucsd.edu/api/v2/universal/reactions/"+id
+        data = requests.get(url).json()
+        reaction.annotation = annolink_to_dict(data['database_links'])
+    except:
+        print('Not in biggunimodel:\t'+id)
+        pass
 
 def print_rxn(model,*rxn_id):
     if not rxn_id:

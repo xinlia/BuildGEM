@@ -12,7 +12,8 @@ f.close()
 import pandas as pd
 import re
 KEGG_pathways_entrys = pd.read_csv('KEGG\\KEGG_pathways_entrys.txt', sep='\t',dtype={'pw_ID':str,'pw_name':str,'href':str,'title':str}).drop_duplicates()
-KEGG_pathways_reactions = pd.read_csv('KEGG\\KEGG_pathways_reactions.txt', sep='\t',dtype={'pw_ID':str,'pw_name':str,'coords':str,'href':str,'title':str})
+KEGG_pathways_reactions = pd.read_csv('KEGG\\KEGG_pathways_reactions.txt', sep='\t',dtype={'pw_ID':str,'pw_name':str,'coords':str,'href':str,'title':str,'R_id':str})
+KEGG_pathways_kos = pd.read_csv('KEGG\\KEGG_pathways_kos.txt', sep='\t',dtype={'pw_ID':str,'pw_name':str,'coords':str,'href':str,'title':str,'KO_id':str})
 
 
 def printmyrxn(model, rxn):
